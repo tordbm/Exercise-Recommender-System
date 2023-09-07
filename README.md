@@ -2,7 +2,7 @@
 
 ### How to work with this repo
 
-Run <code>git clone <PATH></code> to clone the repo.
+Run <code>git clone \<PATH>\</code> to clone the repo.
 
 To switch to the dev branch run <code>git checkout dev</code>.
 
