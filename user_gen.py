@@ -22,7 +22,7 @@ for cat in all_categories:
 
 total_users = 1000
 
-def gen_strength_users(total_users, all_categories):
+def gen_users(total_users, all_categories):
     all_users = []
 
     for user_id in range(1, total_users + 1):
@@ -46,8 +46,8 @@ def gen_ratings(all_categories, user_id,  dict_all_exercises):
 
     return user_exercises
 
-strength_users_data = gen_strength_users(total_users, all_categories)
+users_data = gen_users(total_users, all_categories)
 
-df_users = pd.DataFrame(strength_users_data, columns=['userId', 'title', 'rating'])
+df_users = pd.DataFrame(users_data, columns=['userId', 'title', 'rating'])
 
 df_users.to_csv("user_exercises.csv", index=False)
