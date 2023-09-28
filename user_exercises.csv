@@ -1,0 +1,7001 @@
+userId,title,rating
+1,Single-arm palm-in dumbbell shoulder press,3.3
+1,Split Jump,1.6
+1,Quadriceps SMR,1.6
+1,Barbell back squat to box,3.5
+1,Sled Push,4.2
+1,Treadmill running,3.5
+1,Push-press,4.2
+2,Smith machine back squat,2.0
+2,Depth jump box jump,4.3
+2,Lying groin stretch with band,2.3
+2,Barbell glute bridge,4.8
+2,Bear crawl sled drag,1.0
+2,High knees,2.5
+2,Clean and jerk,3.6
+3,Groiner,4.0
+3,Jumping knee up-down,5.0
+3,Pass-through stretch with band,1.5
+3,Barbell Hip Thrust,1.2
+3,Sled Push,2.6
+3,Shadow boxing,4.1
+3,Power snatch-,1.7
+4,Wall sit,2.4
+4,Dumbbell lateral hop,3.3
+4,Alternating standing knee-pull stretch,1.7
+4,Dumbbell floor press,1.9
+4,Sled Push,1.0
+4,Elliptical trainer,2.9
+4,Clean and jerk,1.6
+5,Machine Triceps Extension - Gethin Variation,3.8
+5,Jump Squat,1.8
+5,Child's pose,2.8
+5,Dumbbell floor press,2.3
+5,Bear crawl sled drag,3.6
+5,Stairmaster,3.3
+5,Behind-the-head push-press,2.9
+6,Palms-down wrist curl over bench,2.8
+6,Southpaw sprawl,1.8
+6,Alternating lunge jump,2.8
+6,Board bench press,3.7
+6,Bear crawl sled drag,3.7
+6,Stationary bike,1.6
+6,Push-press,4.7
+7,Dumbbell V-Sit Cross Jab,3.8
+7,Jump Squat,1.3
+7,Crab single-arm reach,3.4
+7,Barbell back squat to box,1.8
+7,Bear crawl sled drag,3.1
+7,Stationary bike,1.2
+7,Push-press,2.5
+8,Vertical jump,1.5
+8,Medicine ball ninja,3.6
+8,Single-leg lying cross-over stretch,2.8
+8,Speed Box Squat,3.3
+8,Tire flip,2.9
+8,Plate push,1.4
+8,Behind-the-head push-press,2.8
+9,TBS High-Bar Back Squat,1.7
+9,Lateral hop,1.3
+9,Lying glute stretch,1.3
+9,Barbell deficit deadlift,4.6
+9,Bear crawl sled drag,4.0
+9,Burpee,2.3
+9,Power snatch-,4.9
+10,Otis-Up,2.3
+10,Depth jump box jump,4.4
+10,Piriformis SMR,1.2
+10,Board bench press,2.2
+10,Tire flip,3.6
+10,Sled push-,2.8
+10,Clean and jerk,2.7
+11,Wall walk,3.9
+11,Medicine ball ninja,4.0
+11,Quadriceps SMR,2.3
+11,Glute Ham Raise,4.6
+11,Dumbbell farmer's walk,4.2
+11,Stair climber,2.0
+11,Push-press,2.7
+12,Seated Calf Raise,3.8
+12,90-degree jump squat,1.3
+12,Superman,3.0
+12,Sumo deadlift,2.6
+12,Sled Push,3.3
+12,Bear crawl fire feet,3.5
+12,Power snatch-,4.1
+13,Hollow-body abduction,1.7
+13,Jumping knee up-down,4.6
+13,Alternating standing glute stretch,3.5
+13,Rack pull,2.0
+13,Sled Push,1.6
+13,Rower,4.4
+13,Behind-the-head push-press,4.5
+14,Weighted Sit-Ups - With Bands,1.6
+14,Side-to-side box skip,4.3
+14,Iliotibial band SMR,4.0
+14,Barbell glute bridge,3.1
+14,Dumbbell farmer's walk,4.9
+14,Bear crawl fire feet,2.2
+14,Push-jerk,4.1
+15,Leg Extensions - Gethin Variation,4.0
+15,Sledgehammer swing,4.6
+15,Bar shoulder extension stretch,3.7
+15,Speed Box Squat,4.2
+15,Dumbbell farmer's walk,4.6
+15,Plate push,3.9
+15,Power snatch-,2.8
+16,ACFT Medicine ball overhead power throw,1.9
+16,Jumping jack-,4.4
+16,Lying glute stretch,4.6
+16,Barbell glute bridge,4.3
+16,Sled Push,1.8
+16,Shadow boxing,3.5
+16,Power snatch-,1.1
+17,UP Cable Face Pull,4.1
+17,Side-to-side box skip,1.2
+17,Lying hamstring stretch with band,2.7
+17,Board bench press,1.1
+17,Tire flip,3.3
+17,Elliptical trainer,3.5
+17,Power snatch-,1.3
+18,Decline bar press sit-up,3.5
+18,Box jump,3.5
+18,Piriformis SMR,1.3
+18,Sumo deadlift,3.4
+18,Sled Push,2.2
+18,Stair climber,1.3
+18,Power snatch-,3.4
+19,Dumbbell Bulgarian split squat,3.8
+19,Sledgehammer swing,1.1
+19,Standing side bend stretch,1.0
+19,Board bench press,4.8
+19,Tire flip,2.2
+19,Treadmill jogging,3.1
+19,Push-jerk,3.8
+20,Pallof press,2.4
+20,Depth jump box jump,2.3
+20,Exercise ball chest stretch,1.3
+20,Barbell back squat to box,1.0
+20,Sled Push,1.0
+20,Treadmill running,2.0
+20,Push-jerk,4.4
+21,Standing dumbbell upright row,2.5
+21,Box Jump (Multiple Response),4.3
+21,Toe Touchers,3.1
+21,Board bench press,4.7
+21,Sled Push,2.3
+21,Jumping Jack,4.6
+21,Power snatch-,2.1
+22,Kettlebell upright row,3.5
+22,Dumbbell lateral hop to sprint,3.7
+22,Standing hip circle,1.9
+22,Sumo deadlift,2.4
+22,Bear crawl sled drag,1.1
+22,Sled push-,2.2
+22,Push-press,2.7
+23,Behind-the-head skullcrusher,4.7
+23,Box jump,2.4
+23,Single-leg lying cross-over stretch,3.0
+23,Sumo deadlift,1.5
+23,Dumbbell farmer's walk,2.8
+23,Bear crawl fire feet,2.7
+23,Push-press,4.4
+24,Ball Hamstring Hat Trick,3.6
+24,Medicine ball ninja,4.1
+24,Calf SMR,3.1
+24,Speed Box Squat,3.0
+24,Bear crawl sled drag,2.1
+24,High knees,3.7
+24,Push-jerk,2.6
+25,Single-arm cable push-down,4.9
+25,Gorilla squat,4.2
+25,Lying glute stretch,3.6
+25,Speed Box Squat,1.5
+25,Tire flip,2.8
+25,Jumping rope,2.7
+25,Push-jerk,2.4
+26,Band upright row,1.7
+26,Jumping jack-,1.6
+26,Bar shoulder extension stretch,4.4
+26,Sumo deadlift,3.6
+26,Dumbbell farmer's walk,4.3
+26,Sled push-,2.5
+26,Clean and jerk,1.7
+27,AM Upright Row,1.4
+27,Scissors Jump,2.8
+27,Brachialis SMR,1.5
+27,Speed Box Squat,1.9
+27,Bear crawl sled drag,2.0
+27,Treadmill running,3.3
+27,Push-press,2.1
+28,Decline Push-Up,1.2
+28,Pop squat,2.2
+28,Alternating lunge jump,4.5
+28,Dumbbell floor press,1.3
+28,Dumbbell farmer's walk,1.8
+28,Shadow boxing,4.0
+28,Push-jerk,2.2
+29,30 Spider Crawl,4.6
+29,Gorilla squat,2.8
+29,One Handed Hang,1.0
+29,Rack pull,2.2
+29,Dumbbell farmer's walk,1.1
+29,Shadow boxing,1.7
+29,Clean and jerk,1.6
+30,Leverage High Row,3.7
+30,Single-cone sprint drill,3.4
+30,One Handed Hang,1.6
+30,Barbell glute bridge,1.9
+30,Dumbbell farmer's walk,1.2
+30,Stairmaster,3.8
+30,Clean and jerk,3.6
+31,Medicine ball half moon,1.1
+31,Bench skip,3.0
+31,Lower back SMR,2.3
+31,Barbell deficit deadlift,2.4
+31,Sled Push,2.6
+31,Stairmaster,4.2
+31,Power snatch-,3.3
+32,Jump to pull-up,3.5
+32,Carioca quick step,2.3
+32,Alternating standing glute stretch,3.8
+32,Barbell back squat to box,1.8
+32,Bear crawl sled drag,1.3
+32,Treadmill walking,4.0
+32,Push-press,4.6
+33,Kettlebell sumo deadlift high pull,3.6
+33,Southpaw sprawl,2.5
+33,Lying glute stretch,3.9
+33,Dumbbell floor press,1.5
+33,Tire flip,4.0
+33,Treadmill jogging,3.9
+33,Power snatch-,1.5
+34,Dead bug reach,4.5
+34,Dumbbell jump squat,2.3
+34,Calf SMR,1.9
+34,Sumo deadlift,2.8
+34,Tire flip,3.3
+34,Plate push,3.9
+34,Push-jerk,4.4
+35,Incline dumbbell reverse fly,3.0
+35,Skip,3.8
+35,Brachialis SMR,2.6
+35,Rack pull,1.4
+35,Tire flip,4.2
+35,Stairmaster,3.4
+35,Behind-the-head push-press,3.2
+36,Barbell bent-over row,1.8
+36,Plyo push-up,3.3
+36,One Handed Hang,1.2
+36,Barbell back squat to box,4.6
+36,Sled Push,3.1
+36,Treadmill running,4.9
+36,Behind-the-head push-press,4.8
+37,Cable seated row,1.4
+37,Jump Squat,3.7
+37,One Handed Hang,3.0
+37,Barbell deficit deadlift,4.5
+37,Bear crawl sled drag,2.5
+37,Treadmill jogging,4.9
+37,Clean and jerk,3.3
+38,Cable overhead triceps extension,4.4
+38,Bench skip,4.0
+38,Half bird dog,1.4
+38,Barbell back squat to box,4.1
+38,Dumbbell farmer's walk,2.1
+38,Shuttle run,3.4
+38,Push-jerk,4.3
+39,Knees tucked crunch,2.2
+39,Wall ball toss,5.0
+39,Adductor SMR,1.2
+39,Barbell deficit deadlift,3.6
+39,Tire flip,3.3
+39,Burpee,4.3
+39,Behind-the-head push-press,4.4
+40,Dumbbell squat,2.8
+40,90-degree jump squat,3.9
+40,Exercise ball chest stretch,3.9
+40,Barbell back squat to box,2.2
+40,Dumbbell farmer's walk,3.7
+40,Stairmaster,4.7
+40,Power snatch-,3.9
+41,Seated Dumbbell Press,1.8
+41,Lateral cone hop,4.4
+41,Crab single-arm reach,1.9
+41,Barbell back squat to box,3.9
+41,Sled Push,4.3
+41,Jumping rope,3.4
+41,Power snatch-,2.1
+42,Clock push-up,2.6
+42,Gorilla squat,2.9
+42,Shoulder T,4.8
+42,Barbell deficit deadlift,2.7
+42,Dumbbell farmer's walk,2.1
+42,Shadow boxing,2.8
+42,Push-press,3.3
+43,TBS Dip,5.0
+43,Burpee tuck jump,2.1
+43,Standing side bend stretch,2.7
+43,Barbell Hip Thrust,1.4
+43,Tire flip,3.0
+43,Jumping rope,2.1
+43,Push-press,2.2
+44,Pull-up - Gethin Variation,2.6
+44,Medicine ball scoop throw,1.0
+44,Rhomboids SMR,3.3
+44,Rack pull,2.4
+44,Tire flip,2.0
+44,High knees,3.4
+44,Clean and jerk,2.7
+45,30 Shoulder Tap,1.1
+45,Lateral hop,3.6
+45,Alternating standing knee-pull stretch,2.2
+45,Board bench press,3.6
+45,Dumbbell farmer's walk,3.8
+45,Treadmill jogging,2.2
+45,Push-jerk,3.8
+46,Single-leg box squat,1.7
+46,Dumbbell jump squat,2.5
+46,Arm circle,3.8
+46,Barbell back squat to box,2.8
+46,Sled Push,4.6
+46,Treadmill jogging,5.0
+46,Power snatch-,3.6
+47,Bodyweight squat,3.5
+47,Depth jump box jump,1.5
+47,Lower back SMR,4.9
+47,Good Morning,2.7
+47,Dumbbell farmer's walk,4.0
+47,Shuttle run,1.7
+47,Push-press,5.0
+48,Dumbbell Lying Rear Lateral Raise,2.4
+48,Over bench jump,4.0
+48,Reach-roll-lift combo,1.3
+48,Good Morning,1.1
+48,Tire flip,2.3
+48,Treadmill running,1.5
+48,Behind-the-head push-press,3.0
+49,Cable rope preacher hammer curl,2.9
+49,Depth jump box jump,2.7
+49,Crab single-arm reach,4.7
+49,Speed Box Squat,3.1
+49,Sled Push,3.0
+49,Plate push,4.8
+49,Clean and jerk,4.4
+50,Lying cable chest fly,1.1
+50,Lateral hop,2.6
+50,Lower back SMR,2.8
+50,Glute Ham Raise,1.6
+50,Sled Push,4.4
+50,Sled push-,2.4
+50,Push-press,4.8
+51,Single-arm incline cable cross-over,2.4
+51,Wall mountain climber,1.5
+51,Reverse lunge,3.2
+51,Barbell glute bridge,1.8
+51,Bear crawl sled drag,2.6
+51,Stationary bike,4.6
+51,Push-press,2.3
+52,Barbell shrug,3.0
+52,Squat Isometric Hold,3.5
+52,One Handed Hang,1.2
+52,Board bench press,2.5
+52,Tire flip,3.5
+52,Rower,2.6
+52,Behind-the-head push-press,1.6
+53,Standing Dumbbell Shrug - Gethin Variation,3.9
+53,Broad jump,1.8
+53,Lunge glute stretch,2.4
+53,Barbell deficit deadlift,3.6
+53,Tire flip,2.8
+53,Stationary bike,2.4
+53,Behind-the-head push-press,2.5
+54,TBS Rope Cable Push-Down,4.8
+54,Medicine ball scoop throw,3.8
+54,Lying hamstring stretch with band,1.9
+54,Barbell Hip Thrust,1.1
+54,Dumbbell farmer's walk,3.6
+54,Elliptical trainer,4.4
+54,Push-press,2.1
+55,Wide push-up plank hold,4.4
+55,Medicine Ball Chest Pass,1.8
+55,Alternating standing knee-pull stretch,2.4
+55,Board bench press,3.7
+55,Sled Push,4.6
+55,Treadmill running,1.8
+55,Clean and jerk,4.7
+56,Single-arm landmine pull and press,3.6
+56,Dumbbell jump squat,3.3
+56,Kneeling hip flexor stretch,2.1
+56,Good Morning,1.4
+56,Tire flip,1.5
+56,Elliptical trainer,1.2
+56,Push-jerk,1.3
+57,Frog push-up,1.7
+57,Carioca quick step,4.5
+57,One Handed Hang,2.6
+57,Barbell Hip Thrust,1.4
+57,Tire flip,1.0
+57,Shadow boxing,1.3
+57,Push-press,1.7
+58,Feet-elevated bench side plank,4.3
+58,Lateral box jump,1.6
+58,Reverse lunge,3.1
+58,Speed Box Squat,3.4
+58,Sled Push,2.5
+58,Stationary bike,4.2
+58,Push-press,4.1
+59,Reverse-grip barbell curl,2.9
+59,Burpee tuck jump,2.4
+59,Calf SMR,3.8
+59,Glute Ham Raise,1.2
+59,Tire flip,1.5
+59,High knees,1.2
+59,Clean and jerk,1.6
+60,High knees sprawl drill,4.2
+60,Dumbbell lateral hop to sprint,1.3
+60,Rhomboids SMR,2.3
+60,Good Morning,1.9
+60,Bear crawl sled drag,1.0
+60,Shadow boxing,2.7
+60,Push-jerk,4.4
+61,Machine high row,2.8
+61,Single-cone sprint drill,1.7
+61,Lying quad stretch with band,1.7
+61,Dumbbell floor press,3.8
+61,Bear crawl sled drag,4.0
+61,Burpee,4.9
+61,Push-press,3.4
+62,Cross-body hammer curl,4.8
+62,Over bench jump,2.0
+62,Lying glute stretch,3.8
+62,Sumo deadlift,1.8
+62,Tire flip,4.0
+62,Stationary bike,3.8
+62,Behind-the-head push-press,3.1
+63,Single-arm kneeling lat pull-down,1.9
+63,Depth jump box jump,1.9
+63,Crab single-arm reach,2.8
+63,Sumo deadlift,2.8
+63,Tire flip,1.1
+63,Burpee,2.0
+63,Power snatch-,1.5
+64,Standing crossed-cable rear delt fly,1.5
+64,Burpee over barbell,4.3
+64,Single-leg balance and reach,4.0
+64,Good Morning,2.5
+64,Tire flip,2.8
+64,Jumping rope,2.8
+64,Power snatch-,1.1
+65,Dumbbell spell caster,3.3
+65,Burpee tuck jump,3.9
+65,Lying hamstring stretch with band,1.8
+65,Dumbbell floor press,4.8
+65,Bear crawl sled drag,2.3
+65,Jumping Jack,4.3
+65,Behind-the-head push-press,1.2
+66,FYR Dumbbell Tempo L-Raise,1.2
+66,Plyo push-up,2.3
+66,World's greatest stretch,3.9
+66,Dumbbell floor press,1.4
+66,Bear crawl sled drag,4.5
+66,Bear crawl fire feet,2.1
+66,Behind-the-head push-press,3.2
+67,Leg Extension - Gethin Variation,2.2
+67,Dumbbell seated box jump,2.9
+67,Lower back SMR,4.0
+67,Speed Box Squat,3.4
+67,Sled Push,1.4
+67,Jumping rope,5.0
+67,Behind-the-head push-press,3.7
+68,King Maker Barbell Back Squat,1.7
+68,In-out jump squat,1.8
+68,Quadriceps SMR,3.8
+68,Glute Ham Raise,1.6
+68,Sled Push,1.9
+68,Bear crawl fire feet,4.8
+68,Clean and jerk,1.7
+69,UP Deficit Kettlebell Stiff-Legged Deadlift,2.5
+69,Jumping knee up-down,2.4
+69,Exercise ball torso rotation,3.4
+69,Glute Ham Raise,2.3
+69,Bear crawl sled drag,1.1
+69,Stationary bike,1.6
+69,Push-press,3.5
+70,Seated cable shoulder press,3.4
+70,Pop squat,1.5
+70,Alternating lunge jump,3.7
+70,Barbell back squat to box,1.2
+70,Sled Push,1.3
+70,Shadow boxing,2.0
+70,Clean and jerk,1.1
+71,Decline Push-Up,1.2
+71,Box jump,4.3
+71,Brachialis SMR,1.0
+71,Sumo deadlift,3.1
+71,Sled Push,4.3
+71,Burpee,1.6
+71,Push-press,3.8
+72,Weighted sissy squat,1.0
+72,Lateral box jump,3.1
+72,Rhomboids SMR,4.6
+72,Sumo deadlift,2.8
+72,Bear crawl sled drag,2.0
+72,Stationary bike,1.6
+72,Power snatch-,1.1
+73,Iron cross stretch,1.5
+73,Wall ball toss,1.1
+73,Alternating lunge jump,1.5
+73,Board bench press,4.3
+73,Bear crawl sled drag,4.8
+73,Jumping Jack,2.1
+73,Push-press,1.4
+74,Barbell Incline Bench Press Medium-Grip,3.8
+74,Dumbbell jump squat,2.6
+74,Piriformis SMR,4.2
+74,Barbell deficit deadlift,3.9
+74,Dumbbell farmer's walk,1.5
+74,Plate push,1.8
+74,Behind-the-head push-press,3.3
+75,Weighted sissy squat,3.6
+75,Kettlebell fire feet,3.8
+75,Arm circle,2.8
+75,Barbell back squat to box,3.8
+75,Tire flip,2.1
+75,Stationary bike,1.5
+75,Power snatch-,3.1
+76,Cable EZ-Bar Preacher Curl - Gethin Variation,4.9
+76,Gorilla squat,4.8
+76,Brachialis SMR,4.0
+76,Barbell back squat to box,3.2
+76,Bear crawl sled drag,4.3
+76,Treadmill walking,3.4
+76,Push-press,4.8
+77,Machine chest fly,4.6
+77,Dumbbell jump squat,1.1
+77,Iliotibial band SMR,4.3
+77,Barbell back squat to box,1.7
+77,Dumbbell farmer's walk,4.0
+77,Burpee,3.6
+77,Clean and jerk,2.3
+78,Bent-arm barbell pull-over,3.5
+78,Burpee to pull-up,2.8
+78,Pass-through stretch with band,1.4
+78,Barbell Hip Thrust,4.7
+78,Dumbbell farmer's walk,1.8
+78,Treadmill walking,4.0
+78,Clean and jerk,1.1
+79,Barbell step-up,1.3
+79,Burpee over barbell,4.9
+79,Alternating standing knee-pull stretch,5.0
+79,Barbell deficit deadlift,4.9
+79,Bear crawl sled drag,2.9
+79,Shadow boxing,4.4
+79,Power snatch-,4.1
+80,Plank leg raise,4.3
+80,Medicine Ball Chest Pass,2.7
+80,Piriformis SMR,4.9
+80,Barbell Hip Thrust,2.0
+80,Bear crawl sled drag,3.5
+80,Treadmill jogging,3.7
+80,Behind-the-head push-press,1.9
+81,Straight-arm rope pull-down,4.1
+81,Southpaw sprawl,3.8
+81,Lying quad stretch with band,2.6
+81,Barbell back squat to box,1.1
+81,Bear crawl sled drag,1.2
+81,Shadow boxing,4.3
+81,Push-jerk,1.1
+82,Band good morning-,1.3
+82,Dumbbell lateral hop,2.4
+82,Alternating lunge jump,3.7
+82,Glute Ham Raise,4.7
+82,Bear crawl sled drag,2.0
+82,Sled push-,1.6
+82,Push-press,3.7
+83,Sit-up,2.1
+83,Jumping jack-,1.3
+83,Lying glute stretch,3.5
+83,Speed Box Squat,2.2
+83,Tire flip,1.4
+83,Burpee,4.3
+83,Power snatch-,3.9
+84,Spider lunge stretch,3.5
+84,Mountain climber,1.7
+84,Standing hamstring stretch,2.9
+84,Barbell glute bridge,4.3
+84,Sled Push,2.7
+84,Shadow boxing,4.8
+84,Push-press,3.3
+85,Straight-arm rope pull-down,1.6
+85,Knee Tuck Jump,4.9
+85,Arm circle,1.5
+85,Barbell deficit deadlift,1.9
+85,Dumbbell farmer's walk,1.9
+85,Sled push-,1.2
+85,Push-jerk,4.5
+86,Overhead bar front raise,2.9
+86,Dumbbell seated box jump,1.5
+86,Lying groin stretch with band,2.9
+86,Glute Ham Raise,1.4
+86,Dumbbell farmer's walk,3.1
+86,Plate push,4.0
+86,Push-jerk,3.1
+87,Cross-body hammer curl,4.5
+87,Skip,2.7
+87,Bent Over Shoulder Y,2.3
+87,Good Morning,4.3
+87,Dumbbell farmer's walk,3.3
+87,Plate push,4.0
+87,Push-press,1.5
+88,Kneeling Cable Triceps Extension - Gethin Variation,4.0
+88,Plyo push-up,1.1
+88,Reach-roll-lift combo,3.9
+88,Glute Ham Raise,4.4
+88,Bear crawl sled drag,3.2
+88,Sled push-,1.0
+88,Push-press,3.3
+89,Barbell deadlift bent-over row complex,3.9
+89,Dumbbell jump squat,2.1
+89,Lying groin stretch with band,2.6
+89,Rack pull,1.3
+89,Bear crawl sled drag,1.9
+89,Treadmill running,2.6
+89,Clean and jerk,3.4
+90,Bench press,2.0
+90,Medicine Ball Chest Pass,4.5
+90,Cross-body shoulder stretch,1.7
+90,Barbell glute bridge,1.9
+90,Sled Push,2.7
+90,High knees,1.7
+90,Clean and jerk,4.1
+91,Toe-touch,3.4
+91,Dumbbell seated box jump,2.6
+91,Lunge glute stretch,4.0
+91,Sumo deadlift,4.1
+91,Tire flip,4.2
+91,Stationary bike,2.2
+91,Clean and jerk,1.4
+92,Incline EZ-bar skullcrusher,4.0
+92,Running lunge,4.4
+92,Lying quad stretch with band,3.2
+92,Barbell Hip Thrust,1.6
+92,Tire flip,2.5
+92,Stationary bike,2.4
+92,Power snatch-,2.4
+93,Knees tucked crunch,3.7
+93,Burpee tuck jump,4.1
+93,Bent Over Shoulder Y,2.1
+93,Barbell glute bridge,1.6
+93,Dumbbell farmer's walk,1.8
+93,Stair climber,3.4
+93,Power snatch-,1.3
+94,Suspended ab fall-out,4.2
+94,Lateral cone hop,3.0
+94,Half bird dog,4.6
+94,Rack pull,1.1
+94,Tire flip,3.9
+94,Rower,1.5
+94,Power snatch-,3.1
+95,Lying Leg Curls,2.3
+95,In-out jump squat,2.2
+95,Child's pose,2.9
+95,Good Morning,4.1
+95,Dumbbell farmer's walk,4.7
+95,Stationary bike,4.6
+95,Behind-the-head push-press,4.4
+96,Chin-up crunch,3.8
+96,Sledgehammer swing,1.6
+96,Latissimus dorsi SMR,3.7
+96,Barbell glute bridge,4.9
+96,Sled Push,4.3
+96,Treadmill walking,1.6
+96,Behind-the-head push-press,3.1
+97,High-Pulley Cable Curl - Gethin Variation,3.0
+97,Burpee tuck jump,2.0
+97,Yoga plex,1.3
+97,Good Morning,4.0
+97,Dumbbell farmer's walk,1.9
+97,Jumping Jack,1.5
+97,Push-jerk,1.9
+98,Band deadlift,1.5
+98,Depth jump box jump,4.4
+98,Lower back SMR,4.5
+98,Barbell Hip Thrust,3.2
+98,Dumbbell farmer's walk,1.3
+98,High knees,4.4
+98,Behind-the-head push-press,4.6
+99,AM Seated Hammer Curls,3.8
+99,Over bench jump,2.7
+99,Reverse lunge,4.6
+99,Good Morning,2.8
+99,Tire flip,2.0
+99,Plate push,4.2
+99,Push-jerk,3.5
+100,Barbell curl-,2.7
+100,Dumbbell lateral hop,1.1
+100,Lying hamstring stretch with band,2.7
+100,Barbell back squat to box,4.0
+100,Sled Push,1.2
+100,Treadmill walking,4.3
+100,Push-press,3.8
+101,Alternating hanging knee raise,2.8
+101,Jumping knee up-down,3.1
+101,Half bird dog,2.1
+101,Board bench press,4.7
+101,Bear crawl sled drag,1.4
+101,Shadow boxing,2.6
+101,Push-jerk,3.3
+102,Total Fitness Plyo Push-Up,4.2
+102,Sledgehammer swing,1.1
+102,Lunge glute stretch,2.4
+102,Dumbbell floor press,1.4
+102,Sled Push,2.7
+102,Treadmill running,1.1
+102,Push-press,4.5
+103,ACFT Low-handle trap bar deadlift,2.1
+103,Split Jump,3.3
+103,Exercise ball torso rotation,4.0
+103,Barbell deficit deadlift,2.9
+103,Tire flip,4.0
+103,Treadmill running,2.0
+103,Behind-the-head push-press,3.9
+104,FYR Running Lunge,1.2
+104,90-degree jump squat,2.7
+104,Alternating lunge jump,1.0
+104,Speed Box Squat,3.7
+104,Bear crawl sled drag,2.6
+104,Bear crawl fire feet,4.0
+104,Push-press,4.7
+105,Lying Cable Curl - Gethin Variation,1.4
+105,Over bench jump,2.1
+105,Pass-through stretch with band,2.0
+105,Rack pull,4.7
+105,Tire flip,2.3
+105,Jumping rope,4.3
+105,Clean and jerk,2.3
+106,Leverage Chest Press,2.9
+106,Jumping knee up-down,1.8
+106,Yoga plex,3.7
+106,Board bench press,2.8
+106,Tire flip,2.7
+106,Stair climber,4.9
+106,Push-press,2.2
+107,Seated Lateral Raise - Gethin Variation,3.4
+107,Over bench jump,4.0
+107,Lower back SMR,2.3
+107,Dumbbell floor press,1.4
+107,Dumbbell farmer's walk,4.1
+107,Stationary bike,4.3
+107,Clean and jerk,3.0
+108,Barbell Deadlift Bent Row Complex,3.6
+108,Jump Squat,3.7
+108,Alternating lunge jump,2.7
+108,Barbell deficit deadlift,5.0
+108,Sled Push,2.0
+108,Jumping Jack,1.4
+108,Power snatch-,3.2
+109,30 Decline Reverse Crunch,1.4
+109,Slalom jumps,4.2
+109,World's greatest stretch,1.1
+109,Board bench press,3.5
+109,Sled Push,2.8
+109,Sled push-,2.0
+109,Push-press,1.9
+110,Dumbbell Bulgarian split squat,2.8
+110,Sledgehammer swing,2.8
+110,Brachialis SMR,4.8
+110,Board bench press,2.9
+110,Sled Push,2.1
+110,Treadmill walking,1.9
+110,Clean and jerk,2.6
+111,FYR Bear Crawl Shoulder Tap,5.0
+111,90-degree jump squat,1.9
+111,Kneeling hip flexor stretch,3.9
+111,Rack pull,4.1
+111,Sled Push,4.6
+111,Stationary bike,4.3
+111,Push-jerk,3.5
+112,Leg extension,4.3
+112,Southpaw sprawl,4.8
+112,Lower back SMR,3.9
+112,Sumo deadlift,2.3
+112,Dumbbell farmer's walk,4.0
+112,Sled push-,4.0
+112,Push-press,2.7
+113,Single-arm banded landmine press,1.3
+113,Over bench jump,3.1
+113,Single-leg balance and reach,4.8
+113,Rack pull,4.1
+113,Tire flip,1.0
+113,Treadmill running,4.0
+113,Push-jerk,2.0
+114,Medicine ball Russian twist,1.7
+114,Lateral hop,1.9
+114,Crab single-arm reach,2.5
+114,Barbell Hip Thrust,1.5
+114,Bear crawl sled drag,3.3
+114,Burpee,1.3
+114,Push-jerk,4.9
+115,Single-arm kneeling lat pull-down,1.3
+115,In-out jump squat,4.1
+115,Adductor SMR,1.2
+115,Glute Ham Raise,3.1
+115,Dumbbell farmer's walk,4.0
+115,Rower,3.3
+115,Power snatch-,1.7
+116,Exercise ball pike,2.1
+116,Kettlebell fire feet,1.8
+116,Piriformis SMR,1.1
+116,Dumbbell floor press,4.0
+116,Tire flip,4.6
+116,Elliptical trainer,1.7
+116,Push-jerk,4.1
+117,Seated cable biceps curl,1.0
+117,Carioca quick step,2.7
+117,Alternating lunge jump,3.8
+117,Board bench press,4.1
+117,Tire flip,3.3
+117,Shadow boxing,4.7
+117,Power snatch-,2.6
+118,Low-cable cross-over,2.4
+118,Lateral hop,4.9
+118,Standing side bend stretch,3.9
+118,Dumbbell floor press,2.0
+118,Tire flip,3.2
+118,Stationary bike,4.7
+118,Push-press,1.6
+119,Lying leg curl,4.0
+119,Knee Tuck Jump,2.6
+119,Brachialis SMR,3.8
+119,Speed Box Squat,1.1
+119,Tire flip,2.5
+119,Burpee,3.1
+119,Push-press,4.6
+120,Wall sit,1.2
+120,Burpee over barbell,4.7
+120,Yoga plex,1.8
+120,Board bench press,4.5
+120,Dumbbell farmer's walk,2.3
+120,Plate push,4.3
+120,Push-jerk,4.4
+121,Double-arm triceps kick-back,4.1
+121,Squat Isometric Hold,4.6
+121,Adductor SMR,2.3
+121,Board bench press,1.4
+121,Tire flip,2.9
+121,Sled push-,1.3
+121,Power snatch-,1.2
+122,Straight-arm dumbbell pull-over,3.5
+122,Medicine Ball Chest Pass,2.9
+122,Arm circle,3.1
+122,Sumo deadlift,4.8
+122,Tire flip,1.3
+122,Bear crawl fire feet,3.7
+122,Push-jerk,2.4
+123,L-sit chin-up,3.0
+123,Kettlebell fire feet,3.8
+123,Standing side bend stretch,4.9
+123,Speed Box Squat,1.3
+123,Tire flip,4.6
+123,Elliptical trainer,3.4
+123,Push-jerk,3.6
+124,Double crunch,4.8
+124,Dumbbell lateral hop,2.3
+124,Bent Over Shoulder Y,3.0
+124,Rack pull,2.5
+124,Bear crawl sled drag,4.2
+124,Sled push-,4.2
+124,Power snatch-,3.0
+125,Side Lunge Touching Heel,1.0
+125,Burpee tuck jump,3.8
+125,Standing leg swing,3.7
+125,Barbell back squat to box,1.0
+125,Tire flip,3.1
+125,Treadmill walking,3.7
+125,Power snatch-,4.7
+126,Knees tucked crunch,5.0
+126,Dumbbell lateral hop,4.6
+126,Inchworm,4.3
+126,Barbell deficit deadlift,1.7
+126,Dumbbell farmer's walk,2.0
+126,Elliptical trainer,4.6
+126,Push-jerk,3.5
+127,Exercise ball V-up,2.7
+127,Southpaw sprawl,1.3
+127,Rhomboids SMR,3.0
+127,Good Morning,2.9
+127,Sled Push,1.8
+127,Stair climber,1.2
+127,Push-press,3.5
+128,Medicine ball duck walk,3.8
+128,Jump Squat,4.0
+128,One Handed Hang,3.6
+128,Dumbbell floor press,2.1
+128,Dumbbell farmer's walk,1.2
+128,Sled push-,5.0
+128,Power snatch-,3.1
+129,Towel dumbbell front raise,3.5
+129,Sledgehammer swing,1.3
+129,Bent Over Shoulder Y,5.0
+129,Dumbbell floor press,4.5
+129,Bear crawl sled drag,1.1
+129,Bear crawl fire feet,3.7
+129,Push-press,1.5
+130,Rope overhead triceps extension,3.3
+130,Bench skip,2.7
+130,Standing hip circle,3.5
+130,Rack pull,3.2
+130,Sled Push,3.6
+130,Shuttle run,3.1
+130,Power snatch-,3.5
+131,Paul Carter Overhead Rope Triceps Extension,4.2
+131,Side-to-side box skip,2.2
+131,Pass-through stretch with band,1.3
+131,Barbell deficit deadlift,1.4
+131,Bear crawl sled drag,1.9
+131,Plate push,2.3
+131,Behind-the-head push-press,3.1
+132,Standing Dumbbell Calf Raise,4.6
+132,Plyo push-up,2.4
+132,Lower back SMR,4.7
+132,Glute Ham Raise,1.6
+132,Tire flip,2.7
+132,High knees,1.4
+132,Push-press,2.5
+133,Kettlebell pass-through lunge,1.1
+133,Medicine ball slam,4.8
+133,Exercise ball chest stretch,2.9
+133,Good Morning,4.8
+133,Dumbbell farmer's walk,2.3
+133,Treadmill running,4.4
+133,Push-press,4.1
+134,Dumbbell hang snatch,2.0
+134,Lateral cone hop,3.7
+134,Lower back SMR,4.3
+134,Barbell Hip Thrust,3.3
+134,Sled Push,2.7
+134,Jumping Jack,1.9
+134,Behind-the-head push-press,2.1
+135,Incline Bench Rear Dumbbell Fly - Gethin Variation,4.1
+135,Bar Push-Up Smith Machine,3.1
+135,Standing hamstring stretch,3.8
+135,Dumbbell floor press,3.0
+135,Sled Push,1.1
+135,Sled push-,3.7
+135,Clean and jerk,2.3
+136,Neutral-grip dumbbell bench press,1.5
+136,Lateral box jump,2.6
+136,Superman,3.3
+136,Speed Box Squat,4.5
+136,Dumbbell farmer's walk,3.2
+136,Plate push,1.3
+136,Clean and jerk,3.9
+137,Parallel bars knee raise,4.9
+137,Speed skater,1.6
+137,Alternating standing knee-pull stretch,4.8
+137,Barbell glute bridge,4.4
+137,Tire flip,1.1
+137,Stationary bike,3.8
+137,Push-jerk,1.7
+138,Kneeling cable triceps extension,3.5
+138,Medicine ball ninja,1.7
+138,Standing hamstring stretch,4.6
+138,Glute Ham Raise,4.7
+138,Sled Push,2.3
+138,Stair climber,2.8
+138,Push-jerk,2.1
+139,Barbell Squat - Gethin Variation,4.0
+139,Sprawl frog kick,3.5
+139,Pass-through stretch with band,4.5
+139,Board bench press,4.5
+139,Sled Push,4.6
+139,Stair climber,4.6
+139,Push-jerk,4.2
+140,Ab wheel roll-out,2.4
+140,Squat Isometric Hold,1.4
+140,Superman,3.5
+140,Barbell deficit deadlift,1.8
+140,Sled Push,2.9
+140,Treadmill walking,3.8
+140,Clean and jerk,2.6
+141,Barbell curl-,1.3
+141,Side-to-side box skip,5.0
+141,Wall calf stretch,3.2
+141,Rack pull,1.3
+141,Dumbbell farmer's walk,4.2
+141,Jumping rope,1.4
+141,Push-jerk,2.6
+142,Band Pull Apart,2.4
+142,Plyo push-up,2.5
+142,Cross-body shoulder stretch,4.1
+142,Rack pull,3.6
+142,Sled Push,4.1
+142,Sled push-,4.7
+142,Clean and jerk,3.2
+143,Machine Shoulder (Military) Press,3.0
+143,Sit-up with single-arm overhand throw,2.2
+143,Kneeling hip flexor stretch,2.7
+143,Rack pull,4.3
+143,Sled Push,2.7
+143,Sled push-,1.7
+143,Power snatch-,2.2
+144,Medicine ball pass,1.7
+144,Squat Isometric Hold,3.1
+144,Lower back SMR,2.9
+144,Barbell Hip Thrust,1.5
+144,Dumbbell farmer's walk,2.9
+144,Jumping rope,3.4
+144,Power snatch-,4.8
+145,Bent-knee Copenhagen hip adduction,3.6
+145,Scissors Jump,4.3
+145,Bent Over Shoulder Y,4.2
+145,Barbell back squat to box,4.9
+145,Bear crawl sled drag,2.2
+145,Stairmaster,1.9
+145,Push-jerk,4.5
+146,Bent-over plate rear delt raise,4.9
+146,Wall mountain climber,4.1
+146,Standing side bend stretch,1.4
+146,Good Morning,1.4
+146,Dumbbell farmer's walk,3.4
+146,Treadmill walking,4.3
+146,Push-press,4.7
+147,Reverse Barbell Preacher Curls,2.4
+147,Single-cone sprint drill,4.2
+147,Child's pose,2.3
+147,Barbell Hip Thrust,2.6
+147,Dumbbell farmer's walk,4.3
+147,Plate push,4.0
+147,Clean and jerk,3.8
+148,Single-arm high-cable side bend,4.0
+148,Mountain climber,2.6
+148,Calf SMR,1.8
+148,Barbell deficit deadlift,4.6
+148,Bear crawl sled drag,1.9
+148,Shuttle run,2.9
+148,Clean and jerk,2.6
+149,Band overhead triceps extension,2.3
+149,Jumping knee up-down,3.6
+149,Child's pose,3.3
+149,Board bench press,4.9
+149,Sled Push,1.3
+149,High knees,3.2
+149,Power snatch-,1.9
+150,Single-arm dumbbell arc row,1.6
+150,Medicine ball scoop throw,3.2
+150,Inchworm,4.9
+150,Board bench press,3.6
+150,Dumbbell farmer's walk,1.5
+150,Rower,3.3
+150,Behind-the-head push-press,2.3
+151,Bodyweight squat,2.9
+151,Squat Isometric Hold,4.0
+151,Single-leg balance and reach,4.7
+151,Sumo deadlift,4.8
+151,Dumbbell farmer's walk,3.5
+151,Shadow boxing,1.5
+151,Power snatch-,3.9
+152,Negative pull-up,4.7
+152,Burpee box jump,4.0
+152,Lying glute stretch,1.7
+152,Rack pull,3.5
+152,Bear crawl sled drag,1.7
+152,Stair climber,3.3
+152,Push-press,3.4
+153,Head-on-bench dumbbell rear delt raise,3.6
+153,Dumbbell seated box jump,2.4
+153,Standing hamstring stretch,3.7
+153,Sumo deadlift,3.1
+153,Tire flip,5.0
+153,Stationary bike,4.2
+153,Push-press,2.8
+154,Alternate Hammer Curl,3.9
+154,90-degree jump squat,1.9
+154,Pass-through stretch with band,2.7
+154,Good Morning,2.9
+154,Bear crawl sled drag,4.1
+154,Stationary bike,1.9
+154,Clean and jerk,4.6
+155,High-Pulley Cable Curl - Gethin Variation,2.0
+155,Over bench jump,1.8
+155,Brachialis SMR,4.6
+155,Glute Ham Raise,3.0
+155,Tire flip,1.5
+155,Elliptical trainer,2.9
+155,Behind-the-head push-press,1.5
+156,Single-arm dumbbell racked carry,2.6
+156,Plyo push-up,4.7
+156,Brachialis SMR,4.2
+156,Glute Ham Raise,4.5
+156,Tire flip,1.5
+156,Treadmill jogging,3.1
+156,Push-press,2.3
+157,TBS Hack Squat,2.0
+157,Jumping knee up-down,4.0
+157,Kneeling hip flexor stretch,2.4
+157,Barbell back squat to box,1.8
+157,Bear crawl sled drag,4.2
+157,Bear crawl fire feet,4.2
+157,Power snatch-,3.9
+158,Incline cable straight-bar triceps extension,1.5
+158,Broad jump,3.9
+158,Yoga plex,1.7
+158,Barbell Hip Thrust,3.2
+158,Sled Push,1.9
+158,Elliptical trainer,1.3
+158,Power snatch-,1.6
+159,Assisted Chin-Up,3.0
+159,Dumbbell lateral hop,4.8
+159,Cross-body shoulder stretch,1.1
+159,Glute Ham Raise,2.7
+159,Tire flip,3.4
+159,Burpee,4.5
+159,Clean and jerk,2.2
+160,Machine-assisted pull-up,3.8
+160,Lateral cone hop,2.5
+160,Alternating standing glute stretch,2.6
+160,Sumo deadlift,3.3
+160,Dumbbell farmer's walk,3.9
+160,Elliptical trainer,3.0
+160,Clean and jerk,2.9
+161,Decline oblique crunch,2.8
+161,Single-cone sprint drill,4.3
+161,World's greatest stretch,3.4
+161,Barbell back squat to box,1.2
+161,Sled Push,2.1
+161,Treadmill jogging,2.2
+161,Clean and jerk,3.2
+162,Single-arm dumbbell crunch,2.3
+162,Bench skip,1.4
+162,Quadriceps SMR,3.8
+162,Rack pull,1.7
+162,Bear crawl sled drag,1.1
+162,Bear crawl fire feet,3.6
+162,Clean and jerk,3.8
+163,Seated cable biceps curl,4.7
+163,Dumbbell lateral hop,2.0
+163,Rhomboids SMR,3.4
+163,Sumo deadlift,1.9
+163,Tire flip,2.3
+163,Elliptical trainer,2.3
+163,Power snatch-,1.7
+164,Single-arm dumbbell front squat,4.4
+164,Bench skip,1.8
+164,One Handed Hang,3.7
+164,Rack pull,3.4
+164,Tire flip,3.6
+164,Shadow boxing,1.1
+164,Clean and jerk,4.1
+165,Straight-arm rope pull-down,2.3
+165,Running lunge,1.0
+165,Bent Over Shoulder Y,2.0
+165,Barbell glute bridge,3.1
+165,Sled Push,1.9
+165,High knees,4.0
+165,Push-jerk,1.5
+166,TBS Dumbbell Romanian Deadlift,2.8
+166,Over bench jump,3.0
+166,Kneeling hip flexor stretch,1.9
+166,Barbell back squat to box,3.9
+166,Sled Push,4.7
+166,Sled push-,4.4
+166,Push-press,3.2
+167,Incline bench press,3.5
+167,Split Jump,2.8
+167,Bent Over Shoulder Y,4.6
+167,Barbell Hip Thrust,3.7
+167,Bear crawl sled drag,2.3
+167,Stairmaster,4.4
+167,Behind-the-head push-press,2.2
+168,Decline sit-up twist,3.1
+168,Split Jump,2.4
+168,Exercise ball torso rotation,1.6
+168,Barbell back squat to box,2.0
+168,Tire flip,3.3
+168,Burpee,2.6
+168,Push-jerk,4.2
+169,Tip-toe crunch,2.4
+169,Single-cone sprint drill,2.7
+169,Reverse lunge,4.9
+169,Board bench press,2.2
+169,Tire flip,2.0
+169,Plate push,2.6
+169,Push-press,4.8
+170,Standing Barbell Press Behind Neck,2.3
+170,Medicine ball partner twist,4.4
+170,Exercise ball chest stretch,3.7
+170,Speed Box Squat,1.1
+170,Dumbbell farmer's walk,3.3
+170,Plate push,2.6
+170,Push-press,2.2
+171,Neutral-grip lat pull-down,4.0
+171,Lateral hop,3.8
+171,Standing hamstring stretch,4.4
+171,Barbell glute bridge,4.6
+171,Sled Push,2.5
+171,Treadmill walking,1.5
+171,Push-jerk,2.9
+172,Dumbbell skier,1.3
+172,Jump lunge heel kick,2.0
+172,Iliotibial band SMR,4.8
+172,Barbell deficit deadlift,2.9
+172,Dumbbell farmer's walk,3.5
+172,Shadow boxing,4.4
+172,Push-press,1.9
+173,Dip Machine,1.8
+173,Split Jump,2.5
+173,Piriformis SMR,2.7
+173,Dumbbell floor press,1.3
+173,Dumbbell farmer's walk,4.5
+173,Plate push,1.3
+173,Push-jerk,1.1
+174,Cable straight-bar upright row,2.1
+174,Dumbbell jump squat,2.7
+174,Inchworm,1.2
+174,Barbell deficit deadlift,2.1
+174,Dumbbell farmer's walk,1.8
+174,Elliptical trainer,4.9
+174,Behind-the-head push-press,3.8
+175,30 Hanging Toes-To-Bar,2.3
+175,Box Jump (Multiple Response),1.6
+175,Exercise ball chest stretch,1.3
+175,Speed Box Squat,1.5
+175,Dumbbell farmer's walk,1.5
+175,Treadmill jogging,3.0
+175,Power snatch-,2.7
+176,Crunch,3.1
+176,Medicine ball scoop throw,4.8
+176,Lying quad stretch with band,1.7
+176,Dumbbell floor press,3.0
+176,Bear crawl sled drag,2.8
+176,Stairmaster,3.1
+176,Clean and jerk,3.9
+177,Standing lat pull-down,3.8
+177,Medicine ball partner twist,1.7
+177,Pass-through stretch with band,4.5
+177,Dumbbell floor press,4.1
+177,Bear crawl sled drag,3.6
+177,Stair climber,1.7
+177,Behind-the-head push-press,3.1
+178,King Maker Barbell Thruster,1.2
+178,Mountain climber,2.5
+178,Child's pose,4.2
+178,Glute Ham Raise,3.2
+178,Tire flip,1.1
+178,Treadmill walking,3.3
+178,Power snatch-,4.0
+179,AM Bar Triceps Push-Down,4.7
+179,Mountain climber,3.2
+179,Lying hamstring stretch with band,4.1
+179,Glute Ham Raise,1.9
+179,Sled Push,3.2
+179,Stairmaster,1.4
+179,Push-jerk,1.8
+180,Band Pull Apart,2.1
+180,Medicine ball partner twist,2.1
+180,Reach-roll-lift combo,4.0
+180,Barbell deficit deadlift,4.6
+180,Bear crawl sled drag,3.8
+180,Jumping Jack,2.9
+180,Clean and jerk,2.9
+181,Cross-over push-up,1.4
+181,Pop squat,2.7
+181,Brachialis SMR,2.4
+181,Barbell deficit deadlift,4.1
+181,Sled Push,1.8
+181,Shadow boxing,4.3
+181,Behind-the-head push-press,1.4
+182,FYR Rope Jumping,3.9
+182,Mountain climber,3.1
+182,Exercise ball torso rotation,1.7
+182,Glute Ham Raise,1.9
+182,Tire flip,4.7
+182,High knees,3.1
+182,Push-press,1.9
+183,Dumbbell external shoulder rotation,2.5
+183,Medicine ball slam,2.6
+183,Alternating lunge jump,3.3
+183,Speed Box Squat,1.0
+183,Sled Push,3.6
+183,Elliptical trainer,3.3
+183,Push-jerk,1.4
+184,Decline oblique crunch,1.1
+184,Lateral cone hop,1.6
+184,Cross-body shoulder stretch,1.2
+184,Glute Ham Raise,3.6
+184,Dumbbell farmer's walk,1.6
+184,High knees,2.2
+184,Push-press,1.2
+185,Ab wheel roll-out,1.3
+185,Medicine Ball Chest Pass,3.6
+185,Alternating lunge jump,3.1
+185,Glute Ham Raise,2.0
+185,Dumbbell farmer's walk,3.4
+185,Stairmaster,2.6
+185,Clean and jerk,1.5
+186,Seated wide-grip curl to close-grip curl,4.8
+186,Lateral box jump,1.6
+186,Latissimus dorsi SMR,1.5
+186,Barbell Hip Thrust,1.6
+186,Dumbbell farmer's walk,3.6
+186,Rower,1.9
+186,Behind-the-head push-press,4.8
+187,Leverage High Row,1.9
+187,Running lunge,3.6
+187,Iliotibial band SMR,2.4
+187,Barbell deficit deadlift,1.9
+187,Tire flip,2.9
+187,Elliptical trainer,3.4
+187,Power snatch-,5.0
+188,Superman-,3.9
+188,Lateral cone hop,4.5
+188,Standing side bend stretch,4.8
+188,Barbell Hip Thrust,2.9
+188,Tire flip,1.7
+188,Sled push-,1.4
+188,Clean and jerk,4.7
+189,Southpaw sprawl with push-up,3.7
+189,Jump Squat,4.1
+189,Lying groin stretch with band,1.8
+189,Barbell Hip Thrust,3.5
+189,Bear crawl sled drag,4.2
+189,Bear crawl fire feet,4.7
+189,Push-jerk,3.4
+190,Incline cable straight-bar triceps extension,1.9
+190,Plyo push-up,2.3
+190,Single-leg lying cross-over stretch,3.7
+190,Dumbbell floor press,4.3
+190,Tire flip,3.9
+190,Shuttle run,1.4
+190,Clean and jerk,3.9
+191,Smith machine bent-over row,1.8
+191,Bar Push-Up Smith Machine,1.4
+191,Calf SMR,1.9
+191,Good Morning,3.5
+191,Dumbbell farmer's walk,2.2
+191,Plate push,4.1
+191,Push-jerk,3.9
+192,Hanging crunch,1.8
+192,Dumbbell seated box jump,3.2
+192,Standing hip circle,1.3
+192,Glute Ham Raise,2.0
+192,Sled Push,2.5
+192,Shuttle run,2.9
+192,Power snatch-,4.3
+193,Two-way swing,1.1
+193,Wall mountain climber,1.9
+193,Piriformis SMR,2.1
+193,Speed Box Squat,2.1
+193,Dumbbell farmer's walk,4.5
+193,Bear crawl fire feet,3.7
+193,Behind-the-head push-press,1.6
+194,Incline dumbbell overhead triceps extension,4.1
+194,Sit-up with single-arm overhand throw,1.9
+194,Alternating lunge jump,4.8
+194,Barbell back squat to box,4.6
+194,Bear crawl sled drag,4.2
+194,Bear crawl fire feet,3.8
+194,Power snatch-,2.9
+195,Partner plank band row,1.4
+195,Over bench jump,2.8
+195,Exercise ball chest stretch,1.3
+195,Good Morning,2.4
+195,Bear crawl sled drag,2.8
+195,Shuttle run,3.4
+195,Clean and jerk,5.0
+196,Push Up to Side Plank,4.2
+196,Sprawl frog kick,2.3
+196,Lunge glute stretch,1.7
+196,Glute Ham Raise,1.3
+196,Dumbbell farmer's walk,2.1
+196,Jumping rope,1.1
+196,Push-press,1.4
+197,Leg Extensions,1.4
+197,Over bench jump,1.6
+197,Exercise ball chest stretch,2.0
+197,Good Morning,4.3
+197,Tire flip,2.0
+197,Shuttle run,4.4
+197,Push-jerk,1.7
+198,FYR Air Ball Plus Medicine Ball Jumping Sprawl,4.8
+198,Bench skip,4.5
+198,Standing hip circle,2.7
+198,Barbell back squat to box,5.0
+198,Bear crawl sled drag,1.0
+198,Treadmill jogging,4.1
+198,Push-jerk,2.4
+199,BFR cable rope push-down,3.8
+199,In-out jump squat,1.5
+199,Piriformis SMR,4.0
+199,Barbell back squat to box,4.3
+199,Dumbbell farmer's walk,2.7
+199,Stairmaster,3.9
+199,Clean and jerk,3.9
+200,Standing alternating band speed row,2.0
+200,Single-cone sprint drill,2.4
+200,Crab single-arm reach,2.7
+200,Barbell glute bridge,3.9
+200,Tire flip,2.1
+200,Shadow boxing,4.5
+200,Clean and jerk,2.0
+201,Standing One-Arm Shoulder Press - Gethin Variation,4.6
+201,Broad jump,3.3
+201,Lunge glute stretch,4.3
+201,Sumo deadlift,1.4
+201,Tire flip,4.7
+201,Jumping rope,3.3
+201,Clean and jerk,2.3
+202,Dumbbell Lying Rear Lateral Raise,4.4
+202,Plyo push-up,3.9
+202,Adductor SMR,1.4
+202,Dumbbell floor press,2.0
+202,Tire flip,2.8
+202,Stairmaster,1.7
+202,Power snatch-,3.2
+203,Pallof press,2.0
+203,Skip,4.1
+203,Rhomboids SMR,1.0
+203,Speed Box Squat,3.7
+203,Tire flip,2.4
+203,Plate push,1.5
+203,Behind-the-head push-press,4.4
+204,King Maker Explosive High Jump,4.1
+204,Jump lunge heel kick,4.6
+204,Single-leg balance and reach,1.0
+204,Glute Ham Raise,1.6
+204,Tire flip,1.8
+204,Bear crawl fire feet,2.8
+204,Clean and jerk,4.6
+205,Bent Over Barbell Row,3.4
+205,90-degree jump squat,1.8
+205,Brachialis SMR,2.8
+205,Sumo deadlift,1.3
+205,Tire flip,2.1
+205,Shuttle run,2.9
+205,Behind-the-head push-press,4.0
+206,Rope Face Pull - Gethin Variation,2.3
+206,Single-cone sprint drill,3.6
+206,Single-leg lying cross-over stretch,1.3
+206,Barbell deficit deadlift,3.1
+206,Sled Push,3.6
+206,Bear crawl fire feet,2.7
+206,Push-jerk,3.5
+207,Barbell bent-over row,3.5
+207,Jump Squat,2.9
+207,World's greatest stretch,2.4
+207,Sumo deadlift,3.6
+207,Bear crawl sled drag,4.7
+207,Rower,1.6
+207,Power snatch-,3.4
+208,Neutral-grip dumbbell bench press,1.2
+208,Jumping jack-,4.1
+208,Half bird dog,4.1
+208,Glute Ham Raise,1.2
+208,Dumbbell farmer's walk,4.7
+208,Plate push,4.3
+208,Behind-the-head push-press,4.1
+209,Single-leg V-up,3.2
+209,Dumbbell jump squat,4.7
+209,Lying groin stretch with band,1.9
+209,Barbell back squat to box,1.6
+209,Tire flip,2.9
+209,Elliptical trainer,4.3
+209,Clean and jerk,1.4
+210,Medicine ball sprawl to chest press,1.3
+210,Speed skater,1.9
+210,Crab single-arm reach,1.3
+210,Barbell Hip Thrust,4.4
+210,Sled Push,4.7
+210,Bear crawl fire feet,1.7
+210,Power snatch-,3.2
+211,Pull-up,3.8
+211,Split Jump,1.8
+211,Alternating standing glute stretch,2.6
+211,Good Morning,2.2
+211,Bear crawl sled drag,2.2
+211,Burpee,2.3
+211,Power snatch-,2.0
+212,Single-dumbbell front raise,2.9
+212,Squat Isometric Hold,3.9
+212,Wall calf stretch,2.4
+212,Barbell back squat to box,4.7
+212,Dumbbell farmer's walk,1.9
+212,Elliptical trainer,4.5
+212,Clean and jerk,3.8
+213,Reverse Barbell Preacher Curls,4.4
+213,Dumbbell jump squat,2.8
+213,Iliotibial band SMR,1.5
+213,Barbell glute bridge,1.6
+213,Tire flip,3.1
+213,High knees,1.5
+213,Clean and jerk,4.5
+214,Machine Seated Chest Press - Gethin Variation,2.8
+214,Dumbbell lateral hop,2.6
+214,Standing hamstring stretch,4.8
+214,Barbell deficit deadlift,3.9
+214,Sled Push,2.5
+214,Stairmaster,1.1
+214,Push-press,4.0
+215,Smith Machine Decline Press,4.7
+215,Scissors Jump,4.3
+215,Toe Touchers,3.5
+215,Speed Box Squat,4.2
+215,Tire flip,2.6
+215,Stair climber,2.9
+215,Clean and jerk,3.2
+216,Hanging alternating single-leg raise,1.8
+216,Burpee tuck jump,1.5
+216,Yoga plex,3.9
+216,Glute Ham Raise,4.3
+216,Dumbbell farmer's walk,2.7
+216,Shuttle run,4.9
+216,Clean and jerk,4.2
+217,Squat hold with band pull-apart,3.7
+217,Pop squat,4.9
+217,Lying quad stretch with band,1.8
+217,Barbell deficit deadlift,1.9
+217,Tire flip,1.4
+217,Treadmill running,3.1
+217,Power snatch-,2.3
+218,Banded crunch,3.1
+218,Dumbbell lateral hop to sprint,4.8
+218,Kneeling hip flexor stretch,1.7
+218,Board bench press,2.8
+218,Sled Push,4.7
+218,Stairmaster,2.1
+218,Power snatch-,4.9
+219,Dumbbell Bulgarian split squat,1.1
+219,Broad jump,4.9
+219,Half bird dog,1.7
+219,Barbell deficit deadlift,3.3
+219,Bear crawl sled drag,3.2
+219,Shadow boxing,2.9
+219,Power snatch-,2.4
+220,Double-kettlebell alternating lunge to clean,3.9
+220,Depth jump box jump,1.1
+220,Pass-through stretch with band,4.5
+220,Barbell Hip Thrust,4.7
+220,Tire flip,3.1
+220,Stairmaster,1.4
+220,Push-jerk,1.9
+221,Barbell forehead curl,2.6
+221,Lateral box jump,3.0
+221,Quadriceps SMR,2.7
+221,Sumo deadlift,2.4
+221,Dumbbell farmer's walk,2.6
+221,Plate push,1.9
+221,Behind-the-head push-press,2.9
+222,Single-arm banded landmine press,1.1
+222,Lateral cone hop,1.6
+222,Iliotibial band SMR,1.5
+222,Dumbbell floor press,3.4
+222,Bear crawl sled drag,3.9
+222,Shadow boxing,3.4
+222,Push-jerk,3.5
+223,V-up,2.3
+223,Gorilla squat,2.0
+223,Wall calf stretch,3.3
+223,Glute Ham Raise,4.3
+223,Dumbbell farmer's walk,2.5
+223,Sled push-,2.3
+223,Power snatch-,3.9
+224,Incline dumbbell overhead triceps extension,1.4
+224,Split Jump,1.5
+224,Alternating standing glute stretch,4.2
+224,Barbell deficit deadlift,3.6
+224,Sled Push,1.7
+224,Plate push,5.0
+224,Power snatch-,4.1
+225,Band seated row,3.8
+225,90-degree jump squat,1.9
+225,Lying groin stretch with band,3.6
+225,Rack pull,4.0
+225,Tire flip,1.2
+225,Burpee,1.1
+225,Push-press,1.8
+226,Barbell front squat to back squat,2.0
+226,Side-to-side box skip,2.8
+226,Exercise ball chest stretch,1.9
+226,Glute Ham Raise,4.2
+226,Sled Push,2.5
+226,Bear crawl fire feet,4.6
+226,Clean and jerk,1.7
+227,Palms-out incline biceps curl,2.4
+227,Dumbbell seated box jump,1.9
+227,Standing side bend stretch,3.9
+227,Speed Box Squat,3.4
+227,Dumbbell farmer's walk,3.0
+227,Stationary bike,4.2
+227,Clean and jerk,1.7
+228,Kettlebell thruster progression,1.4
+228,Sit-up with single-arm overhand throw,1.9
+228,Standing hip circle,1.7
+228,Sumo deadlift,4.7
+228,Dumbbell farmer's walk,3.2
+228,Jumping Jack,2.0
+228,Behind-the-head push-press,3.8
+229,Dumbbell single-leg hip thrust,3.2
+229,Burpee tuck jump,2.2
+229,Single-leg lying cross-over stretch,4.6
+229,Barbell back squat to box,2.1
+229,Tire flip,2.3
+229,Treadmill running,4.4
+229,Behind-the-head push-press,3.6
+230,Lower Back Stretch - Yates Variation,4.2
+230,Bar Push-Up Smith Machine,3.4
+230,Lying hamstring stretch with band,3.7
+230,Rack pull,3.7
+230,Bear crawl sled drag,4.9
+230,Treadmill running,3.8
+230,Clean and jerk,1.0
+231,Narrow-stance squat,4.5
+231,Plyo push-up,3.8
+231,Half bird dog,3.9
+231,Glute Ham Raise,2.3
+231,Sled Push,3.0
+231,Treadmill walking,2.5
+231,Push-press,4.8
+232,Leverage High Row,3.7
+232,Sit-up with single-arm overhand throw,2.0
+232,Standing hamstring stretch,1.9
+232,Speed Box Squat,3.7
+232,Bear crawl sled drag,3.7
+232,Shadow boxing,4.6
+232,Push-press,2.7
+233,Standing suspended rear delt fly,2.8
+233,90-degree jump squat,1.0
+233,Quadriceps SMR,3.3
+233,Rack pull,3.1
+233,Bear crawl sled drag,3.7
+233,Stair climber,4.8
+233,Power snatch-,3.9
+234,Neutral-grip pull-up,1.7
+234,Jumping jack-,3.0
+234,Brachialis SMR,4.1
+234,Sumo deadlift,1.6
+234,Bear crawl sled drag,3.2
+234,Rower,2.3
+234,Push-press,2.4
+235,Close-grip bench press,4.5
+235,Slalom jumps,1.9
+235,Adductor SMR,2.9
+235,Dumbbell floor press,3.8
+235,Tire flip,4.1
+235,Stairmaster,4.9
+235,Behind-the-head push-press,3.7
+236,AM Close-Grip Pull-Down,3.8
+236,Box Jump (Multiple Response),1.3
+236,Piriformis SMR,1.6
+236,Barbell glute bridge,3.5
+236,Bear crawl sled drag,2.3
+236,Bear crawl fire feet,3.6
+236,Power snatch-,5.0
+237,BFR cable rope hammer curl,3.6
+237,Dumbbell seated box jump,1.5
+237,Standing side bend stretch,2.7
+237,Board bench press,1.3
+237,Dumbbell farmer's walk,2.7
+237,Shuttle run,1.2
+237,Behind-the-head push-press,4.5
+238,Dumbbell pull-over to skullcrusher,2.6
+238,Split Jump,4.9
+238,Exercise ball chest stretch,3.5
+238,Rack pull,2.7
+238,Dumbbell farmer's walk,2.1
+238,Treadmill running,2.3
+238,Push-press,3.4
+239,Scapular push-up,3.3
+239,Pop squat,3.5
+239,Shoulder T,4.0
+239,Barbell deficit deadlift,4.9
+239,Dumbbell farmer's walk,2.5
+239,Stationary bike,3.3
+239,Behind-the-head push-press,4.5
+240,FYR Running Lunge,2.0
+240,Broad jump,5.0
+240,One Handed Hang,3.5
+240,Barbell back squat to box,1.0
+240,Sled Push,3.2
+240,Jumping rope,2.7
+240,Push-press,1.7
+241,Cable Straight-Arm Pulldown - Gethin Variation,3.9
+241,90-degree jump squat,1.2
+241,Lying quad stretch with band,2.9
+241,Board bench press,2.9
+241,Bear crawl sled drag,2.2
+241,Jumping rope,1.0
+241,Push-jerk,3.1
+242,Machine seated calf raise,1.4
+242,Broad jump,4.0
+242,Adductor SMR,4.1
+242,Glute Ham Raise,1.2
+242,Dumbbell farmer's walk,1.3
+242,Bear crawl fire feet,3.0
+242,Behind-the-head push-press,4.7
+243,Single-arm kettlebell snatch,1.7
+243,Side-to-side box skip,4.2
+243,Half bird dog,1.3
+243,Barbell deficit deadlift,2.1
+243,Bear crawl sled drag,2.3
+243,Stationary bike,3.1
+243,Clean and jerk,3.2
+244,Cable Triceps Extension - Gethin Variation,4.6
+244,Medicine ball slam,1.1
+244,Adductor SMR,4.1
+244,Board bench press,4.9
+244,Bear crawl sled drag,5.0
+244,Treadmill jogging,1.5
+244,Push-press,3.4
+245,Lateral shuffle,3.4
+245,Broad jump,1.9
+245,Rhomboids SMR,1.9
+245,Barbell deficit deadlift,2.5
+245,Bear crawl sled drag,2.3
+245,Elliptical trainer,3.0
+245,Push-jerk,1.7
+246,Smith Machine Close-Grip Bench Press,4.4
+246,Bench skip,4.6
+246,Half bird dog,3.1
+246,Glute Ham Raise,2.9
+246,Dumbbell farmer's walk,4.2
+246,Stair climber,1.8
+246,Power snatch-,1.0
+247,Deadlift - Gethin Variation,4.8
+247,Medicine ball partner twist,1.0
+247,Exercise ball torso rotation,1.7
+247,Barbell back squat to box,2.0
+247,Sled Push,4.5
+247,Plate push,1.0
+247,Behind-the-head push-press,2.2
+248,TBS Good Morning,1.8
+248,Kettlebell fire feet,4.2
+248,Child's pose,2.1
+248,Barbell back squat to box,1.5
+248,Bear crawl sled drag,1.7
+248,Shuttle run,1.6
+248,Clean and jerk,2.1
+249,Exercise ball roll-out,4.0
+249,Speed skater,3.2
+249,Standing side bend stretch,3.9
+249,Board bench press,1.4
+249,Dumbbell farmer's walk,2.6
+249,Plate push,2.7
+249,Power snatch-,1.7
+250,Suspended row,4.7
+250,Running lunge,3.4
+250,Kneeling hip flexor stretch,4.9
+250,Barbell glute bridge,3.7
+250,Bear crawl sled drag,2.4
+250,Sled push-,4.8
+250,Clean and jerk,2.3
+251,BFR underhand straight-bar push-down,2.7
+251,Wall sprawl,4.0
+251,Single-leg balance and reach,2.5
+251,Glute Ham Raise,2.6
+251,Tire flip,3.5
+251,Bear crawl fire feet,1.3
+251,Push-jerk,1.3
+252,30 Cable Pallof Press,1.7
+252,Mountain climber,1.1
+252,Single-leg balance and reach,1.9
+252,Glute Ham Raise,2.7
+252,Bear crawl sled drag,1.9
+252,Shadow boxing,4.5
+252,Power snatch-,2.8
+253,Bent-knee Copenhagen hip adduction,3.6
+253,Mountain climber,2.1
+253,Lying quad stretch with band,2.5
+253,Board bench press,3.8
+253,Dumbbell farmer's walk,4.4
+253,Elliptical trainer,1.7
+253,Push-jerk,4.1
+254,Alternate Hammer Curl,4.1
+254,Split Jump,2.4
+254,Inchworm,1.3
+254,Barbell deficit deadlift,2.3
+254,Dumbbell farmer's walk,1.4
+254,Plate push,3.9
+254,Behind-the-head push-press,4.9
+255,Leg Press - Gethin Variation,2.7
+255,Pop squat,3.1
+255,Reach-roll-lift combo,1.4
+255,Barbell Hip Thrust,1.6
+255,Tire flip,2.3
+255,Jumping rope,1.9
+255,Power snatch-,3.6
+256,Pallof press,2.3
+256,Lateral cone hop,2.2
+256,Reach-roll-lift combo,1.4
+256,Sumo deadlift,2.3
+256,Sled Push,3.7
+256,Sled push-,1.4
+256,Power snatch-,4.5
+257,FYR Knees to Chest,3.1
+257,Pop squat,3.2
+257,Lying hamstring stretch with band,3.2
+257,Glute Ham Raise,1.0
+257,Bear crawl sled drag,4.1
+257,Treadmill running,1.3
+257,Power snatch-,2.7
+258,Medicine ball twist,4.0
+258,Bar Push-Up Smith Machine,3.6
+258,Shoulder T,1.1
+258,Sumo deadlift,3.3
+258,Sled Push,1.1
+258,Bear crawl fire feet,4.5
+258,Push-press,2.5
+259,Alternating dumbbell snatch,1.6
+259,Wall ball toss,2.7
+259,Arm circle,3.2
+259,Speed Box Squat,1.9
+259,Sled Push,4.9
+259,Plate push,4.9
+259,Behind-the-head push-press,2.9
+260,AM Dumbbell Bench Press,4.7
+260,In-out jump squat,2.9
+260,Crab single-arm reach,1.2
+260,Dumbbell floor press,1.4
+260,Bear crawl sled drag,4.6
+260,Shuttle run,4.5
+260,Clean and jerk,4.9
+261,FYR Banded Plank Jack,3.4
+261,Medicine ball slam,1.9
+261,Brachialis SMR,2.1
+261,Barbell deficit deadlift,4.5
+261,Dumbbell farmer's walk,3.8
+261,Shuttle run,3.0
+261,Behind-the-head push-press,1.2
+262,Dumbbell step-up,4.7
+262,Slalom jumps,2.4
+262,Calf SMR,2.4
+262,Rack pull,4.5
+262,Dumbbell farmer's walk,1.0
+262,Treadmill walking,4.0
+262,Behind-the-head push-press,2.2
+263,Reverse ab roll-out,4.5
+263,Broad jump,2.7
+263,Wall calf stretch,4.3
+263,Sumo deadlift,1.5
+263,Tire flip,2.6
+263,Treadmill walking,4.3
+263,Clean and jerk,3.3
+264,Standing calf raise-,3.7
+264,Southpaw sprawl,4.4
+264,Toe Touchers,4.7
+264,Barbell glute bridge,3.3
+264,Tire flip,4.3
+264,Treadmill jogging,3.4
+264,Clean and jerk,2.7
+265,Single-Arm Cable Outward-Facing Biceps Curl,3.1
+265,Jumping knee up-down,3.8
+265,Latissimus dorsi SMR,3.9
+265,Rack pull,1.8
+265,Sled Push,4.6
+265,Stairmaster,2.2
+265,Clean and jerk,1.2
+266,Seated triceps push-down,2.1
+266,Speed skater,1.4
+266,Quadriceps SMR,4.7
+266,Barbell back squat to box,4.3
+266,Dumbbell farmer's walk,2.9
+266,Stair climber,1.6
+266,Push-jerk,3.2
+267,Dumbbell skier,2.4
+267,Scissors Jump,4.1
+267,Alternating lunge jump,1.1
+267,Barbell Hip Thrust,2.8
+267,Dumbbell farmer's walk,1.6
+267,Shuttle run,1.6
+267,Power snatch-,3.5
+268,Partner medicine ball sit-up,3.1
+268,Lateral hop,2.4
+268,Lying groin stretch with band,1.7
+268,Barbell back squat to box,3.8
+268,Sled Push,4.7
+268,Sled push-,4.6
+268,Push-jerk,2.1
+269,30 Decline Reverse Crunch,4.4
+269,Gorilla squat,1.6
+269,Quadriceps SMR,1.6
+269,Barbell glute bridge,3.2
+269,Dumbbell farmer's walk,1.3
+269,Treadmill jogging,2.3
+269,Push-jerk,4.9
+270,Lower Back Stretch - Yates Variation,3.6
+270,Depth jump box jump,1.4
+270,Lying quad stretch with band,4.4
+270,Sumo deadlift,3.6
+270,Bear crawl sled drag,4.0
+270,Treadmill running,1.9
+270,Clean and jerk,1.3
+271,Parallel bars leg raise,1.5
+271,Lateral hop,2.3
+271,Reach-roll-lift combo,4.9
+271,Sumo deadlift,3.9
+271,Dumbbell farmer's walk,5.0
+271,Sled push-,2.9
+271,Clean and jerk,4.1
+272,Total Fitness Lateral Lunge,4.6
+272,Dumbbell jump squat,4.5
+272,Kneeling hip flexor stretch,2.8
+272,Board bench press,4.8
+272,Bear crawl sled drag,4.7
+272,Stationary bike,4.3
+272,Behind-the-head push-press,4.5
+273,AM Close-Grip Pull-Down,4.2
+273,Carioca quick step,1.8
+273,Exercise ball torso rotation,2.1
+273,Barbell back squat to box,4.3
+273,Sled Push,1.5
+273,Elliptical trainer,4.5
+273,Power snatch-,1.8
+274,Reverse-Grip Cable Triceps Pushdown - Gethin Variation,5.0
+274,Burpee over barbell,1.9
+274,Adductor SMR,4.2
+274,Barbell glute bridge,1.4
+274,Bear crawl sled drag,2.1
+274,Burpee,4.2
+274,Push-press,1.3
+275,Single-arm dumbbell skullcrusher,4.1
+275,Squat Isometric Hold,3.5
+275,Kneeling hip flexor stretch,3.4
+275,Sumo deadlift,1.5
+275,Dumbbell farmer's walk,4.8
+275,Bear crawl fire feet,1.4
+275,Behind-the-head push-press,1.3
+276,Partner target sit-up,2.3
+276,Pop squat,4.4
+276,Bent Over Shoulder Y,3.0
+276,Rack pull,1.1
+276,Tire flip,1.0
+276,Treadmill running,2.8
+276,Power snatch-,1.2
+277,Head-on-bench dumbbell rear delt raise,4.5
+277,Bar Push-Up Smith Machine,2.2
+277,Toe Touchers,4.9
+277,Rack pull,3.0
+277,Sled Push,4.4
+277,Bear crawl fire feet,1.8
+277,Push-press,1.1
+278,Standing cable leg curl,3.6
+278,Bar Push-Up Smith Machine,1.8
+278,Lying hamstring stretch with band,3.6
+278,Rack pull,2.5
+278,Tire flip,3.3
+278,Shadow boxing,4.2
+278,Behind-the-head push-press,3.2
+279,FYR Kettlebell Sumo Squat,3.0
+279,Bar Push-Up Smith Machine,4.7
+279,Alternating standing knee-pull stretch,3.8
+279,Barbell back squat to box,2.3
+279,Tire flip,2.5
+279,Sled push-,2.3
+279,Push-press,1.9
+280,Reverse-grip EZ-bar curl,1.8
+280,Knee Tuck Jump,1.6
+280,Crab single-arm reach,4.1
+280,Rack pull,4.7
+280,Sled Push,2.4
+280,Jumping Jack,1.9
+280,Push-press,3.2
+281,Romanian Deadlift,2.1
+281,Medicine ball partner twist,1.8
+281,Single-leg lying cross-over stretch,1.5
+281,Glute Ham Raise,4.2
+281,Sled Push,3.7
+281,Rower,2.2
+281,Push-jerk,2.5
+282,Bear crawl push-up,4.4
+282,Gorilla squat,3.1
+282,Piriformis SMR,3.0
+282,Barbell deficit deadlift,1.7
+282,Tire flip,1.5
+282,Treadmill running,1.7
+282,Push-press,4.2
+283,Reverse-grip bent-over row,2.6
+283,Broad jump,2.4
+283,World's greatest stretch,1.6
+283,Board bench press,2.5
+283,Dumbbell farmer's walk,1.6
+283,Bear crawl fire feet,2.5
+283,Clean and jerk,2.0
+284,Incline barbell shoulder protraction,4.2
+284,Bar Push-Up Smith Machine,2.6
+284,Single-leg balance and reach,1.5
+284,Barbell Hip Thrust,2.8
+284,Sled Push,4.7
+284,Treadmill running,2.4
+284,Clean and jerk,2.4
+285,Push-Up - Gethin Variation,3.0
+285,Squat Isometric Hold,2.9
+285,Single-leg lying cross-over stretch,4.1
+285,Dumbbell floor press,4.6
+285,Bear crawl sled drag,4.6
+285,Stationary bike,1.2
+285,Clean and jerk,1.9
+286,Seated Dumbbell Curl - Gethin Variation,3.6
+286,Gorilla squat,1.8
+286,Lying hamstring stretch with band,3.6
+286,Speed Box Squat,2.2
+286,Tire flip,3.7
+286,Stairmaster,3.7
+286,Push-press,4.6
+287,Shotgun row,1.2
+287,Jump lunge heel kick,4.7
+287,Pass-through stretch with band,1.8
+287,Barbell Hip Thrust,1.2
+287,Sled Push,1.6
+287,Treadmill jogging,3.0
+287,Clean and jerk,1.4
+288,Bench oblique crunch,4.1
+288,Jump Squat,4.5
+288,Exercise ball chest stretch,3.3
+288,Barbell back squat to box,3.4
+288,Bear crawl sled drag,1.7
+288,Burpee,2.2
+288,Behind-the-head push-press,4.8
+289,Leg Press - Gethin Variation,1.3
+289,Burpee tuck jump,3.4
+289,World's greatest stretch,3.4
+289,Board bench press,4.4
+289,Bear crawl sled drag,1.7
+289,Sled push-,4.5
+289,Push-jerk,4.2
+290,Dumbbell deadlift,4.7
+290,Burpee over barbell,2.6
+290,Single-leg balance and reach,2.2
+290,Barbell deficit deadlift,4.5
+290,Tire flip,2.0
+290,Sled push-,4.0
+290,Clean and jerk,1.5
+291,Single-arm stiff-legged deadlift,1.6
+291,Southpaw sprawl,4.7
+291,Alternating lunge jump,4.6
+291,Rack pull,4.3
+291,Sled Push,2.2
+291,Shadow boxing,1.8
+291,Push-jerk,2.2
+292,Straight-Arm Dumbbell Pull-Over - Gethin Variation,4.1
+292,Speed skater,2.4
+292,Exercise ball chest stretch,1.2
+292,Sumo deadlift,4.4
+292,Sled Push,1.6
+292,Shuttle run,2.7
+292,Push-jerk,3.3
+293,Upside-down pull-up,3.0
+293,Scissors Jump,3.2
+293,Inchworm,2.5
+293,Sumo deadlift,4.8
+293,Sled Push,1.6
+293,Stairmaster,2.9
+293,Behind-the-head push-press,2.8
+294,Lying cable front raise,2.3
+294,Side-to-side box skip,3.9
+294,Shoulder T,2.9
+294,Board bench press,3.0
+294,Tire flip,1.6
+294,High knees,4.9
+294,Clean and jerk,1.5
+295,Single-arm dumbbell racked carry,3.8
+295,Jumping jack-,4.5
+295,Single-leg lying cross-over stretch,3.7
+295,Good Morning,3.1
+295,Tire flip,1.5
+295,Treadmill running,4.1
+295,Behind-the-head push-press,4.8
+296,Seated dumbbell biceps curl,2.2
+296,Split Jump,4.7
+296,Wall calf stretch,1.2
+296,Barbell Hip Thrust,3.9
+296,Sled Push,3.3
+296,Jumping Jack,4.2
+296,Push-jerk,3.5
+297,Calf Press On A Hack Squat Machine - Gethin Variation,2.6
+297,Burpee tuck jump,4.8
+297,Piriformis SMR,1.2
+297,Barbell Hip Thrust,2.6
+297,Bear crawl sled drag,2.5
+297,High knees,3.1
+297,Clean and jerk,3.9
+298,Machine Seated Chest Press - Gethin Variation,3.1
+298,Jump Squat,1.2
+298,Lunge glute stretch,2.7
+298,Sumo deadlift,3.0
+298,Tire flip,3.2
+298,Elliptical trainer,1.2
+298,Clean and jerk,4.1
+299,Suspended oblique crunch,2.3
+299,Over bench jump,4.8
+299,Standing side bend stretch,2.9
+299,Glute Ham Raise,3.3
+299,Dumbbell farmer's walk,3.9
+299,Elliptical trainer,1.2
+299,Push-press,2.0
+300,Standing Calf Raises,4.4
+300,Single-cone sprint drill,2.3
+300,Piriformis SMR,2.6
+300,Speed Box Squat,3.1
+300,Bear crawl sled drag,3.8
+300,Bear crawl fire feet,3.1
+300,Clean and jerk,2.6
+301,Side plank lateral raise,3.2
+301,Plyo push-up,1.5
+301,One Handed Hang,4.5
+301,Barbell glute bridge,1.2
+301,Dumbbell farmer's walk,1.7
+301,Jumping rope,3.0
+301,Push-press,2.2
+302,Plank leg raise,3.0
+302,Burpee tuck jump,1.8
+302,Alternating standing knee-pull stretch,2.2
+302,Barbell Hip Thrust,3.9
+302,Dumbbell farmer's walk,2.8
+302,Bear crawl fire feet,4.5
+302,Clean and jerk,3.0
+303,Single-leg leg extension-,4.8
+303,Box jump,2.3
+303,Piriformis SMR,3.4
+303,Barbell back squat to box,2.3
+303,Tire flip,2.7
+303,Treadmill running,3.8
+303,Clean and jerk,3.9
+304,Barbell Shoulder Press,1.2
+304,Medicine ball slam,2.5
+304,Standing side bend stretch,4.5
+304,Barbell glute bridge,2.7
+304,Sled Push,2.1
+304,Burpee,1.5
+304,Push-press,2.5
+305,Dumbbell clean and push-press,3.0
+305,Jump Squat,2.7
+305,Brachialis SMR,4.6
+305,Barbell Hip Thrust,2.6
+305,Dumbbell farmer's walk,1.5
+305,High knees,2.5
+305,Behind-the-head push-press,4.7
+306,Bent-over dumbbell rear delt fly,4.5
+306,Broad jump,2.0
+306,Piriformis SMR,3.3
+306,Barbell Hip Thrust,2.2
+306,Dumbbell farmer's walk,2.0
+306,Bear crawl fire feet,4.0
+306,Push-jerk,3.2
+307,Alternating hanging knee raise,3.2
+307,Pop squat,3.5
+307,Iliotibial band SMR,1.0
+307,Board bench press,2.5
+307,Dumbbell farmer's walk,2.2
+307,Plate push,3.2
+307,Behind-the-head push-press,3.0
+308,AM Hammer Curls,2.1
+308,Medicine ball slam,1.2
+308,Standing hamstring stretch,4.7
+308,Dumbbell floor press,2.3
+308,Dumbbell farmer's walk,1.2
+308,Shadow boxing,3.0
+308,Push-jerk,1.2
+309,Alternating hanging knee raise,4.8
+309,Lateral hop,2.1
+309,Kneeling hip flexor stretch,1.7
+309,Barbell deficit deadlift,3.9
+309,Tire flip,4.2
+309,Shadow boxing,3.2
+309,Clean and jerk,3.9
+310,Smith machine lunge sprint,1.1
+310,Depth jump box jump,1.3
+310,Half bird dog,3.4
+310,Barbell back squat to box,1.4
+310,Tire flip,2.0
+310,Jumping Jack,3.7
+310,Clean and jerk,1.9
+311,Seated dumbbell lateral raise,4.2
+311,Clapping Push-Up,4.2
+311,World's greatest stretch,4.2
+311,Barbell Hip Thrust,4.4
+311,Sled Push,3.5
+311,Bear crawl fire feet,1.2
+311,Power snatch-,3.0
+312,Smith machine box squat,3.2
+312,Burpee tuck jump,4.0
+312,Wall calf stretch,3.6
+312,Glute Ham Raise,2.6
+312,Sled Push,3.6
+312,Rower,4.5
+312,Power snatch-,4.8
+313,Rotator cuff warm-up,2.5
+313,Side-to-side box skip,2.8
+313,Cross-body shoulder stretch,1.0
+313,Good Morning,3.2
+313,Tire flip,2.8
+313,High knees,3.5
+313,Push-press,2.2
+314,Plate hammer curl,3.7
+314,Dumbbell jump squat,4.8
+314,Alternating lunge jump,4.7
+314,Barbell glute bridge,1.8
+314,Sled Push,4.1
+314,Elliptical trainer,2.6
+314,Push-press,2.4
+315,FYR Tuck Jump,4.2
+315,Medicine Ball Chest Pass,3.1
+315,Yoga plex,1.9
+315,Rack pull,4.4
+315,Bear crawl sled drag,3.5
+315,Burpee,2.9
+315,Power snatch-,2.6
+316,Barbell stiff-legged deadlift,4.2
+316,Burpee box jump,2.7
+316,Kneeling hip flexor stretch,5.0
+316,Sumo deadlift,3.4
+316,Tire flip,1.7
+316,Burpee,2.1
+316,Push-press,4.7
+317,Lunge hold dumbbell curl,2.3
+317,Medicine ball partner twist,4.8
+317,Inchworm,3.6
+317,Board bench press,4.8
+317,Dumbbell farmer's walk,1.4
+317,Sled push-,4.1
+317,Power snatch-,4.1
+318,Tiger-bend push-up,4.4
+318,Wall ball toss,4.2
+318,Lying hamstring stretch with band,3.9
+318,Board bench press,3.0
+318,Bear crawl sled drag,2.1
+318,Treadmill walking,4.8
+318,Clean and jerk,3.0
+319,Decline plate sit-up,2.2
+319,Burpee box jump,4.1
+319,Kneeling hip flexor stretch,1.7
+319,Rack pull,3.1
+319,Sled Push,4.5
+319,Jumping Jack,1.3
+319,Behind-the-head push-press,4.0
+320,Incline Dumbbell Press - Gethin Variation,2.6
+320,Box jump,3.7
+320,Adductor SMR,4.5
+320,Barbell glute bridge,1.9
+320,Dumbbell farmer's walk,1.3
+320,Jumping rope,1.9
+320,Push-press,4.9
+321,TBS Barbell Military Press,2.4
+321,Jumping knee up-down,4.4
+321,Standing leg swing,2.5
+321,Glute Ham Raise,3.9
+321,Tire flip,2.0
+321,Treadmill running,1.0
+321,Push-press,5.0
+322,King Maker Weighted Jump Squat,2.1
+322,Southpaw sprawl,4.0
+322,Adductor SMR,2.2
+322,Rack pull,4.3
+322,Bear crawl sled drag,1.7
+322,Treadmill jogging,3.1
+322,Behind-the-head push-press,3.8
+323,Partner sit-up with high-five,1.3
+323,Plyo push-up,4.2
+323,Latissimus dorsi SMR,3.0
+323,Barbell deficit deadlift,4.6
+323,Tire flip,4.0
+323,High knees,1.3
+323,Push-jerk,3.0
+324,TBS Back Extension,4.0
+324,Wall sprawl,3.3
+324,Reverse lunge,4.2
+324,Barbell back squat to box,4.8
+324,Dumbbell farmer's walk,4.0
+324,Burpee,3.7
+324,Clean and jerk,2.9
+325,Close-grip bench press,1.7
+325,Box Jump (Multiple Response),2.9
+325,Lying quad stretch with band,1.4
+325,Sumo deadlift,3.9
+325,Dumbbell farmer's walk,2.2
+325,Jumping Jack,2.4
+325,Clean and jerk,3.9
+326,Weighted pull-up,2.1
+326,Knee Tuck Jump,1.3
+326,Standing hip circle,2.2
+326,Good Morning,3.3
+326,Bear crawl sled drag,4.8
+326,Rower,1.7
+326,Push-jerk,2.2
+327,Bent-over plate rear delt raise,3.0
+327,Depth jump box jump,3.6
+327,Iliotibial band SMR,4.1
+327,Rack pull,3.8
+327,Sled Push,3.7
+327,Jumping rope,1.2
+327,Push-press,3.8
+328,Hanging toes-to-bar,3.2
+328,Lateral cone hop,3.8
+328,Bar shoulder extension stretch,2.0
+328,Rack pull,1.7
+328,Bear crawl sled drag,1.5
+328,Sled push-,4.1
+328,Push-jerk,2.1
+329,TBS Hack Squat,1.3
+329,Burpee to pull-up,2.4
+329,Exercise ball torso rotation,3.0
+329,Rack pull,2.1
+329,Tire flip,4.6
+329,Treadmill running,4.7
+329,Power snatch-,1.6
+330,Forward lunge,1.7
+330,Jump Squat,1.8
+330,Bent Over Shoulder Y,3.7
+330,Barbell glute bridge,4.1
+330,Tire flip,1.9
+330,Treadmill jogging,4.9
+330,Behind-the-head push-press,3.1
+331,Power clean,2.3
+331,Plyo push-up,1.7
+331,Exercise ball torso rotation,3.7
+331,Rack pull,1.2
+331,Dumbbell farmer's walk,4.8
+331,Plate push,4.7
+331,Clean and jerk,3.6
+332,Single-arm inverted row,2.1
+332,Burpee tuck jump,3.8
+332,Standing leg swing,2.0
+332,Barbell glute bridge,2.5
+332,Dumbbell farmer's walk,3.2
+332,Plate push,4.4
+332,Push-press,3.5
+333,Dumbbell saw triceps skullcrusher,2.7
+333,Running lunge,1.5
+333,Piriformis SMR,2.2
+333,Barbell glute bridge,1.1
+333,Dumbbell farmer's walk,1.9
+333,Bear crawl fire feet,2.9
+333,Push-jerk,3.9
+334,30 V-Up,4.6
+334,Burpee over barbell,2.1
+334,Crab single-arm reach,4.0
+334,Dumbbell floor press,3.8
+334,Tire flip,3.3
+334,Shadow boxing,2.2
+334,Power snatch-,4.5
+335,ACFT Hanging leg tuck,2.6
+335,Medicine ball ninja,1.4
+335,Standing hamstring stretch,3.6
+335,Good Morning,3.6
+335,Sled Push,2.3
+335,Stair climber,2.1
+335,Push-press,3.3
+336,Dumbbell chest fly,3.6
+336,In-out jump squat,3.3
+336,Toe Touchers,4.3
+336,Barbell glute bridge,1.2
+336,Tire flip,2.7
+336,Stairmaster,1.2
+336,Clean and jerk,4.1
+337,Incline straight-arm pull-over,4.9
+337,Sledgehammer swing,4.6
+337,Alternating standing glute stretch,1.8
+337,Sumo deadlift,3.8
+337,Sled Push,3.4
+337,Sled push-,2.8
+337,Power snatch-,1.3
+338,Single-arm bent-over cable rear delt fly,4.1
+338,Pop squat,4.9
+338,Lying groin stretch with band,4.9
+338,Good Morning,4.4
+338,Sled Push,4.9
+338,Elliptical trainer,4.5
+338,Push-jerk,4.9
+339,Barbell side split squat,1.6
+339,Lateral hop,3.0
+339,Bar shoulder extension stretch,3.3
+339,Dumbbell floor press,4.6
+339,Bear crawl sled drag,2.5
+339,Jumping Jack,1.0
+339,Behind-the-head push-press,4.4
+340,Single-arm cable front raise,3.8
+340,Medicine ball partner twist,1.5
+340,Exercise ball torso rotation,3.1
+340,Speed Box Squat,2.2
+340,Bear crawl sled drag,1.6
+340,Plate push,1.3
+340,Behind-the-head push-press,1.2
+341,Stiff-Legged Dumbbell Deadlift,1.6
+341,Bar Push-Up Smith Machine,3.1
+341,Child's pose,2.6
+341,Barbell back squat to box,3.4
+341,Dumbbell farmer's walk,5.0
+341,Bear crawl fire feet,2.7
+341,Push-jerk,1.7
+342,Total Fitness Dumbbell Farmer's Carry,1.1
+342,Sledgehammer swing,4.9
+342,Exercise ball torso rotation,4.5
+342,Good Morning,3.4
+342,Sled Push,4.8
+342,Burpee,4.2
+342,Push-jerk,5.0
+343,Diamond push-up,1.4
+343,Burpee to pull-up,1.9
+343,One Handed Hang,3.3
+343,Barbell back squat to box,4.8
+343,Sled Push,2.8
+343,Treadmill running,2.3
+343,Push-press,2.3
+344,Dumbbell suitcase crunch,2.7
+344,Dumbbell lateral hop,1.1
+344,Lunge glute stretch,2.5
+344,Dumbbell floor press,2.6
+344,Sled Push,3.9
+344,Plate push,1.3
+344,Power snatch-,2.2
+345,Overhead dumbbell front raise,2.4
+345,Box Jump (Multiple Response),2.3
+345,Standing hamstring stretch,1.3
+345,Good Morning,2.4
+345,Sled Push,3.4
+345,Plate push,4.3
+345,Clean and jerk,4.9
+346,Kettlebell One-Legged Deadlift,4.3
+346,Jumping jack-,2.3
+346,Rhomboids SMR,3.5
+346,Speed Box Squat,2.8
+346,Tire flip,4.3
+346,Stationary bike,3.5
+346,Power snatch-,1.2
+347,Floor rope climb,4.4
+347,Wall sprawl,4.7
+347,World's greatest stretch,1.7
+347,Dumbbell floor press,1.4
+347,Sled Push,4.1
+347,Jumping Jack,3.8
+347,Clean and jerk,2.8
+348,Single-leg depth squat,3.9
+348,Clapping Push-Up,2.6
+348,Alternating standing glute stretch,4.5
+348,Sumo deadlift,3.8
+348,Dumbbell farmer's walk,1.6
+348,Plate push,2.6
+348,Push-jerk,1.1
+349,Vertical jump,4.3
+349,Slalom jumps,2.0
+349,Lying hamstring stretch with band,2.4
+349,Barbell Hip Thrust,4.9
+349,Sled Push,3.1
+349,Treadmill jogging,3.1
+349,Clean and jerk,2.5
+350,Leg Press - Gethin Variation,3.7
+350,Burpee tuck jump,4.4
+350,Alternating standing glute stretch,1.4
+350,Barbell glute bridge,1.1
+350,Sled Push,4.0
+350,Shuttle run,3.6
+350,Power snatch-,4.3
+351,FYR Leg Lift,2.6
+351,Box jump,3.1
+351,Alternating standing knee-pull stretch,4.6
+351,Good Morning,4.7
+351,Sled Push,2.7
+351,Stair climber,3.3
+351,Push-jerk,3.8
+352,Floor rope climb,2.4
+352,Jump Squat,2.8
+352,Crab single-arm reach,1.8
+352,Barbell glute bridge,2.0
+352,Dumbbell farmer's walk,4.7
+352,Jumping rope,1.8
+352,Push-press,2.8
+353,Assist machine triceps push-down,4.5
+353,Lateral box jump,1.7
+353,Exercise ball torso rotation,4.6
+353,Good Morning,1.2
+353,Sled Push,3.7
+353,Stair climber,1.7
+353,Push-press,2.7
+354,Seated Straigh-Bar Curl Superset,1.1
+354,Sit-up with single-arm overhand throw,2.2
+354,Bar shoulder extension stretch,3.1
+354,Barbell glute bridge,1.3
+354,Sled Push,3.9
+354,Treadmill walking,2.4
+354,Clean and jerk,1.1
+355,Standing Cable Wood Chop,3.7
+355,Medicine ball ninja,4.5
+355,Lunge glute stretch,2.7
+355,Barbell Hip Thrust,2.6
+355,Bear crawl sled drag,3.1
+355,Rower,4.5
+355,Clean and jerk,4.0
+356,Natural Glute Ham Raise - Gethin Variation,2.7
+356,Kettlebell fire feet,3.2
+356,Child's pose,3.5
+356,Board bench press,4.7
+356,Bear crawl sled drag,2.8
+356,Treadmill jogging,2.5
+356,Power snatch-,2.2
+357,Single-leg burpee,3.9
+357,Dumbbell jump squat,4.5
+357,Reverse lunge,4.9
+357,Good Morning,4.3
+357,Dumbbell farmer's walk,4.1
+357,Jumping Jack,4.6
+357,Behind-the-head push-press,4.4
+358,Lying oblique crunch,1.3
+358,Mountain climber,4.2
+358,Bar shoulder extension stretch,3.8
+358,Glute Ham Raise,4.4
+358,Sled Push,1.2
+358,Jumping Jack,1.3
+358,Push-jerk,2.7
+359,Cable straight-bar push-down,3.3
+359,Burpee to pull-up,3.5
+359,Superman,1.5
+359,Board bench press,4.7
+359,Dumbbell farmer's walk,4.7
+359,Jumping rope,3.1
+359,Clean and jerk,4.1
+360,Total Fitness Lateral Lunge,1.5
+360,In-out jump squat,1.4
+360,Half bird dog,3.9
+360,Good Morning,3.3
+360,Dumbbell farmer's walk,4.9
+360,Elliptical trainer,3.8
+360,Behind-the-head push-press,4.9
+361,Car driver,2.8
+361,In-out jump squat,4.0
+361,Standing leg swing,2.5
+361,Barbell Hip Thrust,1.3
+361,Bear crawl sled drag,2.6
+361,Rower,3.1
+361,Push-jerk,3.3
+362,Lying cable triceps extension,4.7
+362,Dumbbell seated box jump,2.7
+362,Reach-roll-lift combo,3.0
+362,Speed Box Squat,4.4
+362,Bear crawl sled drag,2.1
+362,Stationary bike,4.9
+362,Clean and jerk,4.9
+363,FYR Crab Kick,2.5
+363,Pop squat,3.6
+363,Alternating lunge jump,4.2
+363,Good Morning,1.0
+363,Tire flip,1.8
+363,High knees,4.3
+363,Push-jerk,2.4
+364,Hammer curl,4.1
+364,Lateral box jump,3.2
+364,Rhomboids SMR,4.3
+364,Barbell Hip Thrust,2.1
+364,Bear crawl sled drag,3.1
+364,Bear crawl fire feet,3.6
+364,Power snatch-,1.9
+365,Southpaw sprawl with push-up,2.8
+365,Side-to-side box skip,2.7
+365,Child's pose,4.4
+365,Speed Box Squat,3.5
+365,Bear crawl sled drag,4.5
+365,Stairmaster,2.7
+365,Behind-the-head push-press,3.1
+366,Paul Carter Romanian Deadlift,2.6
+366,Sledgehammer swing,1.5
+366,Reach-roll-lift combo,1.3
+366,Barbell deficit deadlift,2.9
+366,Dumbbell farmer's walk,3.6
+366,Stairmaster,3.5
+366,Push-press,3.8
+367,FYR Dumbbell front raise to lateral raise,2.2
+367,Broad jump,2.3
+367,Arm circle,3.0
+367,Rack pull,2.0
+367,Bear crawl sled drag,2.6
+367,Jumping rope,2.6
+367,Clean and jerk,1.7
+368,Single-leg V-up,2.1
+368,Side-to-side box skip,4.9
+368,Reverse lunge,4.2
+368,Barbell deficit deadlift,1.9
+368,Bear crawl sled drag,2.8
+368,Shadow boxing,3.2
+368,Push-press,4.7
+369,TBS Good Morning,3.4
+369,Dumbbell lateral hop to sprint,3.8
+369,Standing hamstring stretch,3.1
+369,Barbell back squat to box,1.3
+369,Bear crawl sled drag,3.9
+369,Stationary bike,3.3
+369,Behind-the-head push-press,3.3
+370,Barbell Incline Bench Press Medium-Grip,2.6
+370,Jump Squat,2.9
+370,Lying glute stretch,4.3
+370,Barbell deficit deadlift,1.2
+370,Sled Push,4.8
+370,Elliptical trainer,4.9
+370,Behind-the-head push-press,2.2
+371,Bootstrapper squat,2.6
+371,Wall sprawl,3.1
+371,Exercise ball torso rotation,4.1
+371,Dumbbell floor press,4.0
+371,Bear crawl sled drag,3.8
+371,Rower,2.5
+371,Behind-the-head push-press,1.5
+372,Reverse-grip EZ-bar curl,1.6
+372,Sprawl frog kick,1.1
+372,Standing leg swing,4.9
+372,Glute Ham Raise,3.0
+372,Bear crawl sled drag,1.9
+372,Treadmill jogging,4.9
+372,Behind-the-head push-press,1.8
+373,Total Fitness Dumbbell Reverse Lunge,2.1
+373,90-degree jump squat,4.2
+373,Inchworm,3.9
+373,Speed Box Squat,3.9
+373,Dumbbell farmer's walk,5.0
+373,Stationary bike,2.9
+373,Power snatch-,4.0
+374,UP Hamstring Curl,4.0
+374,Gorilla squat,4.8
+374,Toe Touchers,3.9
+374,Dumbbell floor press,3.7
+374,Dumbbell farmer's walk,3.0
+374,Shuttle run,2.5
+374,Push-press,4.9
+375,TBS Romanian Deadlift,1.5
+375,Sledgehammer swing,3.1
+375,Iliotibial band SMR,2.7
+375,Board bench press,3.8
+375,Bear crawl sled drag,4.4
+375,Stairmaster,3.8
+375,Push-press,1.0
+376,Incline dumbbell reverse fly,3.1
+376,Medicine ball ninja,1.8
+376,Cross-body shoulder stretch,2.7
+376,Speed Box Squat,1.8
+376,Bear crawl sled drag,4.3
+376,Stair climber,4.0
+376,Push-jerk,3.4
+377,Upside-down pull-up,4.9
+377,Bar Push-Up Smith Machine,2.2
+377,Rhomboids SMR,1.5
+377,Barbell deficit deadlift,2.1
+377,Tire flip,1.3
+377,Plate push,1.2
+377,Push-jerk,1.4
+378,Single-arm kettlebell row,1.7
+378,Lateral cone hop,3.3
+378,Half bird dog,3.1
+378,Barbell back squat to box,4.6
+378,Sled Push,4.7
+378,Treadmill walking,1.7
+378,Clean and jerk,3.7
+379,FYR Banded Plank Jack,3.1
+379,Jumping jack-,3.8
+379,Reverse lunge,3.3
+379,Barbell back squat to box,2.7
+379,Tire flip,1.9
+379,Treadmill walking,3.8
+379,Behind-the-head push-press,1.8
+380,Weighted Sit-Ups - With Bands,4.6
+380,Clapping Push-Up,3.4
+380,Reverse lunge,3.1
+380,Speed Box Squat,1.4
+380,Sled Push,1.2
+380,Shuttle run,1.1
+380,Power snatch-,2.5
+381,Close-grip bench press,4.6
+381,Box Jump (Multiple Response),4.6
+381,One Handed Hang,4.0
+381,Speed Box Squat,1.3
+381,Bear crawl sled drag,4.5
+381,Jumping rope,1.5
+381,Push-press,4.3
+382,Band Pull Apart,4.0
+382,Burpee tuck jump,4.1
+382,Toe Touchers,1.7
+382,Barbell glute bridge,1.2
+382,Tire flip,1.5
+382,Jumping Jack,1.3
+382,Push-press,2.8
+383,Band shoulder press,2.7
+383,Split Jump,3.7
+383,Piriformis SMR,1.2
+383,Good Morning,3.3
+383,Tire flip,4.9
+383,Sled push-,3.6
+383,Push-jerk,2.1
+384,Single-arm kneeling lat pull-down,1.2
+384,Dumbbell seated box jump,3.3
+384,Kneeling hip flexor stretch,1.8
+384,Barbell deficit deadlift,2.4
+384,Tire flip,4.2
+384,Bear crawl fire feet,1.3
+384,Push-jerk,3.7
+385,Single-leg dumbbell Romanian deadlift,5.0
+385,Over bench jump,1.2
+385,Rhomboids SMR,2.5
+385,Good Morning,4.7
+385,Tire flip,1.9
+385,Treadmill running,3.0
+385,Push-jerk,1.2
+386,FYR Bent-Over Dumbbell Row,1.4
+386,Sledgehammer swing,1.7
+386,Quadriceps SMR,3.5
+386,Speed Box Squat,4.0
+386,Bear crawl sled drag,1.8
+386,Rower,1.6
+386,Push-press,2.2
+387,Incline dumbbell reverse fly,2.2
+387,Single-cone sprint drill,3.0
+387,Exercise ball torso rotation,1.1
+387,Barbell glute bridge,2.6
+387,Tire flip,2.5
+387,Treadmill jogging,1.4
+387,Clean and jerk,4.3
+388,Rack Pull - Gethin Variation,2.1
+388,Scissors Jump,1.1
+388,Single-leg balance and reach,2.4
+388,Speed Box Squat,2.2
+388,Tire flip,3.2
+388,Shuttle run,2.8
+388,Power snatch-,2.8
+389,Smith machine behind-the-back shrug,3.6
+389,Depth jump box jump,2.0
+389,Standing side bend stretch,2.3
+389,Barbell back squat to box,3.7
+389,Sled Push,2.2
+389,Sled push-,3.9
+389,Power snatch-,3.3
+390,Side-lying leg lift,2.8
+390,Side-to-side box skip,3.3
+390,World's greatest stretch,2.4
+390,Barbell deficit deadlift,3.7
+390,Dumbbell farmer's walk,4.8
+390,Jumping rope,4.3
+390,Clean and jerk,1.6
+391,UP Incline Dumbbell Fly,2.9
+391,Sit-up with single-arm overhand throw,2.7
+391,Alternating standing knee-pull stretch,5.0
+391,Dumbbell floor press,1.5
+391,Dumbbell farmer's walk,1.5
+391,Stationary bike,3.9
+391,Clean and jerk,4.8
+392,Spider lunge stretch,4.0
+392,Jumping jack-,1.5
+392,Alternating standing knee-pull stretch,4.2
+392,Barbell deficit deadlift,4.2
+392,Dumbbell farmer's walk,4.3
+392,Shuttle run,4.9
+392,Push-press,2.7
+393,Smith machine bench press,2.6
+393,Medicine ball slam,2.5
+393,Single-leg lying cross-over stretch,3.7
+393,Barbell back squat to box,1.8
+393,Tire flip,2.6
+393,Treadmill running,4.3
+393,Clean and jerk,2.0
+394,Weighted pull-up,2.2
+394,Kettlebell fire feet,2.4
+394,Standing hip circle,1.1
+394,Barbell back squat to box,1.9
+394,Bear crawl sled drag,2.2
+394,Jumping rope,4.4
+394,Behind-the-head push-press,3.5
+395,Reverse-grip bent-over row,4.3
+395,Dumbbell jump squat,2.1
+395,Exercise ball torso rotation,3.8
+395,Barbell deficit deadlift,2.1
+395,Dumbbell farmer's walk,2.7
+395,Shadow boxing,4.2
+395,Clean and jerk,2.7
+396,Decline kayak,1.2
+396,Lateral box jump,1.8
+396,Adductor SMR,3.2
+396,Good Morning,3.1
+396,Dumbbell farmer's walk,2.6
+396,Burpee,3.8
+396,Clean and jerk,1.6
+397,Spider crawl,4.2
+397,Burpee tuck jump,3.8
+397,Adductor SMR,2.0
+397,Barbell glute bridge,2.4
+397,Tire flip,2.4
+397,Elliptical trainer,3.2
+397,Behind-the-head push-press,4.2
+398,Cable Rear Delt Fly - Gethin Variation,3.7
+398,Single-cone sprint drill,1.7
+398,Alternating lunge jump,2.6
+398,Rack pull,1.2
+398,Bear crawl sled drag,4.3
+398,Burpee,4.5
+398,Power snatch-,4.7
+399,Single-arm triceps kick-back,4.2
+399,Bar Push-Up Smith Machine,1.5
+399,Wall calf stretch,4.3
+399,Dumbbell floor press,4.8
+399,Bear crawl sled drag,4.7
+399,High knees,2.7
+399,Clean and jerk,1.0
+400,BOSU cross-body crunch,3.3
+400,Single-cone sprint drill,1.0
+400,Alternating lunge jump,4.5
+400,Glute Ham Raise,1.0
+400,Sled Push,1.9
+400,High knees,2.1
+400,Power snatch-,4.2
+401,Floor rope climb,3.7
+401,Burpee over barbell,3.0
+401,Calf SMR,1.9
+401,Board bench press,2.8
+401,Tire flip,2.7
+401,Rower,3.2
+401,Power snatch-,1.9
+402,Standing band biceps curl,2.0
+402,Wall sprawl,1.8
+402,Reverse lunge,4.1
+402,Barbell Hip Thrust,4.2
+402,Dumbbell farmer's walk,2.5
+402,Plate push,4.9
+402,Push-press,1.8
+403,Plank up-down,4.9
+403,Burpee to pull-up,4.5
+403,Reach-roll-lift combo,2.5
+403,Barbell glute bridge,4.8
+403,Dumbbell farmer's walk,1.4
+403,Treadmill jogging,2.3
+403,Clean and jerk,2.9
+404,Lying high-cable biceps curl,1.3
+404,Wall sprawl,2.4
+404,Wall calf stretch,3.9
+404,Barbell deficit deadlift,2.9
+404,Bear crawl sled drag,3.2
+404,High knees,1.3
+404,Behind-the-head push-press,3.9
+405,Lunge high-knee clap,3.7
+405,Dumbbell lateral hop to sprint,3.8
+405,Single-leg balance and reach,4.2
+405,Dumbbell floor press,4.7
+405,Dumbbell farmer's walk,1.8
+405,Sled push-,2.2
+405,Clean and jerk,4.2
+406,Walking lunge with twist,3.6
+406,Single-cone sprint drill,1.9
+406,Standing leg swing,3.1
+406,Speed Box Squat,1.6
+406,Bear crawl sled drag,4.7
+406,Sled push-,4.5
+406,Clean and jerk,3.4
+407,Incline dumbbell row,4.6
+407,Wall ball toss,3.3
+407,Exercise ball torso rotation,3.5
+407,Speed Box Squat,1.5
+407,Sled Push,3.6
+407,Shadow boxing,3.1
+407,Push-press,3.3
+408,Spider plank jack,4.8
+408,Single-cone sprint drill,2.5
+408,Standing leg swing,4.6
+408,Barbell Hip Thrust,4.0
+408,Tire flip,2.4
+408,Stairmaster,2.5
+408,Push-jerk,4.3
+409,TBS Dip,3.3
+409,Knee Tuck Jump,1.7
+409,Pass-through stretch with band,4.1
+409,Barbell Hip Thrust,4.0
+409,Tire flip,2.0
+409,Bear crawl fire feet,3.6
+409,Push-press,1.4
+410,FYR Leg Lift,5.0
+410,Jump Squat,1.8
+410,Superman,2.2
+410,Barbell Hip Thrust,4.6
+410,Sled Push,1.9
+410,Stationary bike,3.6
+410,Behind-the-head push-press,2.8
+411,Single-Leg Press,3.2
+411,Medicine Ball Chest Pass,3.7
+411,Bent Over Shoulder Y,4.3
+411,Dumbbell floor press,4.2
+411,Tire flip,3.7
+411,High knees,2.3
+411,Power snatch-,4.7
+412,Dumbbell crusher,1.4
+412,Single-cone sprint drill,1.2
+412,Piriformis SMR,4.2
+412,Good Morning,3.3
+412,Bear crawl sled drag,4.2
+412,Stair climber,1.7
+412,Power snatch-,1.6
+413,AM Close-Grip Pull-Down,2.1
+413,Lateral cone hop,2.0
+413,Bent Over Shoulder Y,3.4
+413,Barbell glute bridge,2.8
+413,Bear crawl sled drag,1.0
+413,Sled push-,1.8
+413,Behind-the-head push-press,2.1
+414,Partner sit-up with high-five,3.8
+414,Speed skater,4.4
+414,Shoulder T,4.9
+414,Speed Box Squat,4.0
+414,Sled Push,3.7
+414,Treadmill jogging,1.4
+414,Push-press,3.1
+415,Barbell Front-To-Back Squat,3.4
+415,Burpee tuck jump,3.1
+415,Exercise ball torso rotation,2.2
+415,Good Morning,1.1
+415,Bear crawl sled drag,1.6
+415,Rower,2.7
+415,Clean and jerk,3.9
+416,Paul Carter Dumbbell Kick-Back,1.7
+416,Kettlebell fire feet,2.4
+416,Calf SMR,1.1
+416,Barbell back squat to box,2.6
+416,Sled Push,2.8
+416,Sled push-,4.1
+416,Push-jerk,1.5
+417,Kettlebell Windmill,1.4
+417,Dumbbell lateral hop to sprint,3.8
+417,Piriformis SMR,2.8
+417,Barbell Hip Thrust,3.7
+417,Bear crawl sled drag,4.7
+417,Sled push-,4.7
+417,Behind-the-head push-press,2.2
+418,Typewriter push-up,2.4
+418,Scissors Jump,1.6
+418,Lying glute stretch,2.2
+418,Good Morning,4.5
+418,Tire flip,3.4
+418,Bear crawl fire feet,2.3
+418,Behind-the-head push-press,3.1
+419,Neutral-grip dumbbell bench press,3.8
+419,Side-to-side box skip,4.3
+419,Lunge glute stretch,4.5
+419,Speed Box Squat,1.5
+419,Bear crawl sled drag,1.5
+419,Stairmaster,1.7
+419,Push-jerk,3.3
+420,Dumbbell straight-legged hip raise,4.7
+420,Sit-up with single-arm overhand throw,2.6
+420,Kneeling hip flexor stretch,2.4
+420,Sumo deadlift,2.2
+420,Sled Push,3.3
+420,Plate push,3.6
+420,Power snatch-,5.0
+421,Dumbbell biceps curl to upright row,3.2
+421,Sprawl frog kick,4.0
+421,One Handed Hang,1.1
+421,Barbell glute bridge,1.7
+421,Sled Push,3.8
+421,Jumping Jack,3.0
+421,Behind-the-head push-press,2.7
+422,Single-arm cable biceps curl,3.2
+422,Jumping knee up-down,2.3
+422,World's greatest stretch,2.4
+422,Good Morning,4.4
+422,Sled Push,3.4
+422,Plate push,2.8
+422,Push-press,3.3
+423,Jump squat-,1.5
+423,Medicine ball partner twist,1.1
+423,Adductor SMR,1.7
+423,Rack pull,2.1
+423,Dumbbell farmer's walk,1.7
+423,Treadmill walking,2.5
+423,Push-press,2.6
+424,Partner side plank band row,4.1
+424,Dumbbell lateral hop to sprint,1.6
+424,Shoulder T,4.1
+424,Board bench press,2.8
+424,Sled Push,2.7
+424,Sled push-,1.6
+424,Push-jerk,3.8
+425,Standing lat pull-down,1.4
+425,Wall sprawl,4.1
+425,Reverse lunge,4.3
+425,Board bench press,1.4
+425,Bear crawl sled drag,3.5
+425,Stair climber,2.0
+425,Power snatch-,1.4
+426,Single-arm barbell lateral raise,1.0
+426,Lateral box jump,1.4
+426,Standing hamstring stretch,4.9
+426,Speed Box Squat,4.5
+426,Tire flip,4.8
+426,Shuttle run,1.3
+426,Power snatch-,4.6
+427,Barbell deadlift bent-over row complex,3.1
+427,Dumbbell lateral hop to sprint,4.1
+427,Bar shoulder extension stretch,1.7
+427,Barbell deficit deadlift,3.6
+427,Bear crawl sled drag,2.0
+427,Rower,1.1
+427,Clean and jerk,3.0
+428,Single-leg lying leg curl,2.5
+428,Split Jump,2.3
+428,Child's pose,1.6
+428,Good Morning,3.9
+428,Dumbbell farmer's walk,4.9
+428,Stairmaster,1.8
+428,Clean and jerk,2.8
+429,Straight-arm plank,2.8
+429,Carioca quick step,2.7
+429,Crab single-arm reach,2.8
+429,Barbell glute bridge,2.0
+429,Dumbbell farmer's walk,3.8
+429,Shadow boxing,3.8
+429,Power snatch-,3.9
+430,Hanging leg raise,4.3
+430,Squat Isometric Hold,1.6
+430,Quadriceps SMR,3.0
+430,Barbell back squat to box,3.6
+430,Tire flip,4.3
+430,Shadow boxing,4.3
+430,Behind-the-head push-press,3.6
+431,FYR Bear Crawl Shoulder Tap,2.2
+431,Burpee over barbell,3.6
+431,Brachialis SMR,4.0
+431,Barbell glute bridge,3.7
+431,Dumbbell farmer's walk,4.3
+431,Elliptical trainer,1.4
+431,Clean and jerk,3.4
+432,Close push-up,4.7
+432,Dumbbell seated box jump,3.2
+432,Lying quad stretch with band,1.1
+432,Good Morning,2.4
+432,Bear crawl sled drag,4.3
+432,Treadmill jogging,2.9
+432,Power snatch-,2.8
+433,Battle ropes,4.9
+433,Box jump,3.3
+433,Lunge glute stretch,4.9
+433,Barbell Hip Thrust,4.4
+433,Bear crawl sled drag,3.8
+433,Jumping Jack,3.7
+433,Clean and jerk,2.7
+434,AM Standing Barbell Curl,2.4
+434,Sit-up with single-arm overhand throw,4.3
+434,One Handed Hang,3.3
+434,Glute Ham Raise,1.7
+434,Tire flip,2.1
+434,Bear crawl fire feet,4.2
+434,Clean and jerk,1.1
+435,AM Single Arm Row,2.5
+435,Scissors Jump,1.4
+435,Alternating standing glute stretch,3.5
+435,Barbell glute bridge,4.6
+435,Dumbbell farmer's walk,1.3
+435,Sled push-,3.4
+435,Push-jerk,4.4
+436,Kettlebell upright row,1.2
+436,Southpaw sprawl,3.6
+436,Inchworm,2.8
+436,Dumbbell floor press,3.4
+436,Sled Push,2.3
+436,Shuttle run,2.7
+436,Push-press,4.7
+437,Triceps Overhead Extension with Rope - Gethin Variation,2.4
+437,Dumbbell lateral hop to sprint,3.5
+437,Bar shoulder extension stretch,1.7
+437,Good Morning,1.8
+437,Sled Push,4.6
+437,Shadow boxing,2.7
+437,Power snatch-,4.3
+438,Single-leg kettlebell deadlift,4.0
+438,Medicine Ball Chest Pass,4.6
+438,Cross-body shoulder stretch,1.9
+438,Barbell back squat to box,1.2
+438,Bear crawl sled drag,2.3
+438,Sled push-,4.4
+438,Behind-the-head push-press,3.9
+439,Flat Bench Lying Leg Raise,2.6
+439,Sprawl frog kick,2.8
+439,Inchworm,4.3
+439,Barbell back squat to box,3.6
+439,Tire flip,3.5
+439,Shadow boxing,4.3
+439,Behind-the-head push-press,4.1
+440,Wide push-up,2.3
+440,Wall sprawl,4.0
+440,Brachialis SMR,4.1
+440,Rack pull,4.5
+440,Dumbbell farmer's walk,1.7
+440,Plate push,3.5
+440,Clean and jerk,2.8
+441,Seated Leg Press,4.8
+441,Gorilla squat,1.5
+441,World's greatest stretch,2.9
+441,Speed Box Squat,2.6
+441,Dumbbell farmer's walk,1.0
+441,Sled push-,2.1
+441,Behind-the-head push-press,3.2
+442,Narrow-stance squat,4.4
+442,In-out jump squat,4.1
+442,Rhomboids SMR,1.3
+442,Board bench press,1.7
+442,Tire flip,4.7
+442,Stairmaster,2.4
+442,Push-jerk,5.0
+443,Kettlebell Windmill,4.4
+443,Skip,2.0
+443,Reverse lunge,3.2
+443,Glute Ham Raise,2.1
+443,Tire flip,1.2
+443,Jumping rope,1.1
+443,Behind-the-head push-press,1.2
+444,AM Seated Hamstring Curl,1.4
+444,Dumbbell lateral hop,1.7
+444,Lying quad stretch with band,2.7
+444,Dumbbell floor press,1.7
+444,Dumbbell farmer's walk,4.4
+444,Shuttle run,2.6
+444,Clean and jerk,4.5
+445,Bench crunch,3.8
+445,Lateral hop,2.2
+445,Standing side bend stretch,3.1
+445,Sumo deadlift,4.7
+445,Bear crawl sled drag,2.2
+445,Shadow boxing,2.3
+445,Push-press,2.8
+446,Exercise ball knee roll-in,1.5
+446,Plyo push-up,1.3
+446,Brachialis SMR,3.2
+446,Dumbbell floor press,2.1
+446,Tire flip,4.1
+446,Stairmaster,3.9
+446,Push-press,1.7
+447,Total Fitness Dumbbell Isometric Row Hold,4.5
+447,Burpee tuck jump,1.0
+447,Standing hip circle,4.6
+447,Barbell deficit deadlift,1.6
+447,Dumbbell farmer's walk,1.9
+447,Treadmill jogging,4.0
+447,Push-jerk,2.4
+448,Kettlebell alternating floor press,3.7
+448,Burpee tuck jump,1.4
+448,Exercise ball torso rotation,4.7
+448,Barbell back squat to box,4.9
+448,Dumbbell farmer's walk,2.6
+448,Stationary bike,3.4
+448,Power snatch-,1.6
+449,High knees sprawl drill,4.5
+449,Medicine ball partner twist,1.5
+449,Standing leg swing,2.4
+449,Barbell Hip Thrust,1.8
+449,Bear crawl sled drag,4.0
+449,Stair climber,4.0
+449,Push-jerk,1.6
+450,UP Hamstring Curl,4.8
+450,Gorilla squat,1.1
+450,Crab single-arm reach,1.2
+450,Board bench press,4.4
+450,Tire flip,2.7
+450,Shadow boxing,3.7
+450,Behind-the-head push-press,1.4
+451,Narrow-stance leg press,3.6
+451,Burpee box jump,3.2
+451,Yoga plex,2.4
+451,Barbell glute bridge,2.2
+451,Dumbbell farmer's walk,4.4
+451,Burpee,2.1
+451,Power snatch-,3.9
+452,Single-arm incline lateral raise,1.4
+452,Medicine ball partner twist,3.6
+452,Superman,3.4
+452,Speed Box Squat,1.6
+452,Bear crawl sled drag,3.3
+452,Treadmill walking,4.3
+452,Push-press,4.8
+453,Bouncing lunge,3.2
+453,Medicine ball slam,1.7
+453,Half bird dog,3.8
+453,Sumo deadlift,3.6
+453,Tire flip,3.3
+453,Sled push-,1.2
+453,Clean and jerk,2.2
+454,Incline Rear-Delt Fly - Gethin Variation,3.4
+454,Plyo push-up,4.5
+454,Adductor SMR,2.3
+454,Barbell back squat to box,1.2
+454,Dumbbell farmer's walk,2.6
+454,Shadow boxing,1.7
+454,Power snatch-,2.4
+455,Back Extension - Gethin Variation,4.4
+455,Sledgehammer swing,1.4
+455,Rhomboids SMR,3.9
+455,Sumo deadlift,3.9
+455,Dumbbell farmer's walk,4.7
+455,Shuttle run,4.6
+455,Behind-the-head push-press,2.9
+456,Single-dumbbell front raise,3.2
+456,Jump lunge heel kick,2.5
+456,Yoga plex,3.9
+456,Glute Ham Raise,4.2
+456,Bear crawl sled drag,1.3
+456,Sled push-,3.9
+456,Clean and jerk,4.2
+457,Knees tucked crunch,4.8
+457,Sit-up with single-arm overhand throw,2.6
+457,Crab single-arm reach,1.4
+457,Board bench press,2.0
+457,Bear crawl sled drag,4.8
+457,Stationary bike,1.1
+457,Power snatch-,4.6
+458,Standing barbell calf raise,2.4
+458,Running lunge,3.6
+458,Bar shoulder extension stretch,4.8
+458,Barbell back squat to box,4.0
+458,Bear crawl sled drag,1.8
+458,High knees,3.0
+458,Clean and jerk,1.8
+459,Single-arm kettlebell thruster,3.7
+459,Over bench jump,1.2
+459,Bent Over Shoulder Y,3.7
+459,Barbell glute bridge,2.0
+459,Bear crawl sled drag,1.4
+459,Treadmill jogging,3.8
+459,Push-press,2.8
+460,AM Leg Lift,4.4
+460,Depth jump box jump,1.7
+460,Alternating standing knee-pull stretch,4.4
+460,Glute Ham Raise,3.7
+460,Sled Push,3.1
+460,Shadow boxing,3.9
+460,Clean and jerk,1.8
+461,Straight-arm rope pull-down,1.4
+461,Scissors Jump,4.9
+461,One Handed Hang,3.8
+461,Glute Ham Raise,2.8
+461,Bear crawl sled drag,4.3
+461,High knees,4.8
+461,Push-jerk,2.2
+462,Clock push-up,3.7
+462,Jumping knee up-down,4.4
+462,Lunge glute stretch,4.4
+462,Sumo deadlift,4.4
+462,Sled Push,1.9
+462,Jumping Jack,2.3
+462,Push-jerk,2.9
+463,Incline Rear-Delt Fly - Gethin Variation,2.3
+463,Mountain climber,2.2
+463,Latissimus dorsi SMR,1.5
+463,Rack pull,4.6
+463,Sled Push,3.4
+463,Stairmaster,3.8
+463,Clean and jerk,3.3
+464,Exercise ball knee roll-in,3.4
+464,In-out jump squat,2.3
+464,Exercise ball torso rotation,1.7
+464,Barbell deficit deadlift,1.5
+464,Sled Push,3.1
+464,Treadmill jogging,2.2
+464,Push-jerk,1.2
+465,Partner bench back extension,2.9
+465,Carioca quick step,1.4
+465,Bar shoulder extension stretch,2.6
+465,Speed Box Squat,1.2
+465,Sled Push,3.8
+465,Bear crawl fire feet,1.1
+465,Push-press,1.4
+466,Seated leg press-,2.7
+466,90-degree jump squat,4.4
+466,Lying groin stretch with band,3.9
+466,Rack pull,1.5
+466,Sled Push,4.3
+466,Plate push,2.8
+466,Push-press,4.3
+467,Dumbbell Walking Lunge,3.7
+467,Running lunge,1.9
+467,Standing side bend stretch,1.5
+467,Barbell Hip Thrust,1.3
+467,Dumbbell farmer's walk,1.2
+467,Treadmill walking,2.7
+467,Push-jerk,4.5
+468,Dumbbell suitcase crunch,5.0
+468,Medicine ball ninja,4.7
+468,Single-leg balance and reach,1.8
+468,Board bench press,2.1
+468,Sled Push,1.4
+468,Treadmill running,2.5
+468,Behind-the-head push-press,2.7
+469,Banded squat toe tap,2.0
+469,Wall mountain climber,3.1
+469,Single-leg lying cross-over stretch,2.1
+469,Rack pull,5.0
+469,Sled Push,3.1
+469,Jumping Jack,2.1
+469,Power snatch-,2.4
+470,Landmine squat,3.3
+470,Medicine Ball Chest Pass,3.5
+470,Yoga plex,4.1
+470,Barbell deficit deadlift,1.8
+470,Tire flip,1.1
+470,Stairmaster,1.7
+470,Behind-the-head push-press,1.7
+471,Standing cable rear delt row,3.3
+471,Burpee to pull-up,1.4
+471,Alternating standing glute stretch,4.8
+471,Barbell back squat to box,4.0
+471,Bear crawl sled drag,2.3
+471,Plate push,3.7
+471,Clean and jerk,1.6
+472,Barbell hack squat,4.8
+472,Box jump,4.9
+472,Lying glute stretch,4.6
+472,Rack pull,4.2
+472,Dumbbell farmer's walk,3.1
+472,Elliptical trainer,2.3
+472,Push-jerk,4.4
+473,Battle ropes,3.1
+473,Medicine ball partner twist,4.7
+473,Child's pose,1.5
+473,Dumbbell floor press,2.5
+473,Dumbbell farmer's walk,3.9
+473,Treadmill walking,2.2
+473,Behind-the-head push-press,4.9
+474,Total Fitness Spider Crawl (Unweighted),1.2
+474,Southpaw sprawl,1.5
+474,Child's pose,3.1
+474,Rack pull,1.4
+474,Tire flip,4.3
+474,High knees,3.0
+474,Push-jerk,4.3
+475,Kettlebell crab reach,4.7
+475,Medicine ball scoop throw,1.2
+475,Single-leg balance and reach,4.0
+475,Barbell back squat to box,1.7
+475,Tire flip,3.6
+475,Jumping Jack,4.5
+475,Push-press,2.6
+476,Back extension,3.0
+476,Medicine ball slam,2.0
+476,Calf SMR,4.7
+476,Barbell glute bridge,4.8
+476,Dumbbell farmer's walk,4.1
+476,Shadow boxing,3.7
+476,Power snatch-,2.3
+477,UP Close-Grip Bench Press,1.2
+477,Jump Squat,3.8
+477,Lunge glute stretch,2.8
+477,Board bench press,1.0
+477,Bear crawl sled drag,1.2
+477,Shuttle run,3.6
+477,Push-jerk,3.6
+478,Incline straight-arm pull-over,2.3
+478,Burpee tuck jump,4.4
+478,Pass-through stretch with band,3.7
+478,Rack pull,3.6
+478,Tire flip,1.1
+478,Sled push-,3.5
+478,Push-press,3.7
+479,Barbell seal row,4.6
+479,Skip,1.6
+479,Single-leg lying cross-over stretch,3.8
+479,Speed Box Squat,4.7
+479,Tire flip,3.6
+479,Shuttle run,1.3
+479,Push-jerk,1.5
+480,Seated leg tuck with dumbbell,3.6
+480,Medicine ball partner twist,2.0
+480,Lying groin stretch with band,2.4
+480,Speed Box Squat,4.6
+480,Tire flip,1.3
+480,Stair climber,1.8
+480,Push-jerk,1.8
+481,Medicine ball half moon,3.1
+481,Jump Squat,4.6
+481,Toe Touchers,1.4
+481,Sumo deadlift,2.6
+481,Bear crawl sled drag,1.7
+481,Stairmaster,3.2
+481,Push-press,1.6
+482,AM Barbell Shoulder Press,1.4
+482,Jumping jack-,1.3
+482,Shoulder T,3.6
+482,Board bench press,2.5
+482,Dumbbell farmer's walk,3.8
+482,High knees,2.8
+482,Behind-the-head push-press,4.2
+483,Incline straight-arm pull-over,1.8
+483,Knee Tuck Jump,3.7
+483,Child's pose,1.4
+483,Barbell glute bridge,2.4
+483,Bear crawl sled drag,1.5
+483,Stair climber,3.0
+483,Behind-the-head push-press,3.1
+484,Side-lying leg lift,1.4
+484,Lateral hop,1.0
+484,Arm circle,2.1
+484,Board bench press,1.9
+484,Tire flip,4.4
+484,Treadmill running,4.6
+484,Clean and jerk,1.2
+485,Seated dumbbell biceps curl,1.3
+485,Burpee box jump,4.3
+485,Yoga plex,2.3
+485,Barbell Hip Thrust,2.5
+485,Dumbbell farmer's walk,4.2
+485,Treadmill jogging,1.7
+485,Power snatch-,3.0
+486,ACFT Medicine ball overhead power throw,2.3
+486,Medicine ball ninja,4.4
+486,Standing hip circle,1.5
+486,Board bench press,4.2
+486,Tire flip,1.2
+486,Plate push,3.8
+486,Power snatch-,2.5
+487,Bent-arm dumbbell pull-over,1.1
+487,Sit-up with single-arm overhand throw,3.5
+487,Kneeling hip flexor stretch,4.7
+487,Board bench press,4.4
+487,Sled Push,4.8
+487,Stairmaster,3.4
+487,Behind-the-head push-press,1.4
+488,Banded biceps curl in squat position,4.3
+488,Lateral hop,3.2
+488,Brachialis SMR,3.5
+488,Rack pull,1.6
+488,Tire flip,3.7
+488,Shuttle run,1.4
+488,Push-press,4.6
+489,Band front raise rear fly row combo,1.5
+489,Burpee over barbell,1.3
+489,Alternating standing knee-pull stretch,3.0
+489,Barbell deficit deadlift,3.9
+489,Tire flip,2.2
+489,Rower,2.1
+489,Clean and jerk,3.7
+490,Smith machine front squat,2.4
+490,Carioca quick step,3.9
+490,Lying glute stretch,4.1
+490,Barbell back squat to box,4.6
+490,Dumbbell farmer's walk,2.1
+490,Burpee,1.5
+490,Clean and jerk,1.4
+491,Side plank hip dip,1.7
+491,Medicine ball slam,2.0
+491,Crab single-arm reach,4.1
+491,Glute Ham Raise,4.4
+491,Sled Push,1.4
+491,Jumping rope,1.8
+491,Clean and jerk,3.5
+492,Pallof press,2.4
+492,Sit-up with single-arm overhand throw,4.4
+492,Lying quad stretch with band,4.4
+492,Dumbbell floor press,1.5
+492,Bear crawl sled drag,3.3
+492,Jumping rope,1.0
+492,Power snatch-,2.0
+493,30 Hanging Toes-To-Bar,3.7
+493,Side-to-side box skip,4.7
+493,Single-leg balance and reach,3.9
+493,Barbell deficit deadlift,3.0
+493,Dumbbell farmer's walk,4.4
+493,Elliptical trainer,4.8
+493,Push-press,1.6
+494,Machine seated calf raise,3.3
+494,Bench skip,2.5
+494,Standing hamstring stretch,1.6
+494,Sumo deadlift,1.7
+494,Tire flip,3.5
+494,Plate push,1.8
+494,Clean and jerk,4.6
+495,Behind-the-neck pull-down,3.8
+495,Bench skip,3.8
+495,Toe Touchers,4.6
+495,Rack pull,2.6
+495,Dumbbell farmer's walk,4.7
+495,Treadmill walking,3.1
+495,Push-jerk,4.5
+496,Hang from bar,2.4
+496,Sledgehammer swing,4.6
+496,Yoga plex,2.7
+496,Dumbbell floor press,3.0
+496,Sled Push,1.1
+496,Plate push,4.3
+496,Power snatch-,4.9
+497,Partner resistance standing twist,2.6
+497,Medicine ball ninja,2.5
+497,Reach-roll-lift combo,3.8
+497,Sumo deadlift,3.1
+497,Bear crawl sled drag,4.2
+497,Shuttle run,3.3
+497,Push-jerk,4.3
+498,Traveling bear crawl,2.4
+498,Single-cone sprint drill,4.7
+498,Latissimus dorsi SMR,3.4
+498,Board bench press,4.2
+498,Bear crawl sled drag,4.1
+498,Plate push,1.3
+498,Push-jerk,2.5
+499,UP Push-up,3.5
+499,Lateral cone hop,2.5
+499,Lunge glute stretch,3.1
+499,Good Morning,4.9
+499,Dumbbell farmer's walk,2.6
+499,Elliptical trainer,2.6
+499,Power snatch-,2.9
+500,Standing One-Arm Shoulder Press - Gethin Variation,1.9
+500,Dumbbell lateral hop to sprint,2.3
+500,Brachialis SMR,2.7
+500,Dumbbell floor press,1.5
+500,Sled Push,1.2
+500,Bear crawl fire feet,1.3
+500,Power snatch-,5.0
+501,King Maker Barbell Thruster,5.0
+501,Plyo push-up,1.5
+501,Calf SMR,2.9
+501,Barbell deficit deadlift,3.9
+501,Tire flip,4.5
+501,Shuttle run,4.9
+501,Behind-the-head push-press,4.5
+502,Dumbbell clean and push-press,1.1
+502,Medicine Ball Chest Pass,2.5
+502,Quadriceps SMR,1.5
+502,Rack pull,2.1
+502,Bear crawl sled drag,2.3
+502,Stair climber,1.2
+502,Power snatch-,3.1
+503,Plank up-down,4.1
+503,Lateral box jump,2.2
+503,Shoulder T,2.9
+503,Barbell back squat to box,1.6
+503,Bear crawl sled drag,2.6
+503,Bear crawl fire feet,3.3
+503,Push-press,4.1
+504,Alligator Crawl,5.0
+504,Pop squat,3.1
+504,Wall calf stretch,3.6
+504,Dumbbell floor press,4.4
+504,Dumbbell farmer's walk,1.3
+504,Shuttle run,3.0
+504,Behind-the-head push-press,3.3
+505,Kettlebell One-Legged Deadlift,2.0
+505,Wall mountain climber,3.4
+505,One Handed Hang,3.7
+505,Rack pull,4.2
+505,Sled Push,3.6
+505,Burpee,1.6
+505,Push-jerk,4.1
+506,Calf Press,3.7
+506,Wall ball toss,4.0
+506,Shoulder T,3.2
+506,Dumbbell floor press,4.2
+506,Dumbbell farmer's walk,2.8
+506,Treadmill jogging,4.7
+506,Power snatch-,3.0
+507,Single-Arm Bent-Over Rear Delt Raise - Gethin Variation,4.9
+507,Dumbbell lateral hop,1.6
+507,Standing hip circle,1.1
+507,Barbell back squat to box,1.3
+507,Dumbbell farmer's walk,2.5
+507,Stationary bike,3.9
+507,Clean and jerk,1.2
+508,Barbell Front Raise - Gethin Variation,3.2
+508,Dumbbell seated box jump,2.1
+508,Pass-through stretch with band,4.0
+508,Sumo deadlift,1.6
+508,Dumbbell farmer's walk,2.1
+508,Shuttle run,2.5
+508,Push-press,1.3
+509,UP Conventional Deadlift,3.5
+509,Lateral box jump,4.4
+509,Standing side bend stretch,2.4
+509,Speed Box Squat,4.3
+509,Sled Push,1.2
+509,Bear crawl fire feet,1.7
+509,Power snatch-,3.4
+510,Standing dumbbell shoulder press,4.7
+510,Carioca quick step,2.4
+510,Exercise ball chest stretch,4.2
+510,Sumo deadlift,1.4
+510,Tire flip,2.3
+510,Stair climber,4.9
+510,Behind-the-head push-press,4.6
+511,Partner plank band row,2.8
+511,Southpaw sprawl,1.2
+511,Superman,4.9
+511,Barbell deficit deadlift,1.1
+511,Tire flip,4.9
+511,Treadmill running,2.9
+511,Power snatch-,3.1
+512,Standing behind-the-back wrist curl,3.4
+512,Dumbbell lateral hop,4.8
+512,One Handed Hang,3.1
+512,Rack pull,3.8
+512,Bear crawl sled drag,4.1
+512,Treadmill walking,4.3
+512,Behind-the-head push-press,4.1
+513,Straight-arm plank,4.0
+513,Skip,2.4
+513,Wall calf stretch,2.2
+513,Barbell deficit deadlift,2.9
+513,Sled Push,1.6
+513,Rower,1.7
+513,Push-press,1.4
+514,Staggered-stance band shoulder press,3.5
+514,Sledgehammer swing,4.0
+514,Standing hamstring stretch,3.1
+514,Speed Box Squat,3.9
+514,Dumbbell farmer's walk,4.6
+514,Treadmill jogging,3.5
+514,Push-jerk,2.1
+515,Incline bench press,1.1
+515,Wall ball toss,1.0
+515,Single-leg balance and reach,3.8
+515,Barbell back squat to box,1.6
+515,Bear crawl sled drag,2.9
+515,Sled push-,3.2
+515,Push-jerk,1.2
+516,Ab bicycle,2.3
+516,Jump lunge heel kick,3.0
+516,Single-leg lying cross-over stretch,4.5
+516,Barbell back squat to box,3.3
+516,Dumbbell farmer's walk,2.9
+516,Treadmill running,3.7
+516,Clean and jerk,4.6
+517,Total Fitness Dumbbell Step-Up,2.7
+517,Split Jump,4.3
+517,Standing hip circle,1.7
+517,Barbell deficit deadlift,1.9
+517,Bear crawl sled drag,2.8
+517,Stationary bike,1.8
+517,Push-press,2.5
+518,Landmine twist,2.8
+518,Sledgehammer swing,1.7
+518,Standing hip circle,3.8
+518,Board bench press,2.4
+518,Sled Push,4.5
+518,Burpee,2.9
+518,Power snatch-,2.5
+519,Decline sit-up twist,2.9
+519,Bench skip,3.8
+519,Crab single-arm reach,1.3
+519,Sumo deadlift,1.2
+519,Bear crawl sled drag,2.3
+519,Treadmill walking,3.5
+519,Clean and jerk,1.4
+520,Dumbbell clean and press,3.0
+520,Lateral hop,4.0
+520,Lunge glute stretch,4.2
+520,Sumo deadlift,1.8
+520,Dumbbell farmer's walk,2.6
+520,Plate push,1.3
+520,Power snatch-,4.2
+521,Standing One-Arm Cable Curl,2.9
+521,Dumbbell seated box jump,2.2
+521,Lying hamstring stretch with band,4.7
+521,Dumbbell floor press,2.4
+521,Bear crawl sled drag,1.2
+521,Stationary bike,3.9
+521,Push-jerk,2.5
+522,Close push-up,4.8
+522,Wall mountain climber,4.3
+522,Iliotibial band SMR,3.0
+522,Board bench press,5.0
+522,Bear crawl sled drag,2.2
+522,Stationary bike,3.4
+522,Behind-the-head push-press,1.1
+523,Barbell back squat,2.6
+523,Kettlebell fire feet,2.1
+523,Cross-body shoulder stretch,2.6
+523,Barbell back squat to box,3.2
+523,Sled Push,1.3
+523,Treadmill walking,4.5
+523,Power snatch-,3.3
+524,Paul Carter Incline Bench Press,3.7
+524,Mountain climber,4.2
+524,Lying glute stretch,4.7
+524,Barbell Hip Thrust,2.1
+524,Bear crawl sled drag,3.7
+524,Rower,1.9
+524,Push-jerk,2.6
+525,Suspended ab fall-out,4.6
+525,Running lunge,2.9
+525,Exercise ball chest stretch,1.1
+525,Speed Box Squat,2.3
+525,Bear crawl sled drag,1.3
+525,Treadmill walking,2.0
+525,Clean and jerk,4.5
+526,Single-arm dumbbell skullcrusher,2.6
+526,Scissors Jump,1.2
+526,Child's pose,3.2
+526,Glute Ham Raise,4.5
+526,Sled Push,3.8
+526,Jumping rope,3.3
+526,Clean and jerk,2.7
+527,Barbell seal row,1.8
+527,Medicine ball scoop throw,4.4
+527,Superman,1.1
+527,Barbell glute bridge,1.3
+527,Sled Push,2.5
+527,Jumping Jack,4.2
+527,Push-press,4.6
+528,Towel dumbbell front raise,1.9
+528,Depth jump box jump,3.9
+528,Kneeling hip flexor stretch,3.7
+528,Barbell Hip Thrust,4.1
+528,Bear crawl sled drag,4.1
+528,Jumping Jack,3.9
+528,Push-jerk,2.4
+529,Alternating Deltoid Raise,4.2
+529,Clapping Push-Up,2.4
+529,Standing hip circle,2.1
+529,Board bench press,3.3
+529,Dumbbell farmer's walk,3.2
+529,Treadmill running,3.7
+529,Behind-the-head push-press,4.6
+530,ACFT Superman push-up,4.0
+530,Sprawl frog kick,1.9
+530,Standing hip circle,2.6
+530,Glute Ham Raise,1.7
+530,Tire flip,2.1
+530,Stair climber,1.0
+530,Push-press,2.9
+531,Kettlebell pirate ship,2.5
+531,Plyo push-up,4.2
+531,Iliotibial band SMR,2.9
+531,Sumo deadlift,3.5
+531,Bear crawl sled drag,3.7
+531,Jumping rope,4.9
+531,Behind-the-head push-press,4.1
+532,PJR pull-over-,2.8
+532,Medicine Ball Chest Pass,4.5
+532,Standing hamstring stretch,1.8
+532,Board bench press,3.1
+532,Bear crawl sled drag,2.8
+532,Jumping Jack,3.6
+532,Clean and jerk,2.3
+533,Elbow plank,4.6
+533,Box jump,3.3
+533,Lying hamstring stretch with band,2.5
+533,Barbell deficit deadlift,2.0
+533,Bear crawl sled drag,4.0
+533,Stair climber,2.2
+533,Push-jerk,2.7
+534,Paul Carter Barbell Curl,2.5
+534,Running lunge,2.3
+534,Piriformis SMR,2.5
+534,Barbell glute bridge,2.6
+534,Bear crawl sled drag,2.7
+534,Treadmill jogging,1.4
+534,Power snatch-,2.6
+535,Cross-body sit-up,3.4
+535,Jumping jack-,1.0
+535,Reverse lunge,2.9
+535,Good Morning,2.4
+535,Dumbbell farmer's walk,2.0
+535,Bear crawl fire feet,1.3
+535,Push-jerk,1.5
+536,UP Quad Extension,2.5
+536,Medicine Ball Chest Pass,3.1
+536,Reverse lunge,2.8
+536,Glute Ham Raise,1.6
+536,Tire flip,1.4
+536,Treadmill jogging,3.7
+536,Push-press,2.5
+537,Medicine ball sprawl to chest press,1.5
+537,Skip,1.5
+537,Iliotibial band SMR,1.4
+537,Rack pull,2.0
+537,Tire flip,4.4
+537,Rower,2.4
+537,Power snatch-,3.1
+538,Suitcase Dumbbell Carry,4.3
+538,Box Jump (Multiple Response),1.6
+538,Pass-through stretch with band,4.0
+538,Good Morning,1.5
+538,Tire flip,1.3
+538,Stairmaster,1.9
+538,Push-jerk,4.7
+539,Paul Carter Romanian Deadlift,1.0
+539,Dumbbell jump squat,2.2
+539,Standing hip circle,1.9
+539,Barbell back squat to box,2.1
+539,Sled Push,4.8
+539,Shuttle run,4.8
+539,Push-jerk,1.2
+540,King Maker Lat Pull-Down,2.9
+540,Carioca quick step,4.6
+540,Half bird dog,1.1
+540,Dumbbell floor press,4.6
+540,Dumbbell farmer's walk,1.3
+540,Jumping rope,1.9
+540,Behind-the-head push-press,3.0
+541,Hollow-body abduction,2.8
+541,Wall mountain climber,2.8
+541,Shoulder T,1.1
+541,Barbell back squat to box,3.1
+541,Tire flip,1.1
+541,Shuttle run,4.7
+541,Push-jerk,4.6
+542,Weighted Push-Up,3.9
+542,Lateral hop,4.0
+542,Lunge glute stretch,4.6
+542,Speed Box Squat,2.4
+542,Tire flip,2.1
+542,Bear crawl fire feet,3.0
+542,Push-jerk,3.5
+543,Incline cable straight-bar triceps extension,4.9
+543,Mountain climber,4.9
+543,Crab single-arm reach,2.6
+543,Board bench press,3.2
+543,Tire flip,3.2
+543,Shuttle run,2.0
+543,Behind-the-head push-press,4.4
+544,Single-leg machine seated calf raise,4.5
+544,Mountain climber,2.3
+544,Yoga plex,4.8
+544,Speed Box Squat,2.1
+544,Tire flip,3.9
+544,Treadmill walking,4.2
+544,Clean and jerk,1.1
+545,Kettlebell 3-point leg extension,2.2
+545,Medicine ball scoop throw,2.9
+545,Shoulder T,1.6
+545,Barbell Hip Thrust,1.4
+545,Dumbbell farmer's walk,4.6
+545,Shadow boxing,2.7
+545,Clean and jerk,1.2
+546,Dumbbell lunge with biceps curl,1.2
+546,Slalom jumps,2.9
+546,Inchworm,4.3
+546,Speed Box Squat,4.7
+546,Dumbbell farmer's walk,3.9
+546,High knees,4.8
+546,Push-jerk,1.1
+547,Barbell Shoulder Press,2.1
+547,Lateral box jump,1.6
+547,Single-leg lying cross-over stretch,4.8
+547,Good Morning,1.2
+547,Dumbbell farmer's walk,3.8
+547,Stationary bike,1.2
+547,Push-jerk,3.1
+548,Bent-over scapular slide,1.8
+548,Pop squat,2.6
+548,Yoga plex,1.2
+548,Glute Ham Raise,4.1
+548,Bear crawl sled drag,4.1
+548,Jumping Jack,2.6
+548,Push-jerk,3.8
+549,Reverse-grip bent-over row,3.1
+549,Medicine ball partner twist,1.9
+549,World's greatest stretch,3.7
+549,Rack pull,2.2
+549,Dumbbell farmer's walk,1.2
+549,Treadmill jogging,3.0
+549,Clean and jerk,3.7
+550,Thigh adductor,3.5
+550,Jump Squat,3.3
+550,Reverse lunge,3.6
+550,Glute Ham Raise,3.3
+550,Bear crawl sled drag,2.9
+550,High knees,3.1
+550,Push-press,2.6
+551,Wide-Grip Lat Pull-Down - Gethin Variation,1.4
+551,Burpee to pull-up,3.0
+551,Lying quad stretch with band,4.5
+551,Barbell glute bridge,1.6
+551,Bear crawl sled drag,3.8
+551,High knees,4.0
+551,Clean and jerk,2.9
+552,Rope Face Pull - Gethin Variation,3.8
+552,Bar Push-Up Smith Machine,1.5
+552,Piriformis SMR,4.4
+552,Dumbbell floor press,2.7
+552,Bear crawl sled drag,1.3
+552,Treadmill jogging,2.8
+552,Push-press,1.2
+553,Smith Machine Calf Raise,4.6
+553,Sprawl frog kick,3.8
+553,Quadriceps SMR,2.9
+553,Barbell glute bridge,2.1
+553,Bear crawl sled drag,1.1
+553,Treadmill running,1.2
+553,Clean and jerk,4.1
+554,Dumbbell V-sit cross jab-,4.7
+554,Jumping jack-,2.5
+554,Cross-body shoulder stretch,2.8
+554,Speed Box Squat,4.0
+554,Tire flip,4.9
+554,Rower,4.3
+554,Push-press,4.3
+555,Push-Ups - Close Triceps Position,2.5
+555,Side-to-side box skip,2.9
+555,Single-leg lying cross-over stretch,1.2
+555,Barbell back squat to box,3.5
+555,Tire flip,2.3
+555,Shuttle run,4.2
+555,Push-jerk,1.6
+556,Smith machine back squat,2.8
+556,Side-to-side box skip,1.2
+556,Lying quad stretch with band,2.7
+556,Barbell glute bridge,2.3
+556,Tire flip,3.2
+556,Rower,4.9
+556,Push-jerk,2.5
+557,Rope Face Pull - Gethin Variation,1.2
+557,Sprawl frog kick,3.3
+557,Kneeling hip flexor stretch,4.7
+557,Rack pull,2.9
+557,Bear crawl sled drag,2.5
+557,Stair climber,2.9
+557,Push-jerk,1.7
+558,Squat - Gethin Variation,5.0
+558,Squat Isometric Hold,3.7
+558,Exercise ball torso rotation,1.8
+558,Sumo deadlift,3.4
+558,Sled Push,4.3
+558,Plate push,3.4
+558,Behind-the-head push-press,3.1
+559,FYR Kettlebell Sumo Squat,3.7
+559,Kettlebell fire feet,4.0
+559,Piriformis SMR,3.5
+559,Barbell deficit deadlift,3.5
+559,Dumbbell farmer's walk,4.3
+559,Shuttle run,2.5
+559,Power snatch-,4.9
+560,Leg curl,4.0
+560,Over bench jump,2.0
+560,Single-leg balance and reach,1.1
+560,Dumbbell floor press,4.0
+560,Dumbbell farmer's walk,2.3
+560,Burpee,1.6
+560,Push-press,4.8
+561,Exercise Ball Knee Tuck - Gethin Varation,4.8
+561,Bar Push-Up Smith Machine,2.1
+561,Wall calf stretch,2.6
+561,Sumo deadlift,1.6
+561,Dumbbell farmer's walk,3.7
+561,Stairmaster,4.0
+561,Push-jerk,3.5
+562,UP Deficit Kettlebell Stiff-Legged Deadlift,4.2
+562,Speed skater,1.2
+562,Cross-body shoulder stretch,2.1
+562,Barbell Hip Thrust,2.8
+562,Tire flip,2.4
+562,Stair climber,3.6
+562,Behind-the-head push-press,4.9
+563,Dumbbell lateral raise,1.4
+563,Side-to-side box skip,3.0
+563,Kneeling hip flexor stretch,3.0
+563,Sumo deadlift,1.0
+563,Bear crawl sled drag,1.1
+563,Rower,1.4
+563,Behind-the-head push-press,4.8
+564,Standing quad stretch,1.5
+564,Scissors Jump,4.5
+564,Inchworm,3.4
+564,Sumo deadlift,1.3
+564,Tire flip,2.1
+564,Treadmill jogging,2.9
+564,Power snatch-,3.8
+565,Band deadlift,3.7
+565,Dumbbell lateral hop,4.8
+565,Quadriceps SMR,1.9
+565,Glute Ham Raise,1.7
+565,Tire flip,1.2
+565,Plate push,1.2
+565,Behind-the-head push-press,4.1
+566,Machine Shoulder (Military) Press,3.3
+566,Medicine Ball Chest Pass,1.7
+566,Lower back SMR,3.4
+566,Dumbbell floor press,4.3
+566,Dumbbell farmer's walk,3.9
+566,Burpee,4.8
+566,Power snatch-,4.9
+567,Single-arm inverted row,1.1
+567,Sprawl frog kick,3.5
+567,Half bird dog,4.9
+567,Barbell Hip Thrust,2.3
+567,Sled Push,2.1
+567,Bear crawl fire feet,5.0
+567,Push-jerk,4.5
+568,Deadlift - Gethin Variation,2.4
+568,Jumping knee up-down,3.7
+568,Rhomboids SMR,3.8
+568,Barbell Hip Thrust,4.1
+568,Sled Push,2.6
+568,Jumping Jack,1.8
+568,Power snatch-,4.9
+569,BFR underhand straight-bar push-down,4.5
+569,Medicine Ball Chest Pass,1.5
+569,Calf SMR,3.2
+569,Barbell Hip Thrust,1.6
+569,Tire flip,4.1
+569,Rower,1.4
+569,Push-jerk,4.2
+570,Kettlebell upright row,3.2
+570,Mountain climber,1.0
+570,Standing side bend stretch,3.4
+570,Barbell glute bridge,4.2
+570,Sled Push,3.0
+570,Stationary bike,3.1
+570,Clean and jerk,1.0
+571,Band overhead triceps extension,3.3
+571,90-degree jump squat,3.1
+571,Single-leg lying cross-over stretch,3.9
+571,Barbell glute bridge,2.8
+571,Bear crawl sled drag,2.4
+571,Treadmill running,1.2
+571,Push-press,1.5
+572,Paul Carter Back Squat,4.3
+572,Slalom jumps,4.7
+572,World's greatest stretch,3.4
+572,Rack pull,2.9
+572,Tire flip,3.4
+572,Bear crawl fire feet,4.1
+572,Clean and jerk,3.8
+573,Banded squat toe tap,2.1
+573,Jumping knee up-down,4.9
+573,Alternating lunge jump,4.1
+573,Dumbbell floor press,3.3
+573,Dumbbell farmer's walk,2.8
+573,Treadmill walking,1.4
+573,Power snatch-,2.3
+574,King Maker Barbell Bench Press,3.4
+574,Mountain climber,1.5
+574,Calf SMR,4.4
+574,Board bench press,4.3
+574,Tire flip,4.1
+574,Treadmill running,2.7
+574,Behind-the-head push-press,3.6
+575,Alternating hammer curl,2.1
+575,Squat Isometric Hold,2.3
+575,Half bird dog,4.3
+575,Barbell deficit deadlift,3.1
+575,Tire flip,3.9
+575,Treadmill walking,3.2
+575,Push-jerk,4.1
+576,Cable Cross-Over - Gethin Variation,1.2
+576,Wall mountain climber,3.9
+576,Alternating standing knee-pull stretch,1.6
+576,Barbell deficit deadlift,4.5
+576,Bear crawl sled drag,1.6
+576,Rower,3.4
+576,Power snatch-,2.0
+577,Thigh abductor,3.6
+577,Skip,1.9
+577,Alternating standing knee-pull stretch,2.3
+577,Board bench press,2.1
+577,Bear crawl sled drag,3.7
+577,Burpee,1.7
+577,Push-press,1.2
+578,Single-arm side lying rear fly,2.9
+578,Wall mountain climber,3.4
+578,Bent Over Shoulder Y,1.6
+578,Barbell back squat to box,4.6
+578,Dumbbell farmer's walk,4.4
+578,Stair climber,2.4
+578,Clean and jerk,2.9
+579,FYR Progressive High Knee,3.0
+579,Lateral box jump,3.7
+579,Standing side bend stretch,4.6
+579,Board bench press,1.5
+579,Bear crawl sled drag,3.8
+579,Burpee,2.8
+579,Push-press,1.9
+580,AM Standing Barbell Curl,3.2
+580,Jumping jack-,3.0
+580,Lower back SMR,3.7
+580,Dumbbell floor press,3.0
+580,Dumbbell farmer's walk,4.7
+580,Stair climber,3.1
+580,Push-press,1.2
+581,Dumbbell clean and press,3.9
+581,Knee Tuck Jump,3.4
+581,Exercise ball torso rotation,3.8
+581,Speed Box Squat,4.6
+581,Tire flip,1.3
+581,Bear crawl fire feet,1.5
+581,Power snatch-,1.2
+582,Machine Low Row,2.7
+582,Split Jump,3.4
+582,Child's pose,1.4
+582,Speed Box Squat,3.7
+582,Sled Push,1.2
+582,Jumping rope,3.0
+582,Push-jerk,3.3
+583,Seated Side Lateral Raise,1.4
+583,Split Jump,3.7
+583,Lying groin stretch with band,3.8
+583,Glute Ham Raise,2.7
+583,Bear crawl sled drag,4.4
+583,Bear crawl fire feet,1.8
+583,Clean and jerk,1.3
+584,Shoulder L,2.4
+584,Broad jump,4.0
+584,Reach-roll-lift combo,4.9
+584,Good Morning,5.0
+584,Tire flip,2.2
+584,Jumping rope,2.2
+584,Push-press,2.1
+585,Curtsy lunge,2.3
+585,Pop squat,4.4
+585,Standing hip circle,3.2
+585,Glute Ham Raise,3.8
+585,Tire flip,1.4
+585,Treadmill walking,3.6
+585,Push-press,3.1
+586,Band upright row,2.0
+586,Jumping knee up-down,1.6
+586,Standing leg swing,2.3
+586,Barbell deficit deadlift,3.9
+586,Tire flip,1.9
+586,Treadmill jogging,1.4
+586,Clean and jerk,2.6
+587,Eiffel Tower leg raise,1.7
+587,Skip,2.2
+587,Latissimus dorsi SMR,2.9
+587,Barbell glute bridge,4.2
+587,Bear crawl sled drag,4.5
+587,Stairmaster,2.7
+587,Clean and jerk,3.2
+588,Forward lunge,4.7
+588,Lateral hop,4.5
+588,Bent Over Shoulder Y,4.8
+588,Barbell glute bridge,1.8
+588,Tire flip,1.1
+588,Sled push-,1.4
+588,Push-jerk,2.5
+589,Single-leg glute bridge,4.9
+589,Lateral cone hop,1.9
+589,Lying quad stretch with band,4.8
+589,Good Morning,4.4
+589,Sled Push,2.5
+589,Burpee,1.1
+589,Behind-the-head push-press,4.1
+590,Suspended oblique crunch,2.9
+590,Scissors Jump,2.9
+590,Lower back SMR,2.9
+590,Barbell Hip Thrust,4.0
+590,Sled Push,3.6
+590,Jumping rope,4.9
+590,Clean and jerk,2.1
+591,Dumbbell front raise to lateral raise,2.9
+591,Mountain climber,1.8
+591,Yoga plex,3.1
+591,Rack pull,3.6
+591,Dumbbell farmer's walk,3.1
+591,Shadow boxing,1.9
+591,Clean and jerk,3.0
+592,Dumbbell Floor Press - Gethin Variation,3.1
+592,Knee Tuck Jump,4.1
+592,Crab single-arm reach,1.8
+592,Rack pull,2.5
+592,Dumbbell farmer's walk,2.8
+592,Bear crawl fire feet,3.4
+592,Power snatch-,1.6
+593,Dumbbell single-leg hip thrust,3.1
+593,Sit-up with single-arm overhand throw,4.6
+593,Wall calf stretch,3.0
+593,Barbell deficit deadlift,4.8
+593,Sled Push,4.3
+593,Rower,1.6
+593,Behind-the-head push-press,2.4
+594,Close-Grip EZ-Bar Curl - Gethin Variation,3.6
+594,Bench skip,1.1
+594,Single-leg balance and reach,4.9
+594,Speed Box Squat,1.8
+594,Tire flip,1.0
+594,Treadmill jogging,1.5
+594,Clean and jerk,4.8
+595,UP Cable Cross-Over,3.5
+595,90-degree jump squat,2.6
+595,Single-leg balance and reach,1.5
+595,Barbell glute bridge,4.1
+595,Bear crawl sled drag,1.5
+595,Stair climber,1.8
+595,Push-jerk,3.8
+596,30 Cable Pallof Press,4.0
+596,Burpee to pull-up,1.9
+596,Latissimus dorsi SMR,3.9
+596,Barbell glute bridge,3.9
+596,Tire flip,3.4
+596,Shuttle run,4.8
+596,Push-press,4.0
+597,Decline leg lift,4.2
+597,Dumbbell lateral hop,1.9
+597,Standing leg swing,3.8
+597,Dumbbell floor press,4.5
+597,Sled Push,2.0
+597,Burpee,2.6
+597,Clean and jerk,5.0
+598,Lying bench reverse crunch,4.1
+598,Plyo push-up,1.7
+598,Standing hamstring stretch,4.7
+598,Barbell Hip Thrust,3.4
+598,Bear crawl sled drag,4.5
+598,Stationary bike,4.0
+598,Clean and jerk,4.3
+599,Straight-arm bar pull-down,2.1
+599,Carioca quick step,3.2
+599,Pass-through stretch with band,3.2
+599,Barbell glute bridge,2.9
+599,Sled Push,4.2
+599,Stair climber,1.1
+599,Behind-the-head push-press,4.3
+600,Cocoons,4.0
+600,Medicine ball scoop throw,2.5
+600,Calf SMR,3.3
+600,Dumbbell floor press,3.5
+600,Dumbbell farmer's walk,2.2
+600,Bear crawl fire feet,4.3
+600,Power snatch-,5.0
+601,Side kick-through push-up,3.0
+601,Sit-up with single-arm overhand throw,4.8
+601,Bent Over Shoulder Y,2.5
+601,Barbell deficit deadlift,4.9
+601,Tire flip,1.6
+601,Plate push,2.9
+601,Power snatch-,4.6
+602,Single-leg stiff-legged deadlift to row,2.0
+602,Sit-up with single-arm overhand throw,4.7
+602,Piriformis SMR,4.0
+602,Good Morning,1.9
+602,Tire flip,4.2
+602,Burpee,2.1
+602,Clean and jerk,4.1
+603,Decline dumbbell bench press,2.3
+603,Split Jump,4.7
+603,Iliotibial band SMR,2.1
+603,Barbell back squat to box,2.7
+603,Bear crawl sled drag,1.7
+603,Treadmill running,1.0
+603,Power snatch-,4.9
+604,Dumbbell split squat,2.3
+604,Box Jump (Multiple Response),2.6
+604,Lying quad stretch with band,2.1
+604,Barbell deficit deadlift,1.8
+604,Dumbbell farmer's walk,1.2
+604,Sled push-,4.9
+604,Clean and jerk,3.5
+605,Dumbbell step-down reverse lunge,4.2
+605,Speed skater,2.5
+605,Rhomboids SMR,4.1
+605,Glute Ham Raise,2.4
+605,Sled Push,1.4
+605,Treadmill running,3.7
+605,Clean and jerk,2.9
+606,Dip Machine,1.6
+606,Medicine ball ninja,3.5
+606,One Handed Hang,1.4
+606,Sumo deadlift,2.4
+606,Tire flip,3.4
+606,Plate push,2.8
+606,Clean and jerk,1.3
+607,Barbell Full Squat,1.8
+607,Scissors Jump,4.4
+607,Wall calf stretch,4.5
+607,Good Morning,2.2
+607,Bear crawl sled drag,3.4
+607,Treadmill walking,2.9
+607,Behind-the-head push-press,1.2
+608,Cross-body plank march,4.2
+608,Box Jump (Multiple Response),2.9
+608,Alternating lunge jump,2.4
+608,Rack pull,3.4
+608,Bear crawl sled drag,2.2
+608,Treadmill walking,3.9
+608,Power snatch-,1.8
+609,Seated dumbbell shoulder press,4.3
+609,Single-cone sprint drill,3.8
+609,Lying glute stretch,3.8
+609,Barbell Hip Thrust,2.3
+609,Bear crawl sled drag,2.0
+609,Jumping Jack,3.3
+609,Clean and jerk,4.3
+610,Smith Machine Standing Calf Raises - Gethin Variation,1.2
+610,Lateral hop,3.4
+610,Lying quad stretch with band,2.3
+610,Sumo deadlift,3.2
+610,Dumbbell farmer's walk,4.6
+610,Treadmill running,4.5
+610,Push-press,2.2
+611,Lying Leg Curls,3.8
+611,Jumping knee up-down,3.5
+611,Cross-body shoulder stretch,3.4
+611,Dumbbell floor press,4.5
+611,Dumbbell farmer's walk,4.4
+611,Burpee,4.2
+611,Push-press,4.1
+612,Weighted Push-Up,1.2
+612,Burpee over barbell,4.5
+612,Lower back SMR,1.4
+612,Barbell Hip Thrust,5.0
+612,Bear crawl sled drag,2.8
+612,Stair climber,1.3
+612,Clean and jerk,1.8
+613,ACFT Hand-release push-up,4.9
+613,Medicine ball partner twist,4.1
+613,Exercise ball torso rotation,3.3
+613,Sumo deadlift,3.0
+613,Bear crawl sled drag,2.5
+613,Jumping rope,2.4
+613,Push-press,1.4
+614,Partner target sit-up,4.7
+614,Sprawl frog kick,2.7
+614,Bar shoulder extension stretch,1.3
+614,Board bench press,1.8
+614,Tire flip,1.0
+614,Stair climber,3.4
+614,Push-press,2.1
+615,Decline oblique crunch,3.8
+615,Wall sprawl,1.1
+615,Alternating standing glute stretch,4.5
+615,Dumbbell floor press,1.9
+615,Dumbbell farmer's walk,2.0
+615,Bear crawl fire feet,1.2
+615,Push-press,3.8
+616,Standing lat pull-down,4.7
+616,Burpee tuck jump,2.7
+616,Bent Over Shoulder Y,1.0
+616,Dumbbell floor press,1.5
+616,Bear crawl sled drag,4.4
+616,Stairmaster,4.3
+616,Clean and jerk,4.3
+617,Band bent-over row,1.5
+617,Jumping jack-,4.3
+617,Wall calf stretch,1.9
+617,Speed Box Squat,1.7
+617,Dumbbell farmer's walk,1.5
+617,Jumping Jack,4.0
+617,Push-press,3.5
+618,Flat Bench Lying Leg Raise,4.0
+618,Lateral box jump,2.7
+618,Bar shoulder extension stretch,2.2
+618,Dumbbell floor press,3.7
+618,Sled Push,2.9
+618,Jumping Jack,2.9
+618,Power snatch-,1.8
+619,Cross-over push-up,3.5
+619,Scissors Jump,2.3
+619,Piriformis SMR,2.2
+619,Dumbbell floor press,4.2
+619,Bear crawl sled drag,3.4
+619,Stationary bike,2.8
+619,Power snatch-,3.4
+620,Half Turkish get-up,1.0
+620,Medicine ball ninja,3.5
+620,Brachialis SMR,4.3
+620,Sumo deadlift,2.3
+620,Dumbbell farmer's walk,4.1
+620,Jumping Jack,4.8
+620,Power snatch-,4.4
+621,Active hang from bar,1.7
+621,Jumping jack-,3.1
+621,Superman,1.2
+621,Dumbbell floor press,3.3
+621,Bear crawl sled drag,2.6
+621,Elliptical trainer,3.1
+621,Push-press,4.0
+622,Wide-grip hands-elevated push-up,3.4
+622,Medicine Ball Chest Pass,2.7
+622,Alternating lunge jump,1.9
+622,Good Morning,3.9
+622,Sled Push,3.1
+622,Elliptical trainer,4.1
+622,Power snatch-,2.4
+623,Iron cross stretch,1.1
+623,Scissors Jump,4.8
+623,Piriformis SMR,1.6
+623,Sumo deadlift,3.5
+623,Sled Push,1.6
+623,Stair climber,1.7
+623,Power snatch-,1.2
+624,Arms-crossed jump squat,2.7
+624,Jumping jack-,4.1
+624,Half bird dog,1.2
+624,Barbell back squat to box,3.1
+624,Bear crawl sled drag,4.8
+624,Stair climber,4.8
+624,Push-jerk,3.1
+625,Plate shoulder circle big to small,3.0
+625,Side-to-side box skip,1.3
+625,Alternating standing glute stretch,1.4
+625,Dumbbell floor press,1.1
+625,Bear crawl sled drag,2.0
+625,Stairmaster,2.5
+625,Push-jerk,3.9
+626,FYR Dumbbell front raise to lateral raise,1.4
+626,Over bench jump,1.5
+626,Exercise ball chest stretch,4.3
+626,Sumo deadlift,4.2
+626,Bear crawl sled drag,4.0
+626,Jumping Jack,1.2
+626,Clean and jerk,1.9
+627,Single-arm kettlebell snatch,2.3
+627,Medicine Ball Chest Pass,4.8
+627,Toe Touchers,1.3
+627,Sumo deadlift,2.1
+627,Dumbbell farmer's walk,3.6
+627,High knees,1.5
+627,Clean and jerk,3.0
+628,Bent-Over Dumbbell Row - Gethin Variation,4.4
+628,Over bench jump,4.4
+628,Lunge glute stretch,2.5
+628,Barbell Hip Thrust,3.3
+628,Sled Push,4.2
+628,Elliptical trainer,1.3
+628,Push-press,4.8
+629,Squat with alternating side leg raise,3.6
+629,Jump lunge heel kick,4.3
+629,Exercise ball torso rotation,3.3
+629,Glute Ham Raise,3.5
+629,Bear crawl sled drag,3.9
+629,Treadmill running,1.9
+629,Push-jerk,3.2
+630,Double-kettlebell push-press,2.8
+630,Kettlebell fire feet,3.1
+630,Lunge glute stretch,1.7
+630,Good Morning,4.7
+630,Bear crawl sled drag,3.9
+630,Rower,1.3
+630,Push-jerk,1.4
+631,Kettlebell pirate ship,1.4
+631,Jump lunge heel kick,2.0
+631,Inchworm,2.1
+631,Glute Ham Raise,2.8
+631,Sled Push,2.6
+631,Bear crawl fire feet,2.4
+631,Behind-the-head push-press,3.4
+632,Dead bug reach,3.5
+632,Speed skater,2.2
+632,Exercise ball chest stretch,1.5
+632,Barbell glute bridge,1.3
+632,Dumbbell farmer's walk,3.6
+632,Bear crawl fire feet,2.7
+632,Clean and jerk,2.3
+633,Cable rope push-down,4.5
+633,Wall sprawl,4.7
+633,Iliotibial band SMR,1.1
+633,Rack pull,4.8
+633,Dumbbell farmer's walk,1.8
+633,Plate push,1.4
+633,Power snatch-,3.5
+634,Total Fitness Close-Grip Dumbbell Press,2.7
+634,Jump lunge heel kick,3.5
+634,World's greatest stretch,3.9
+634,Barbell glute bridge,3.0
+634,Dumbbell farmer's walk,3.6
+634,Shuttle run,2.9
+634,Behind-the-head push-press,1.4
+635,Band standing concentration curl,4.0
+635,Scissors Jump,1.7
+635,Cross-body shoulder stretch,1.3
+635,Speed Box Squat,1.6
+635,Bear crawl sled drag,3.3
+635,Treadmill running,4.9
+635,Power snatch-,1.4
+636,Battle ropes,4.2
+636,Pop squat,4.4
+636,Wall calf stretch,4.4
+636,Speed Box Squat,1.2
+636,Tire flip,3.1
+636,Treadmill jogging,2.8
+636,Push-press,4.7
+637,FYR Breakdancer,2.4
+637,Skip,1.7
+637,Standing hamstring stretch,2.7
+637,Barbell deficit deadlift,1.6
+637,Tire flip,4.6
+637,Treadmill jogging,1.1
+637,Power snatch-,2.3
+638,Shuttle run training,4.5
+638,Sit-up with single-arm overhand throw,4.5
+638,Cross-body shoulder stretch,4.3
+638,Barbell back squat to box,1.8
+638,Dumbbell farmer's walk,5.0
+638,Stairmaster,1.5
+638,Behind-the-head push-press,4.3
+639,Incline Bench Rear Dumbbell Fly - Gethin Variation,1.0
+639,In-out jump squat,3.8
+639,Brachialis SMR,2.1
+639,Speed Box Squat,2.8
+639,Sled Push,4.8
+639,Shadow boxing,1.2
+639,Power snatch-,4.1
+640,FYR V-Up,4.7
+640,Gorilla squat,1.8
+640,Lying quad stretch with band,1.7
+640,Rack pull,4.3
+640,Dumbbell farmer's walk,4.0
+640,Rower,2.7
+640,Clean and jerk,2.9
+641,Total Fitness Skip,1.2
+641,Medicine Ball Chest Pass,1.3
+641,Quadriceps SMR,4.2
+641,Glute Ham Raise,1.2
+641,Dumbbell farmer's walk,3.2
+641,Stairmaster,4.6
+641,Clean and jerk,1.3
+642,Burpee over kettlebell,2.2
+642,Wall sprawl,3.8
+642,Bent Over Shoulder Y,3.2
+642,Barbell Hip Thrust,1.3
+642,Sled Push,3.2
+642,Shadow boxing,1.7
+642,Push-jerk,1.6
+643,Dumbbell lunge with biceps curl,4.0
+643,Bar Push-Up Smith Machine,3.5
+643,World's greatest stretch,1.3
+643,Board bench press,3.4
+643,Tire flip,4.1
+643,Burpee,3.5
+643,Power snatch-,4.8
+644,Close push-up,3.0
+644,Plyo push-up,1.0
+644,Arm circle,5.0
+644,Glute Ham Raise,2.3
+644,Sled Push,4.1
+644,Jumping rope,1.2
+644,Push-press,3.2
+645,Smith machine inverted row,4.1
+645,Over bench jump,1.3
+645,Iliotibial band SMR,1.8
+645,Barbell deficit deadlift,4.2
+645,Tire flip,2.2
+645,Jumping Jack,3.2
+645,Power snatch-,1.3
+646,Smith machine inverted row,2.9
+646,Slalom jumps,3.4
+646,Quadriceps SMR,1.8
+646,Barbell back squat to box,4.7
+646,Bear crawl sled drag,4.3
+646,Jumping rope,3.5
+646,Behind-the-head push-press,3.2
+647,Overhead cable curl,3.3
+647,Scissors Jump,2.5
+647,Alternating lunge jump,4.8
+647,Dumbbell floor press,2.3
+647,Sled Push,2.9
+647,Shadow boxing,4.9
+647,Behind-the-head push-press,2.0
+648,Barbell Ab Roll Out - Gethin Variation,1.6
+648,Medicine ball scoop throw,1.0
+648,Wall calf stretch,3.5
+648,Barbell glute bridge,3.2
+648,Sled Push,4.7
+648,Bear crawl fire feet,4.1
+648,Behind-the-head push-press,4.0
+649,Reverse-Grip Cable Triceps Pushdown - Gethin Variation,1.4
+649,Knee Tuck Jump,1.4
+649,One Handed Hang,2.5
+649,Barbell deficit deadlift,2.6
+649,Bear crawl sled drag,3.9
+649,Burpee,3.9
+649,Push-jerk,2.6
+650,Bent-knee reverse crunch,2.1
+650,Southpaw sprawl,3.0
+650,Exercise ball torso rotation,2.3
+650,Board bench press,1.5
+650,Tire flip,4.1
+650,Shadow boxing,2.6
+650,Behind-the-head push-press,2.2
+651,Jump squat-,4.5
+651,Speed skater,3.9
+651,Pass-through stretch with band,4.8
+651,Barbell glute bridge,2.2
+651,Sled Push,1.0
+651,Sled push-,4.5
+651,Behind-the-head push-press,3.0
+652,Hamstring slide,1.6
+652,Running lunge,3.7
+652,Standing side bend stretch,3.4
+652,Glute Ham Raise,2.2
+652,Tire flip,5.0
+652,Burpee,1.9
+652,Push-jerk,3.4
+653,Single Arm Overhead Kettlebell Squat,3.1
+653,Over bench jump,4.2
+653,Standing leg swing,4.9
+653,Board bench press,4.1
+653,Sled Push,2.6
+653,Sled push-,1.7
+653,Behind-the-head push-press,4.2
+654,Partner side plank band row,3.8
+654,In-out jump squat,1.0
+654,Iliotibial band SMR,3.7
+654,Dumbbell floor press,3.2
+654,Bear crawl sled drag,4.2
+654,Stair climber,4.8
+654,Push-press,3.1
+655,Kettlebell thruster,4.3
+655,Medicine ball scoop throw,4.6
+655,Latissimus dorsi SMR,2.7
+655,Barbell glute bridge,2.1
+655,Bear crawl sled drag,4.7
+655,High knees,2.8
+655,Power snatch-,4.3
+656,Side-lying leg adduction scissor,3.1
+656,Wall mountain climber,1.0
+656,Cross-body shoulder stretch,4.2
+656,Barbell glute bridge,1.9
+656,Dumbbell farmer's walk,1.9
+656,Treadmill walking,3.8
+656,Push-press,2.5
+657,Rope Crunch,4.3
+657,Lateral box jump,5.0
+657,Bent Over Shoulder Y,1.1
+657,Rack pull,2.8
+657,Tire flip,3.2
+657,Bear crawl fire feet,3.9
+657,Clean and jerk,4.2
+658,Barbell Squat To A Bench,4.5
+658,Speed skater,2.8
+658,Standing side bend stretch,3.8
+658,Barbell back squat to box,2.4
+658,Bear crawl sled drag,3.6
+658,Shadow boxing,2.0
+658,Power snatch-,2.8
+659,Dumbbell Lunges,1.0
+659,Broad jump,2.2
+659,Rhomboids SMR,1.7
+659,Good Morning,1.8
+659,Sled Push,4.9
+659,Stair climber,4.3
+659,Power snatch-,4.6
+660,Smith machine bench press,3.9
+660,Jumping jack-,1.9
+660,Lying glute stretch,2.6
+660,Board bench press,4.2
+660,Sled Push,2.9
+660,Elliptical trainer,3.1
+660,Push-press,2.9
+661,Chest dip,1.1
+661,Lateral cone hop,2.9
+661,Piriformis SMR,2.3
+661,Board bench press,2.5
+661,Sled Push,2.2
+661,Stationary bike,1.6
+661,Push-press,3.1
+662,Cocoon crunch,2.0
+662,Squat Isometric Hold,2.0
+662,Arm circle,1.1
+662,Glute Ham Raise,3.5
+662,Dumbbell farmer's walk,3.6
+662,Sled push-,1.4
+662,Clean and jerk,1.2
+663,Paul Carter Dumbbell Kick-Back,4.6
+663,Jump lunge heel kick,4.8
+663,Alternating standing knee-pull stretch,1.6
+663,Good Morning,1.1
+663,Tire flip,2.8
+663,Stationary bike,3.3
+663,Power snatch-,1.0
+664,Triceps dip,3.9
+664,Medicine ball slam,2.6
+664,One Handed Hang,1.7
+664,Sumo deadlift,1.8
+664,Sled Push,3.3
+664,Burpee,2.0
+664,Behind-the-head push-press,3.3
+665,Seated Leg Press,3.8
+665,Kettlebell fire feet,4.6
+665,Quadriceps SMR,2.4
+665,Sumo deadlift,1.9
+665,Tire flip,1.2
+665,Stationary bike,4.2
+665,Push-jerk,4.6
+666,AM Dumbbell Shoulder Press,4.6
+666,Side-to-side box skip,1.2
+666,World's greatest stretch,4.7
+666,Barbell back squat to box,2.7
+666,Bear crawl sled drag,1.6
+666,Plate push,4.1
+666,Push-jerk,2.5
+667,Hanging Leg Raise - Variation Gethin,1.3
+667,Scissors Jump,3.1
+667,Bar shoulder extension stretch,2.6
+667,Barbell back squat to box,4.5
+667,Dumbbell farmer's walk,4.1
+667,Bear crawl fire feet,2.6
+667,Push-jerk,2.5
+668,Decline bar press sit-up,1.9
+668,Kettlebell fire feet,2.6
+668,Kneeling hip flexor stretch,4.0
+668,Board bench press,1.9
+668,Bear crawl sled drag,4.5
+668,Burpee,3.1
+668,Behind-the-head push-press,1.2
+669,Kettlebell pass-through lunge,1.3
+669,Pop squat,2.6
+669,Lying quad stretch with band,4.7
+669,Glute Ham Raise,5.0
+669,Sled Push,4.6
+669,Sled push-,1.2
+669,Clean and jerk,3.5
+670,30 Hanging Toes-To-Bar,4.9
+670,Slalom jumps,1.0
+670,Alternating lunge jump,4.0
+670,Board bench press,4.2
+670,Bear crawl sled drag,4.7
+670,Treadmill jogging,4.7
+670,Push-press,1.9
+671,Lying rear delt Y,4.6
+671,Lateral box jump,2.6
+671,Lunge glute stretch,2.4
+671,Board bench press,3.0
+671,Bear crawl sled drag,2.6
+671,Stairmaster,1.0
+671,Clean and jerk,1.7
+672,Single-arm kettlebell front squat,3.4
+672,Split Jump,4.5
+672,Yoga plex,3.9
+672,Barbell Hip Thrust,4.9
+672,Sled Push,3.5
+672,Burpee,4.8
+672,Clean and jerk,3.5
+673,Single-arm dumbbell triceps extension,4.5
+673,Box Jump (Multiple Response),3.6
+673,Yoga plex,1.6
+673,Sumo deadlift,1.3
+673,Tire flip,3.7
+673,Bear crawl fire feet,1.0
+673,Behind-the-head push-press,4.8
+674,King Maker Leg Press,1.8
+674,Broad jump,4.2
+674,Rhomboids SMR,2.5
+674,Barbell back squat to box,1.6
+674,Sled Push,2.0
+674,Jumping rope,4.2
+674,Push-jerk,2.6
+675,Hammer Curls,1.2
+675,Sledgehammer swing,4.0
+675,Alternating lunge jump,3.5
+675,Barbell Hip Thrust,3.2
+675,Sled Push,2.2
+675,Sled push-,4.9
+675,Push-jerk,3.3
+676,Decline crunch-,3.2
+676,Dumbbell seated box jump,2.7
+676,Alternating lunge jump,4.1
+676,Rack pull,4.0
+676,Tire flip,3.1
+676,Stairmaster,4.5
+676,Push-jerk,2.1
+677,Total Fitness Ab Tuck,4.7
+677,Jumping jack-,1.4
+677,One Handed Hang,2.5
+677,Board bench press,1.1
+677,Sled Push,3.6
+677,Treadmill jogging,3.2
+677,Power snatch-,3.4
+678,Clock push-up,5.0
+678,Squat Isometric Hold,4.6
+678,Alternating standing knee-pull stretch,3.6
+678,Sumo deadlift,3.4
+678,Bear crawl sled drag,4.5
+678,Jumping Jack,3.7
+678,Behind-the-head push-press,4.7
+679,30 Cable Reverse Crunch,3.5
+679,Sprawl frog kick,3.9
+679,Quadriceps SMR,2.2
+679,Speed Box Squat,4.5
+679,Dumbbell farmer's walk,2.1
+679,Stair climber,2.4
+679,Power snatch-,5.0
+680,Barbell Squat,4.2
+680,Jump lunge heel kick,2.9
+680,Lying quad stretch with band,3.2
+680,Sumo deadlift,4.0
+680,Bear crawl sled drag,4.8
+680,High knees,3.5
+680,Power snatch-,2.0
+681,Ab Wheel Roll-Out - Gethin Variation,4.4
+681,Scissors Jump,4.9
+681,Standing hamstring stretch,3.8
+681,Speed Box Squat,4.7
+681,Dumbbell farmer's walk,4.7
+681,Stairmaster,4.1
+681,Clean and jerk,4.1
+682,Dumbbell shadow boxing,4.2
+682,Lateral cone hop,3.6
+682,Standing hip circle,4.3
+682,Rack pull,3.2
+682,Bear crawl sled drag,2.7
+682,Elliptical trainer,4.4
+682,Behind-the-head push-press,4.9
+683,Plank leg raise,4.1
+683,Burpee over barbell,1.1
+683,Reach-roll-lift combo,3.6
+683,Barbell Hip Thrust,4.2
+683,Bear crawl sled drag,2.7
+683,Bear crawl fire feet,2.1
+683,Clean and jerk,2.1
+684,Rope Face Pull - Gethin Variation,3.0
+684,Carioca quick step,3.8
+684,Iliotibial band SMR,1.4
+684,Barbell deficit deadlift,4.8
+684,Dumbbell farmer's walk,2.5
+684,Burpee,3.6
+684,Clean and jerk,2.6
+685,Seated Single-Leg Calf Press - Gethin Variation,4.5
+685,Split Jump,3.4
+685,Standing hamstring stretch,4.2
+685,Glute Ham Raise,3.2
+685,Bear crawl sled drag,2.9
+685,Rower,3.4
+685,Clean and jerk,3.5
+686,Side Bridge,3.1
+686,Box Jump (Multiple Response),4.1
+686,Exercise ball torso rotation,1.7
+686,Sumo deadlift,3.9
+686,Tire flip,2.3
+686,Treadmill walking,3.5
+686,Push-jerk,4.6
+687,Alternating single-leg sprawl,3.6
+687,Sit-up with single-arm overhand throw,1.2
+687,Lying glute stretch,3.1
+687,Barbell back squat to box,3.1
+687,Dumbbell farmer's walk,3.1
+687,Shuttle run,3.9
+687,Power snatch-,3.2
+688,Plate-weighted push-up,3.8
+688,Mountain climber,4.0
+688,Piriformis SMR,4.7
+688,Glute Ham Raise,2.3
+688,Tire flip,3.6
+688,High knees,3.0
+688,Push-press,1.6
+689,Push-Up Wide,3.6
+689,Burpee to pull-up,1.6
+689,Brachialis SMR,3.7
+689,Dumbbell floor press,2.5
+689,Bear crawl sled drag,3.8
+689,Sled push-,4.9
+689,Push-press,3.0
+690,Close-grip EZ-bar curl,2.3
+690,Wall ball toss,3.9
+690,Bent Over Shoulder Y,3.9
+690,Glute Ham Raise,4.0
+690,Sled Push,5.0
+690,Shadow boxing,3.4
+690,Power snatch-,4.0
+691,30 Barbell Roll-Out,4.5
+691,Jump lunge heel kick,1.2
+691,Single-leg balance and reach,4.2
+691,Board bench press,2.2
+691,Sled Push,3.4
+691,Jumping rope,1.9
+691,Behind-the-head push-press,1.0
+692,Single-arm bench dumbbell row,2.1
+692,Dumbbell jump squat,4.6
+692,Yoga plex,1.3
+692,Dumbbell floor press,1.0
+692,Sled Push,1.6
+692,Stationary bike,4.6
+692,Clean and jerk,1.7
+693,Sissy squat,3.3
+693,Skip,4.4
+693,Inchworm,1.2
+693,Board bench press,1.9
+693,Bear crawl sled drag,4.9
+693,Jumping Jack,4.9
+693,Power snatch-,3.4
+694,Spider crunch,4.8
+694,Sprawl frog kick,1.5
+694,Arm circle,2.6
+694,Barbell back squat to box,3.3
+694,Bear crawl sled drag,1.3
+694,Treadmill jogging,1.4
+694,Power snatch-,1.0
+695,In-out sprawl,5.0
+695,Split Jump,2.3
+695,Standing hip circle,1.2
+695,Speed Box Squat,2.3
+695,Dumbbell farmer's walk,1.5
+695,Rower,4.9
+695,Power snatch-,3.1
+696,Cable overhead triceps extension,3.0
+696,90-degree jump squat,3.2
+696,Wall calf stretch,3.3
+696,Speed Box Squat,4.7
+696,Tire flip,1.6
+696,Burpee,3.5
+696,Clean and jerk,3.9
+697,Ab Roller,4.3
+697,Burpee over barbell,1.7
+697,Shoulder T,3.0
+697,Barbell glute bridge,1.8
+697,Tire flip,1.8
+697,Stairmaster,1.7
+697,Push-jerk,1.6
+698,FYR Air Ball Plus Medicine Ball Jumping Sprawl,2.0
+698,Kettlebell fire feet,2.1
+698,Standing hamstring stretch,1.1
+698,Sumo deadlift,4.3
+698,Sled Push,4.7
+698,Bear crawl fire feet,4.6
+698,Push-press,3.5
+699,Seated Dumbbell Press,3.6
+699,Sprawl frog kick,1.4
+699,Adductor SMR,4.1
+699,Barbell deficit deadlift,4.4
+699,Bear crawl sled drag,3.3
+699,Bear crawl fire feet,2.5
+699,Power snatch-,4.7
+700,Single-arm lateral raise,2.9
+700,Jumping jack-,1.9
+700,Standing side bend stretch,2.7
+700,Barbell back squat to box,3.0
+700,Bear crawl sled drag,2.8
+700,Jumping Jack,2.0
+700,Push-press,2.7
+701,Push-up,3.6
+701,Slalom jumps,2.9
+701,Adductor SMR,1.1
+701,Rack pull,2.9
+701,Tire flip,2.8
+701,Rower,1.5
+701,Clean and jerk,4.3
+702,Wide push-up plank hold,4.3
+702,Jump Squat,1.9
+702,Lying groin stretch with band,3.3
+702,Barbell deficit deadlift,4.7
+702,Sled Push,4.3
+702,Jumping Jack,3.1
+702,Power snatch-,2.4
+703,Neutral-grip lat pull-down,1.8
+703,Broad jump,4.1
+703,Standing hamstring stretch,1.4
+703,Good Morning,2.9
+703,Tire flip,3.0
+703,Bear crawl fire feet,1.5
+703,Power snatch-,3.6
+704,Alternate Hammer Curl,1.9
+704,Lateral cone hop,2.4
+704,Shoulder T,1.3
+704,Good Morning,3.0
+704,Sled Push,3.3
+704,Burpee,3.1
+704,Power snatch-,1.3
+705,Pallof press with rotation,3.0
+705,Medicine ball scoop throw,2.6
+705,Single-leg lying cross-over stretch,3.2
+705,Rack pull,4.7
+705,Sled Push,4.6
+705,Plate push,3.4
+705,Behind-the-head push-press,3.2
+706,Single-leg standing dumbbell calf raise,2.2
+706,Box jump,4.0
+706,Crab single-arm reach,2.4
+706,Speed Box Squat,4.8
+706,Sled Push,1.7
+706,Treadmill running,4.8
+706,Push-press,2.5
+707,Decline dumbbell fly and press,2.1
+707,Lateral hop,2.2
+707,Lower back SMR,2.3
+707,Board bench press,2.3
+707,Tire flip,1.8
+707,Sled push-,4.3
+707,Push-press,1.4
+708,Curtsy lunge,2.0
+708,Medicine ball slam,1.3
+708,Single-leg balance and reach,3.3
+708,Speed Box Squat,3.7
+708,Sled Push,3.8
+708,Sled push-,4.9
+708,Behind-the-head push-press,1.3
+709,One-Arm Cable Read Delt Fly - Gethin Variation,1.4
+709,Box jump,1.3
+709,Single-leg lying cross-over stretch,3.5
+709,Speed Box Squat,4.7
+709,Bear crawl sled drag,2.1
+709,Treadmill running,4.3
+709,Power snatch-,1.1
+710,AM Leg Lift,3.8
+710,Medicine ball scoop throw,4.8
+710,Cross-body shoulder stretch,4.0
+710,Sumo deadlift,3.3
+710,Tire flip,1.7
+710,Bear crawl fire feet,4.8
+710,Behind-the-head push-press,1.4
+711,Bear crawl donkey kick,1.3
+711,Broad jump,1.7
+711,Shoulder T,1.7
+711,Barbell Hip Thrust,4.8
+711,Bear crawl sled drag,1.7
+711,Sled push-,2.8
+711,Clean and jerk,4.6
+712,Hanging Leg Raise - Variation Gethin,4.2
+712,Running lunge,4.5
+712,One Handed Hang,3.1
+712,Glute Ham Raise,4.2
+712,Sled Push,1.5
+712,Shadow boxing,2.6
+712,Behind-the-head push-press,4.0
+713,Smith machine shoulder press,1.5
+713,Squat Isometric Hold,4.0
+713,Exercise ball torso rotation,2.3
+713,Board bench press,3.7
+713,Dumbbell farmer's walk,1.7
+713,High knees,2.2
+713,Behind-the-head push-press,4.5
+714,Lateral ape,1.3
+714,Bar Push-Up Smith Machine,2.9
+714,Exercise ball chest stretch,4.6
+714,Barbell Hip Thrust,1.1
+714,Sled Push,3.8
+714,Stationary bike,2.3
+714,Push-jerk,4.8
+715,Alternating lying leg raise,1.9
+715,Slalom jumps,2.7
+715,World's greatest stretch,1.8
+715,Barbell back squat to box,2.5
+715,Sled Push,3.0
+715,Jumping Jack,4.7
+715,Power snatch-,2.5
+716,Cable Cross-Over - Gethin Variation,4.2
+716,Dumbbell lateral hop to sprint,5.0
+716,One Handed Hang,2.7
+716,Dumbbell floor press,3.5
+716,Tire flip,4.1
+716,Rower,3.9
+716,Behind-the-head push-press,3.8
+717,FYR Kettlebell Power Clean,3.6
+717,Plyo push-up,2.4
+717,Piriformis SMR,2.4
+717,Sumo deadlift,3.6
+717,Dumbbell farmer's walk,3.6
+717,Burpee,5.0
+717,Push-press,2.8
+718,Single-arm kettlebell row-,4.6
+718,Speed skater,4.2
+718,Bent Over Shoulder Y,3.6
+718,Barbell back squat to box,2.9
+718,Dumbbell farmer's walk,4.3
+718,Plate push,4.1
+718,Power snatch-,1.2
+719,Smith machine single-arm shrug,2.8
+719,Box jump,1.2
+719,Standing hamstring stretch,1.8
+719,Barbell Hip Thrust,4.8
+719,Tire flip,2.4
+719,Jumping Jack,2.9
+719,Clean and jerk,4.6
+720,Smith machine push-up,4.3
+720,Carioca quick step,4.5
+720,Reach-roll-lift combo,3.4
+720,Sumo deadlift,3.1
+720,Dumbbell farmer's walk,2.2
+720,Sled push-,3.2
+720,Power snatch-,1.9
+721,Machine Shoulder (Military) Press,1.5
+721,90-degree jump squat,2.3
+721,Lying quad stretch with band,4.5
+721,Rack pull,2.0
+721,Dumbbell farmer's walk,4.3
+721,Stationary bike,2.3
+721,Push-press,4.1
+722,Weighted Push-Up,1.8
+722,Lateral hop,4.2
+722,Lying glute stretch,1.6
+722,Rack pull,2.4
+722,Bear crawl sled drag,1.1
+722,Rower,3.8
+722,Behind-the-head push-press,2.4
+723,Lunge with overhead reach,2.1
+723,Gorilla squat,1.3
+723,Half bird dog,1.4
+723,Good Morning,2.0
+723,Sled Push,4.9
+723,Shadow boxing,3.9
+723,Push-press,1.8
+724,Standing alternating band speed row,3.4
+724,Lateral box jump,4.0
+724,Quadriceps SMR,4.3
+724,Board bench press,3.3
+724,Dumbbell farmer's walk,2.9
+724,Burpee,3.7
+724,Push-press,1.5
+725,Machine rear delt fly,1.3
+725,Dumbbell jump squat,1.8
+725,Reverse lunge,4.7
+725,Board bench press,3.7
+725,Sled Push,5.0
+725,Stairmaster,4.8
+725,Clean and jerk,1.1
+726,Smith machine drag curl,4.3
+726,Medicine Ball Chest Pass,1.5
+726,Superman,4.5
+726,Good Morning,2.3
+726,Bear crawl sled drag,1.4
+726,Shadow boxing,2.7
+726,Clean and jerk,1.9
+727,Plate-weighted push-up,3.8
+727,Jump lunge heel kick,2.7
+727,One Handed Hang,4.8
+727,Rack pull,1.2
+727,Bear crawl sled drag,1.8
+727,Shuttle run,2.3
+727,Power snatch-,4.6
+728,Cable Overhead Triceps Extension - Gethin Variation,4.7
+728,Knee Tuck Jump,4.9
+728,Pass-through stretch with band,4.4
+728,Barbell deficit deadlift,2.1
+728,Dumbbell farmer's walk,2.4
+728,Jumping rope,1.7
+728,Push-press,1.0
+729,Man-maker,1.5
+729,Pop squat,3.1
+729,Piriformis SMR,3.6
+729,Glute Ham Raise,1.5
+729,Dumbbell farmer's walk,4.1
+729,Treadmill running,2.0
+729,Push-press,2.6
+730,Single-arm incline triceps extension,1.4
+730,Scissors Jump,3.3
+730,Exercise ball chest stretch,4.6
+730,Glute Ham Raise,1.5
+730,Dumbbell farmer's walk,2.3
+730,Stationary bike,1.9
+730,Power snatch-,1.1
+731,Seated Calf Raise,2.4
+731,Jump lunge heel kick,1.7
+731,Bar shoulder extension stretch,1.8
+731,Sumo deadlift,3.1
+731,Sled Push,2.0
+731,Plate push,2.7
+731,Power snatch-,2.1
+732,BOSU knee tuck,4.5
+732,Sprawl frog kick,1.1
+732,Lower back SMR,3.3
+732,Dumbbell floor press,3.6
+732,Bear crawl sled drag,2.4
+732,Shadow boxing,1.5
+732,Push-jerk,4.5
+733,Seated alternating biceps curl,3.1
+733,Sledgehammer swing,2.7
+733,Reverse lunge,3.7
+733,Barbell glute bridge,3.9
+733,Dumbbell farmer's walk,3.8
+733,Treadmill jogging,1.4
+733,Behind-the-head push-press,4.1
+734,Banded biceps curl in squat position,1.1
+734,Jump lunge heel kick,2.8
+734,Kneeling hip flexor stretch,2.7
+734,Dumbbell floor press,3.6
+734,Dumbbell farmer's walk,3.1
+734,High knees,4.8
+734,Push-jerk,1.6
+735,Kettlebell 3-point leg extension,1.9
+735,Broad jump,4.6
+735,Single-leg lying cross-over stretch,3.9
+735,Glute Ham Raise,2.0
+735,Sled Push,4.9
+735,Rower,3.5
+735,Clean and jerk,1.4
+736,Back Flyes - Gethin Variation,4.0
+736,Jumping jack-,3.2
+736,Lying glute stretch,1.1
+736,Glute Ham Raise,1.2
+736,Tire flip,4.4
+736,High knees,1.2
+736,Behind-the-head push-press,3.7
+737,TBS Deficit Deadlift,2.4
+737,Dumbbell lateral hop to sprint,4.1
+737,Toe Touchers,2.2
+737,Barbell glute bridge,2.3
+737,Tire flip,3.6
+737,Elliptical trainer,4.7
+737,Behind-the-head push-press,2.3
+738,Hand shift plank,1.6
+738,Burpee over barbell,3.2
+738,Standing side bend stretch,4.6
+738,Barbell back squat to box,1.3
+738,Bear crawl sled drag,4.6
+738,Jumping rope,4.5
+738,Push-press,4.6
+739,Machine low row-,1.2
+739,Wall sprawl,1.6
+739,Arm circle,1.0
+739,Speed Box Squat,2.3
+739,Sled Push,4.6
+739,Jumping Jack,1.5
+739,Push-jerk,4.4
+740,Flat Bench Lying Leg Raise,4.1
+740,Kettlebell fire feet,2.8
+740,Reach-roll-lift combo,1.1
+740,Board bench press,3.3
+740,Tire flip,4.4
+740,Plate push,2.1
+740,Push-press,4.8
+741,Romanian Deadlift With Dumbbells,2.2
+741,Burpee box jump,1.7
+741,Reach-roll-lift combo,4.7
+741,Speed Box Squat,2.3
+741,Dumbbell farmer's walk,4.1
+741,Rower,2.6
+741,Clean and jerk,1.7
+742,Close-grip bench press,2.4
+742,Dumbbell jump squat,1.3
+742,Standing side bend stretch,1.4
+742,Board bench press,2.4
+742,Dumbbell farmer's walk,3.5
+742,Plate push,2.0
+742,Push-jerk,3.7
+743,Decline plate sit-up twist,4.1
+743,Broad jump,2.7
+743,Quadriceps SMR,1.8
+743,Rack pull,1.1
+743,Tire flip,4.1
+743,Burpee,1.1
+743,Behind-the-head push-press,2.1
+744,Seated cable deadlift,3.0
+744,In-out jump squat,3.3
+744,Reverse lunge,1.8
+744,Good Morning,1.7
+744,Bear crawl sled drag,2.7
+744,Stairmaster,4.2
+744,Push-jerk,4.4
+745,Lying Leg Curls,1.7
+745,Mountain climber,1.9
+745,Inchworm,2.7
+745,Barbell Hip Thrust,4.2
+745,Sled Push,3.5
+745,Bear crawl fire feet,1.9
+745,Push-jerk,3.1
+746,V-up,2.9
+746,Medicine ball slam,4.8
+746,Standing hamstring stretch,2.9
+746,Good Morning,2.5
+746,Tire flip,3.6
+746,Sled push-,2.3
+746,Power snatch-,2.4
+747,Total Fitness Close-Grip Dumbbell Press,4.9
+747,Burpee tuck jump,3.0
+747,Alternating standing knee-pull stretch,1.8
+747,Barbell deficit deadlift,2.8
+747,Dumbbell farmer's walk,3.6
+747,Sled push-,1.3
+747,Push-jerk,4.4
+748,BFR cable rope hammer curl,4.1
+748,Burpee over barbell,3.7
+748,Rhomboids SMR,2.5
+748,Barbell Hip Thrust,3.1
+748,Bear crawl sled drag,2.1
+748,Plate push,2.7
+748,Push-jerk,1.8
+749,30 Cable Rope Oblique Crunch,1.1
+749,Box Jump (Multiple Response),4.9
+749,Standing hip circle,4.1
+749,Board bench press,3.4
+749,Tire flip,3.5
+749,Burpee,4.3
+749,Behind-the-head push-press,4.3
+750,Bodyweight Walking Lunge - Gethin Variation,2.6
+750,Jump Squat,2.5
+750,Adductor SMR,4.2
+750,Barbell glute bridge,1.0
+750,Dumbbell farmer's walk,2.3
+750,Stairmaster,1.6
+750,Push-press,3.3
+751,Paul Carter Romanian Deadlift,3.6
+751,Skip,4.9
+751,Rhomboids SMR,2.2
+751,Sumo deadlift,2.3
+751,Sled Push,3.1
+751,Sled push-,1.6
+751,Push-press,3.5
+752,Bent-over shoulder rotation,4.2
+752,Kettlebell fire feet,3.3
+752,Single-leg lying cross-over stretch,2.8
+752,Good Morning,1.6
+752,Dumbbell farmer's walk,2.1
+752,Treadmill jogging,2.1
+752,Clean and jerk,1.5
+753,Pendlay Row,2.3
+753,Wall mountain climber,2.6
+753,Bent Over Shoulder Y,2.4
+753,Barbell Hip Thrust,3.8
+753,Dumbbell farmer's walk,4.3
+753,Stairmaster,1.8
+753,Push-press,1.4
+754,Exercise Ball Pull-In,4.4
+754,Plyo push-up,1.7
+754,Exercise ball chest stretch,3.1
+754,Rack pull,4.1
+754,Tire flip,1.9
+754,Treadmill walking,4.6
+754,Push-jerk,3.4
+755,Dumbbell shadow boxing,1.7
+755,Split Jump,2.6
+755,Exercise ball torso rotation,5.0
+755,Glute Ham Raise,1.1
+755,Bear crawl sled drag,4.2
+755,Treadmill running,3.1
+755,Push-jerk,1.5
+756,Banded Hammer Press - Gethin Variation,4.5
+756,Gorilla squat,3.7
+756,Kneeling hip flexor stretch,2.6
+756,Barbell glute bridge,4.9
+756,Dumbbell farmer's walk,2.2
+756,Treadmill walking,4.3
+756,Clean and jerk,4.7
+757,Band standing concentration curl,4.1
+757,Sit-up with single-arm overhand throw,4.6
+757,Standing leg swing,3.6
+757,Barbell back squat to box,1.5
+757,Tire flip,4.6
+757,Jumping Jack,1.2
+757,Push-jerk,1.5
+758,Machine seated calf raise,2.3
+758,Carioca quick step,2.9
+758,Superman,2.5
+758,Rack pull,1.7
+758,Tire flip,2.5
+758,Sled push-,5.0
+758,Behind-the-head push-press,1.6
+759,Partner target sit-up,1.8
+759,Lateral box jump,1.9
+759,Bar shoulder extension stretch,1.2
+759,Barbell Hip Thrust,4.2
+759,Tire flip,4.3
+759,Bear crawl fire feet,3.4
+759,Power snatch-,2.2
+760,Single-arm high-cable side bend,2.8
+760,Depth jump box jump,4.9
+760,Bent Over Shoulder Y,1.7
+760,Rack pull,3.0
+760,Dumbbell farmer's walk,3.3
+760,Jumping Jack,2.4
+760,Clean and jerk,2.3
+761,Dumbbell hollow-body floor press,4.8
+761,Southpaw sprawl,1.9
+761,Reach-roll-lift combo,2.0
+761,Sumo deadlift,4.2
+761,Dumbbell farmer's walk,2.0
+761,Jumping rope,2.0
+761,Push-jerk,2.6
+762,Partner front Russian twist and pass,1.8
+762,Lateral cone hop,3.9
+762,Inchworm,3.0
+762,Glute Ham Raise,5.0
+762,Sled Push,3.0
+762,Plate push,3.9
+762,Behind-the-head push-press,2.9
+763,Single-arm dumbbell skullcrusher,3.6
+763,Dumbbell jump squat,3.8
+763,Lying glute stretch,1.9
+763,Glute Ham Raise,4.1
+763,Dumbbell farmer's walk,5.0
+763,Rower,3.6
+763,Push-jerk,3.2
+764,Standing EZ-Bar Curl - Gethin Variation,4.1
+764,Wall mountain climber,1.3
+764,Crab single-arm reach,2.2
+764,Barbell back squat to box,4.9
+764,Dumbbell farmer's walk,1.6
+764,Burpee,1.4
+764,Clean and jerk,4.2
+765,Thigh adductor,1.7
+765,Depth jump box jump,4.5
+765,Reach-roll-lift combo,1.9
+765,Speed Box Squat,3.4
+765,Sled Push,2.2
+765,High knees,1.7
+765,Behind-the-head push-press,5.0
+766,Alternating Exercise Ball Knee Tucks - Gethin Variation,2.2
+766,Knee Tuck Jump,2.6
+766,Standing leg swing,1.9
+766,Glute Ham Raise,2.2
+766,Sled Push,1.7
+766,Shadow boxing,1.6
+766,Clean and jerk,4.5
+767,Single-arm kettlebell snatch,2.1
+767,Jumping jack-,2.4
+767,One Handed Hang,3.9
+767,Glute Ham Raise,2.5
+767,Bear crawl sled drag,4.1
+767,Jumping rope,2.2
+767,Behind-the-head push-press,4.2
+768,Dumbbell clean and push-press,2.6
+768,Broad jump,1.4
+768,Bar shoulder extension stretch,4.3
+768,Barbell Hip Thrust,4.7
+768,Sled Push,2.6
+768,Treadmill walking,2.6
+768,Push-jerk,2.3
+769,Seated Leg Press,1.5
+769,Lateral hop,1.2
+769,Pass-through stretch with band,1.5
+769,Rack pull,1.5
+769,Tire flip,3.4
+769,Jumping rope,3.3
+769,Behind-the-head push-press,3.6
+770,Single-arm cable triceps extension,1.4
+770,Wall sprawl,1.0
+770,Piriformis SMR,2.8
+770,Board bench press,2.4
+770,Sled Push,3.6
+770,Rower,1.8
+770,Push-jerk,4.1
+771,Bent-knee Copenhagen hip adduction,2.1
+771,Dumbbell seated box jump,4.2
+771,Single-leg lying cross-over stretch,2.8
+771,Barbell deficit deadlift,3.3
+771,Dumbbell farmer's walk,2.5
+771,Elliptical trainer,2.4
+771,Clean and jerk,3.5
+772,TBS Hammer Curl,1.0
+772,Box jump,3.2
+772,Single-leg lying cross-over stretch,4.6
+772,Speed Box Squat,1.7
+772,Tire flip,2.8
+772,Sled push-,4.3
+772,Clean and jerk,1.9
+773,Kneeling lat pull-down,3.4
+773,Knee Tuck Jump,3.8
+773,Single-leg balance and reach,3.4
+773,Barbell Hip Thrust,1.2
+773,Sled Push,4.2
+773,Sled push-,2.6
+773,Power snatch-,4.8
+774,Donkey Calf Raise - Gethin Variation,3.7
+774,Sit-up with single-arm overhand throw,4.7
+774,Reverse lunge,2.1
+774,Sumo deadlift,3.2
+774,Sled Push,4.2
+774,Shuttle run,3.4
+774,Clean and jerk,2.9
+775,Dumbbell bench press-,1.2
+775,In-out jump squat,4.6
+775,Alternating standing knee-pull stretch,1.7
+775,Speed Box Squat,2.8
+775,Dumbbell farmer's walk,2.7
+775,Stair climber,4.1
+775,Behind-the-head push-press,1.9
+776,Decline plate sit-up,3.0
+776,Mountain climber,4.3
+776,Brachialis SMR,3.8
+776,Barbell back squat to box,5.0
+776,Sled Push,1.3
+776,Treadmill jogging,2.9
+776,Behind-the-head push-press,4.2
+777,Southpaw sprawl with push-up,4.4
+777,Skip,2.3
+777,Lying quad stretch with band,2.3
+777,Sumo deadlift,3.4
+777,Sled Push,1.7
+777,Stairmaster,3.4
+777,Behind-the-head push-press,4.6
+778,Smith Machine Incline Bench Press,4.0
+778,Jumping knee up-down,3.1
+778,Quadriceps SMR,2.0
+778,Good Morning,2.1
+778,Bear crawl sled drag,3.6
+778,Shuttle run,3.9
+778,Push-press,3.2
+779,Standing One-Arm Cable Curl,4.2
+779,Dumbbell seated box jump,1.9
+779,Alternating lunge jump,1.2
+779,Board bench press,3.7
+779,Bear crawl sled drag,5.0
+779,Stationary bike,3.7
+779,Push-jerk,3.6
+780,Lateral shuffle,2.8
+780,Medicine ball scoop throw,3.7
+780,Crab single-arm reach,4.6
+780,Barbell glute bridge,1.3
+780,Dumbbell farmer's walk,3.3
+780,Treadmill running,1.7
+780,Power snatch-,2.0
+781,Single-arm machine preacher curl,2.6
+781,Wall sprawl,1.3
+781,Bent Over Shoulder Y,3.5
+781,Barbell glute bridge,1.5
+781,Sled Push,4.0
+781,Burpee,2.3
+781,Behind-the-head push-press,3.2
+782,Reverse-grip dumbbell curl,3.0
+782,Dumbbell seated box jump,3.2
+782,One Handed Hang,3.0
+782,Dumbbell floor press,3.0
+782,Sled Push,2.9
+782,Jumping Jack,4.5
+782,Clean and jerk,4.3
+783,Smith machine back squat,4.5
+783,Dumbbell lateral hop to sprint,4.2
+783,Kneeling hip flexor stretch,3.8
+783,Speed Box Squat,4.2
+783,Sled Push,1.5
+783,Stair climber,3.9
+783,Power snatch-,3.2
+784,Dumbbell biceps curl to upright row,4.5
+784,Speed skater,3.5
+784,Lying groin stretch with band,1.7
+784,Barbell Hip Thrust,3.0
+784,Bear crawl sled drag,3.2
+784,Treadmill running,3.9
+784,Clean and jerk,1.6
+785,Reverse-grip bench press,1.2
+785,Sit-up with single-arm overhand throw,1.2
+785,Lying groin stretch with band,3.1
+785,Dumbbell floor press,2.6
+785,Dumbbell farmer's walk,1.7
+785,Stairmaster,1.7
+785,Push-jerk,1.2
+786,Paul Carter Cable Cross-Over,4.2
+786,Medicine ball scoop throw,2.7
+786,One Handed Hang,3.6
+786,Good Morning,2.6
+786,Tire flip,2.7
+786,High knees,3.3
+786,Clean and jerk,4.8
+787,UP Squat,1.1
+787,Jump Squat,2.8
+787,Crab single-arm reach,3.6
+787,Barbell deficit deadlift,2.3
+787,Dumbbell farmer's walk,2.7
+787,Sled push-,1.3
+787,Clean and jerk,2.0
+788,One-Arm Cable Read Delt Fly - Gethin Variation,1.6
+788,Wall mountain climber,4.3
+788,Toe Touchers,2.1
+788,Sumo deadlift,2.7
+788,Tire flip,2.8
+788,Treadmill running,4.9
+788,Behind-the-head push-press,2.1
+789,Banded jump squat,1.7
+789,Box jump,2.2
+789,Brachialis SMR,4.6
+789,Barbell glute bridge,1.4
+789,Dumbbell farmer's walk,2.1
+789,Plate push,3.1
+789,Push-jerk,2.6
+790,FYR Leg Lift,2.1
+790,Lateral cone hop,4.0
+790,Lower back SMR,4.1
+790,Rack pull,3.2
+790,Sled Push,1.9
+790,Stairmaster,4.7
+790,Clean and jerk,4.5
+791,Hand Stand Push-Up,1.6
+791,Sledgehammer swing,2.6
+791,Cross-body shoulder stretch,1.4
+791,Good Morning,3.2
+791,Tire flip,3.8
+791,High knees,1.2
+791,Push-jerk,3.5
+792,Band upright row,4.6
+792,Clapping Push-Up,3.7
+792,Adductor SMR,3.7
+792,Barbell deficit deadlift,1.5
+792,Dumbbell farmer's walk,3.5
+792,Treadmill running,1.5
+792,Push-jerk,3.6
+793,AM Ball Crunch,2.1
+793,Medicine ball ninja,4.0
+793,Quadriceps SMR,3.8
+793,Good Morning,3.5
+793,Dumbbell farmer's walk,4.9
+793,Shuttle run,4.1
+793,Push-jerk,1.0
+794,Forward lunge,3.4
+794,Lateral hop,1.9
+794,Half bird dog,3.5
+794,Glute Ham Raise,2.7
+794,Sled Push,3.4
+794,Elliptical trainer,4.5
+794,Push-press,2.8
+795,Plate halo,1.7
+795,Speed skater,1.6
+795,Pass-through stretch with band,2.4
+795,Good Morning,4.9
+795,Bear crawl sled drag,1.3
+795,High knees,1.6
+795,Push-press,4.9
+796,Seated Calf Raise,3.6
+796,In-out jump squat,4.5
+796,Standing leg swing,2.1
+796,Sumo deadlift,3.0
+796,Dumbbell farmer's walk,3.0
+796,Rower,2.7
+796,Push-press,4.4
+797,King Maker Barbell Back Squat,2.2
+797,Scissors Jump,2.4
+797,Shoulder T,1.3
+797,Barbell glute bridge,4.0
+797,Dumbbell farmer's walk,2.8
+797,Treadmill jogging,1.5
+797,Clean and jerk,2.7
+798,Seated Single-Leg Calf Press - Gethin Variation,3.9
+798,Bar Push-Up Smith Machine,4.4
+798,Crab single-arm reach,4.9
+798,Barbell Hip Thrust,4.1
+798,Tire flip,3.3
+798,Bear crawl fire feet,2.4
+798,Push-jerk,3.2
+799,Barbell Front-To-Back Squat,2.3
+799,Mountain climber,1.6
+799,Shoulder T,4.6
+799,Sumo deadlift,4.1
+799,Sled Push,2.8
+799,Treadmill jogging,1.1
+799,Behind-the-head push-press,1.1
+800,Smith machine lunge squat,4.3
+800,90-degree jump squat,4.3
+800,Inchworm,1.8
+800,Rack pull,3.8
+800,Sled Push,2.5
+800,Elliptical trainer,3.9
+800,Behind-the-head push-press,1.2
+801,Straight-arm plank,2.5
+801,Clapping Push-Up,4.6
+801,Single-leg lying cross-over stretch,1.2
+801,Good Morning,4.6
+801,Bear crawl sled drag,4.8
+801,Bear crawl fire feet,2.7
+801,Push-press,1.5
+802,Incline Cable Fly - Gethin Variation,3.2
+802,Mountain climber,4.9
+802,World's greatest stretch,4.3
+802,Sumo deadlift,4.2
+802,Sled Push,1.7
+802,Shuttle run,2.4
+802,Clean and jerk,3.2
+803,Suspended oblique crunch,4.2
+803,Wall mountain climber,3.9
+803,Child's pose,4.5
+803,Barbell back squat to box,1.3
+803,Sled Push,2.4
+803,Jumping Jack,2.3
+803,Push-jerk,3.8
+804,Standing Cable Curl - Gethin Variation,2.0
+804,90-degree jump squat,2.6
+804,Lying hamstring stretch with band,3.5
+804,Barbell back squat to box,2.8
+804,Tire flip,3.2
+804,Elliptical trainer,2.9
+804,Push-press,3.2
+805,Lying cable front raise,2.3
+805,Sprawl frog kick,4.4
+805,Lying hamstring stretch with band,1.5
+805,Barbell back squat to box,1.6
+805,Sled Push,2.8
+805,Plate push,3.2
+805,Power snatch-,3.4
+806,Machine Triceps Extension,3.2
+806,Bench skip,1.6
+806,Latissimus dorsi SMR,4.9
+806,Dumbbell floor press,3.6
+806,Dumbbell farmer's walk,3.4
+806,Burpee,1.7
+806,Power snatch-,3.5
+807,Single-arm cable triceps kick-back,4.1
+807,Burpee box jump,4.3
+807,Child's pose,3.2
+807,Barbell back squat to box,2.6
+807,Sled Push,3.5
+807,Jumping rope,3.3
+807,Power snatch-,2.8
+808,Partner sit-up with high-five,4.9
+808,Kettlebell fire feet,4.4
+808,Calf SMR,4.6
+808,Barbell Hip Thrust,3.2
+808,Tire flip,3.0
+808,Burpee,1.7
+808,Power snatch-,3.7
+809,Barbell Curl,2.7
+809,Broad jump,2.3
+809,Single-leg lying cross-over stretch,1.3
+809,Speed Box Squat,2.2
+809,Tire flip,4.1
+809,High knees,2.5
+809,Power snatch-,2.4
+810,Side Bridge,4.6
+810,Dumbbell lateral hop,3.4
+810,Cross-body shoulder stretch,3.4
+810,Barbell back squat to box,2.9
+810,Bear crawl sled drag,1.3
+810,Treadmill jogging,1.6
+810,Push-press,4.0
+811,Wide-grip bench press,1.5
+811,Depth jump box jump,2.5
+811,Half bird dog,1.1
+811,Dumbbell floor press,4.7
+811,Dumbbell farmer's walk,1.1
+811,Treadmill jogging,4.0
+811,Power snatch-,3.7
+812,Dumbbell seesaw shoulder press,2.4
+812,Medicine ball partner twist,5.0
+812,Standing side bend stretch,3.7
+812,Rack pull,4.7
+812,Tire flip,2.6
+812,Elliptical trainer,2.8
+812,Push-press,4.7
+813,Kettlebell power clean,2.5
+813,Speed skater,4.7
+813,Single-leg lying cross-over stretch,3.8
+813,Speed Box Squat,3.3
+813,Sled Push,1.5
+813,Stairmaster,4.8
+813,Clean and jerk,3.0
+814,High knees sprawl drill,4.9
+814,Sledgehammer swing,3.6
+814,Calf SMR,4.6
+814,Rack pull,3.2
+814,Sled Push,2.8
+814,Jumping rope,2.5
+814,Push-jerk,1.7
+815,Upright Row - Gethin Variation,4.4
+815,Wall mountain climber,1.9
+815,Standing side bend stretch,3.5
+815,Rack pull,2.9
+815,Tire flip,3.3
+815,Shadow boxing,1.5
+815,Behind-the-head push-press,2.5
+816,UP Lat Pull-Down,3.9
+816,Scissors Jump,2.6
+816,World's greatest stretch,1.6
+816,Glute Ham Raise,4.4
+816,Tire flip,4.4
+816,Shuttle run,4.2
+816,Clean and jerk,3.2
+817,Smith Machine Incline Bench Press,4.4
+817,Dumbbell seated box jump,1.8
+817,Crab single-arm reach,2.9
+817,Dumbbell floor press,3.2
+817,Tire flip,1.6
+817,Stairmaster,1.5
+817,Push-press,4.4
+818,King Maker Leg Press,4.5
+818,Slalom jumps,1.9
+818,Brachialis SMR,1.8
+818,Barbell deficit deadlift,1.0
+818,Tire flip,3.8
+818,Plate push,2.9
+818,Behind-the-head push-press,3.9
+819,Band front squat,4.0
+819,Dumbbell lateral hop,1.5
+819,Lunge glute stretch,3.7
+819,Good Morning,3.8
+819,Dumbbell farmer's walk,2.1
+819,Treadmill jogging,2.9
+819,Push-press,1.6
+820,AM Hammer Curls,5.0
+820,Depth jump box jump,1.2
+820,Inchworm,1.2
+820,Board bench press,1.2
+820,Tire flip,3.6
+820,Sled push-,2.3
+820,Push-jerk,2.9
+821,Landmine Linear Jammer,4.7
+821,Split Jump,3.7
+821,Cross-body shoulder stretch,5.0
+821,Barbell glute bridge,3.1
+821,Tire flip,4.4
+821,Treadmill running,1.9
+821,Push-jerk,3.7
+822,Close-Hands Push-Up,1.9
+822,Lateral box jump,2.6
+822,Inchworm,4.1
+822,Barbell Hip Thrust,3.1
+822,Sled Push,1.9
+822,Plate push,4.0
+822,Push-jerk,1.9
+823,AM Seated Hammer Curls,4.9
+823,Wall mountain climber,2.2
+823,Alternating standing glute stretch,4.4
+823,Sumo deadlift,4.6
+823,Sled Push,2.6
+823,Bear crawl fire feet,1.8
+823,Push-jerk,4.2
+824,Dumbbell bench press-,4.2
+824,Burpee box jump,2.8
+824,Latissimus dorsi SMR,3.0
+824,Dumbbell floor press,4.9
+824,Sled Push,1.7
+824,Shuttle run,4.8
+824,Push-jerk,4.7
+825,King Maker Barbell Thruster,1.6
+825,Scissors Jump,1.9
+825,Alternating lunge jump,2.9
+825,Sumo deadlift,2.7
+825,Sled Push,1.7
+825,Plate push,4.2
+825,Clean and jerk,2.0
+826,Close push-up,2.4
+826,90-degree jump squat,4.7
+826,Exercise ball chest stretch,4.2
+826,Barbell glute bridge,1.8
+826,Tire flip,3.3
+826,Jumping rope,4.5
+826,Power snatch-,1.1
+827,Knee-in to V-out,1.7
+827,Dumbbell jump squat,1.5
+827,Standing hamstring stretch,3.6
+827,Board bench press,3.3
+827,Dumbbell farmer's walk,2.0
+827,Treadmill walking,1.6
+827,Push-press,1.9
+828,Seal jack,2.0
+828,Scissors Jump,2.1
+828,Lower back SMR,3.4
+828,Barbell Hip Thrust,2.8
+828,Bear crawl sled drag,4.3
+828,Burpee,1.4
+828,Behind-the-head push-press,3.0
+829,Double Kettlebell Push Press,4.3
+829,Wall sprawl,3.4
+829,Kneeling hip flexor stretch,2.9
+829,Sumo deadlift,4.8
+829,Sled Push,2.2
+829,Burpee,2.9
+829,Behind-the-head push-press,3.9
+830,Kettlebell Windmill,2.3
+830,Wall ball toss,2.7
+830,Lying groin stretch with band,4.3
+830,Rack pull,2.8
+830,Tire flip,3.0
+830,Sled push-,1.7
+830,Push-jerk,1.5
+831,Standing lat pull-down,1.8
+831,Burpee box jump,2.6
+831,Child's pose,2.0
+831,Dumbbell floor press,2.1
+831,Bear crawl sled drag,2.4
+831,Rower,2.6
+831,Power snatch-,3.9
+832,Standing behind-the-back wrist curl,4.3
+832,Lateral hop,4.9
+832,Superman,3.8
+832,Barbell back squat to box,3.7
+832,Dumbbell farmer's walk,4.1
+832,Burpee,1.2
+832,Push-jerk,1.6
+833,Close-grip EZ-bar curl,3.4
+833,Medicine ball partner twist,3.3
+833,Pass-through stretch with band,4.1
+833,Sumo deadlift,3.7
+833,Tire flip,1.3
+833,Stair climber,1.0
+833,Clean and jerk,2.5
+834,V-sit with overhead triceps extension,3.8
+834,Jumping knee up-down,2.7
+834,Exercise ball chest stretch,1.6
+834,Glute Ham Raise,1.1
+834,Sled Push,1.6
+834,Treadmill jogging,3.0
+834,Push-jerk,4.0
+835,Cross-body plank march,3.6
+835,Over bench jump,2.3
+835,Standing side bend stretch,1.1
+835,Barbell deficit deadlift,3.0
+835,Bear crawl sled drag,4.0
+835,Jumping rope,1.8
+835,Behind-the-head push-press,4.1
+836,Exercise ball knee roll-in,4.8
+836,Wall mountain climber,3.4
+836,Pass-through stretch with band,2.2
+836,Board bench press,3.9
+836,Sled Push,2.2
+836,Shadow boxing,4.4
+836,Push-jerk,3.0
+837,Total Fitness Skip,1.5
+837,Jumping knee up-down,2.7
+837,Shoulder T,3.6
+837,Glute Ham Raise,1.4
+837,Dumbbell farmer's walk,2.5
+837,Plate push,2.8
+837,Power snatch-,4.1
+838,Incline dumbbell front raise,4.4
+838,Gorilla squat,3.6
+838,Adductor SMR,1.2
+838,Barbell glute bridge,4.5
+838,Tire flip,1.8
+838,Stair climber,3.4
+838,Behind-the-head push-press,5.0
+839,Dumbbell push-up row,1.6
+839,Medicine ball partner twist,4.0
+839,Pass-through stretch with band,2.7
+839,Dumbbell floor press,4.1
+839,Dumbbell farmer's walk,3.9
+839,Burpee,1.4
+839,Power snatch-,2.0
+840,Band straight-arm pull-down,3.8
+840,Wall ball toss,4.1
+840,Half bird dog,4.2
+840,Speed Box Squat,4.8
+840,Bear crawl sled drag,1.6
+840,Treadmill running,2.1
+840,Push-jerk,3.4
+841,TBS Dumbbell Incline Press,3.1
+841,Broad jump,3.2
+841,Wall calf stretch,2.7
+841,Good Morning,1.9
+841,Bear crawl sled drag,2.6
+841,Stair climber,3.8
+841,Power snatch-,3.5
+842,Captain's chair leg raise,2.4
+842,Single-cone sprint drill,3.8
+842,Arm circle,4.2
+842,Sumo deadlift,4.2
+842,Bear crawl sled drag,3.2
+842,Rower,4.6
+842,Push-jerk,2.9
+843,Dumbbell goblet squat-,3.7
+843,Wall mountain climber,1.2
+843,Reach-roll-lift combo,4.9
+843,Barbell back squat to box,3.2
+843,Bear crawl sled drag,2.2
+843,Jumping rope,3.6
+843,Push-jerk,4.0
+844,Reverse-grip dumbbell curl,1.9
+844,Skip,3.9
+844,Cross-body shoulder stretch,2.3
+844,Good Morning,4.6
+844,Sled Push,1.4
+844,Jumping Jack,4.9
+844,Push-press,4.9
+845,Total Fitness Lateral Lunge,1.6
+845,Dumbbell seated box jump,2.8
+845,Standing hip circle,2.8
+845,Board bench press,1.2
+845,Dumbbell farmer's walk,4.0
+845,Stairmaster,1.3
+845,Push-press,4.7
+846,Wide-Grip Lat Pull-Down - Gethin Variation,1.6
+846,Jumping jack-,3.4
+846,Standing hamstring stretch,1.9
+846,Rack pull,1.2
+846,Sled Push,1.5
+846,Treadmill running,1.7
+846,Push-press,3.5
+847,Cross-body toe-touch,2.9
+847,Carioca quick step,4.3
+847,Child's pose,2.0
+847,Barbell glute bridge,2.2
+847,Sled Push,2.8
+847,Elliptical trainer,1.1
+847,Clean and jerk,3.4
+848,Barbell deadlift-,1.6
+848,Medicine ball scoop throw,3.4
+848,Lunge glute stretch,2.9
+848,Barbell Hip Thrust,1.8
+848,Dumbbell farmer's walk,2.5
+848,Stairmaster,3.7
+848,Push-press,1.2
+849,Shotgun row,3.8
+849,Lateral hop,3.2
+849,Single-leg lying cross-over stretch,1.6
+849,Rack pull,3.6
+849,Dumbbell farmer's walk,4.5
+849,Burpee,1.7
+849,Push-press,2.2
+850,Dumbbell Bulgarian split squat,2.5
+850,Lateral hop,1.6
+850,Lunge glute stretch,3.5
+850,Barbell glute bridge,2.2
+850,Bear crawl sled drag,2.8
+850,Elliptical trainer,2.1
+850,Behind-the-head push-press,3.6
+851,Single-arm cable front raise,2.6
+851,In-out jump squat,3.5
+851,Rhomboids SMR,4.5
+851,Barbell Hip Thrust,4.8
+851,Tire flip,1.3
+851,Bear crawl fire feet,1.1
+851,Push-jerk,3.9
+852,Dumbbell reverse lunge,2.9
+852,Jump Squat,2.4
+852,Kneeling hip flexor stretch,3.2
+852,Good Morning,3.4
+852,Sled Push,4.4
+852,Shadow boxing,1.4
+852,Power snatch-,3.4
+853,Total Fitness Spider Lunge,4.5
+853,Dumbbell lateral hop,1.7
+853,Lower back SMR,1.5
+853,Good Morning,1.7
+853,Dumbbell farmer's walk,1.6
+853,Jumping Jack,3.5
+853,Push-press,2.2
+854,Reverse Grip Triceps Pushdown,1.7
+854,Burpee box jump,1.3
+854,Lying glute stretch,3.2
+854,Glute Ham Raise,3.5
+854,Dumbbell farmer's walk,3.1
+854,Jumping rope,4.4
+854,Behind-the-head push-press,4.9
+855,Incline Dumbbell Fly - Gethin Variation,1.5
+855,Wall mountain climber,1.2
+855,Lying groin stretch with band,4.5
+855,Barbell back squat to box,4.7
+855,Sled Push,1.2
+855,High knees,4.9
+855,Behind-the-head push-press,3.5
+856,Diamond push-up,1.8
+856,Jump lunge heel kick,2.1
+856,Calf SMR,4.0
+856,Barbell glute bridge,2.4
+856,Bear crawl sled drag,3.7
+856,Burpee,1.9
+856,Clean and jerk,5.0
+857,Incline dumbbell row,2.8
+857,Burpee box jump,2.4
+857,Reverse lunge,3.2
+857,Good Morning,3.5
+857,Dumbbell farmer's walk,1.9
+857,Sled push-,3.5
+857,Push-jerk,4.6
+858,Plank up-down,3.0
+858,Kettlebell fire feet,2.3
+858,Reverse lunge,1.7
+858,Barbell back squat to box,2.3
+858,Bear crawl sled drag,3.0
+858,Shadow boxing,3.2
+858,Push-jerk,2.3
+859,Cable reverse crunch,1.9
+859,Running lunge,1.2
+859,Alternating lunge jump,3.9
+859,Dumbbell floor press,4.6
+859,Dumbbell farmer's walk,1.1
+859,Burpee,3.0
+859,Push-jerk,4.3
+860,Waiter's carry,3.4
+860,Burpee to pull-up,2.6
+860,Kneeling hip flexor stretch,2.9
+860,Good Morning,4.5
+860,Dumbbell farmer's walk,1.4
+860,Stationary bike,4.6
+860,Power snatch-,2.5
+861,Lying high-cable biceps curl,4.8
+861,Mountain climber,2.1
+861,Piriformis SMR,3.1
+861,Barbell glute bridge,3.2
+861,Bear crawl sled drag,3.6
+861,Bear crawl fire feet,1.4
+861,Power snatch-,2.9
+862,Exercise ball V-up,1.2
+862,Pop squat,2.6
+862,Single-leg lying cross-over stretch,4.1
+862,Barbell deficit deadlift,1.1
+862,Dumbbell farmer's walk,4.0
+862,Shuttle run,4.2
+862,Behind-the-head push-press,4.2
+863,Dumbbell deadlift,3.4
+863,Lateral hop,1.4
+863,Alternating standing glute stretch,3.1
+863,Barbell back squat to box,3.5
+863,Tire flip,4.8
+863,Shuttle run,2.4
+863,Clean and jerk,2.4
+864,Single-arm half-kneeling shoulder press,3.2
+864,Depth jump box jump,2.0
+864,One Handed Hang,2.5
+864,Speed Box Squat,2.6
+864,Dumbbell farmer's walk,1.7
+864,Plate push,2.5
+864,Push-jerk,2.8
+865,Southpaw sprawl with push-up,3.3
+865,Jumping jack-,1.8
+865,Half bird dog,4.3
+865,Barbell back squat to box,3.3
+865,Dumbbell farmer's walk,3.6
+865,Stairmaster,1.3
+865,Power snatch-,3.6
+866,Incline Dumbbell Fly - Gethin Variation,1.0
+866,Medicine Ball Chest Pass,1.9
+866,Lying glute stretch,2.7
+866,Barbell glute bridge,1.8
+866,Sled Push,2.2
+866,Shadow boxing,4.7
+866,Behind-the-head push-press,4.0
+867,TBS Barbell Military Press,2.0
+867,Medicine ball slam,2.8
+867,Lying hamstring stretch with band,3.7
+867,Good Morning,3.6
+867,Tire flip,1.9
+867,Rower,4.0
+867,Push-press,1.5
+868,Standing alternating band speed row,3.2
+868,Box jump,4.5
+868,Iliotibial band SMR,2.9
+868,Barbell back squat to box,4.0
+868,Bear crawl sled drag,3.1
+868,High knees,4.9
+868,Behind-the-head push-press,5.0
+869,Hanging Leg Raise - Variation Gethin,3.5
+869,Jump lunge heel kick,2.1
+869,Inchworm,4.7
+869,Barbell deficit deadlift,1.9
+869,Tire flip,2.6
+869,Jumping Jack,4.3
+869,Power snatch-,2.7
+870,FYR Knees to Chest,4.5
+870,Burpee box jump,4.8
+870,Inchworm,1.7
+870,Glute Ham Raise,3.6
+870,Sled Push,2.8
+870,Rower,2.1
+870,Behind-the-head push-press,1.7
+871,Single-Leg Press - Gethin Variation,1.2
+871,Over bench jump,4.0
+871,One Handed Hang,2.7
+871,Good Morning,3.0
+871,Tire flip,4.7
+871,Elliptical trainer,1.4
+871,Push-jerk,3.0
+872,Single-leg curl up,4.7
+872,Knee Tuck Jump,2.0
+872,Reverse lunge,2.4
+872,Board bench press,3.6
+872,Tire flip,1.5
+872,Elliptical trainer,1.2
+872,Behind-the-head push-press,1.8
+873,AM Jump Squat,1.2
+873,Jump Squat,4.9
+873,Child's pose,1.9
+873,Barbell back squat to box,4.9
+873,Tire flip,2.6
+873,Jumping Jack,3.7
+873,Push-jerk,5.0
+874,TBS High-Bar Back Squat,4.0
+874,Jumping jack-,3.0
+874,Piriformis SMR,1.8
+874,Barbell glute bridge,2.3
+874,Dumbbell farmer's walk,1.7
+874,Jumping Jack,4.7
+874,Clean and jerk,2.3
+875,Shotgun row,3.0
+875,Lateral cone hop,1.7
+875,Lying groin stretch with band,1.4
+875,Barbell deficit deadlift,4.7
+875,Sled Push,3.4
+875,Rower,1.1
+875,Power snatch-,3.1
+876,Single-arm cable cross-over,2.8
+876,Wall mountain climber,2.3
+876,Lunge glute stretch,1.2
+876,Barbell glute bridge,1.1
+876,Tire flip,4.4
+876,Shadow boxing,1.4
+876,Behind-the-head push-press,3.4
+877,Smith machine straight-legged hip raise,1.3
+877,Jump Squat,1.8
+877,Crab single-arm reach,1.0
+877,Dumbbell floor press,2.2
+877,Sled Push,3.0
+877,Stationary bike,2.6
+877,Power snatch-,2.1
+878,Lying Close-Grip Bar Curl On High Pulley,1.5
+878,Broad jump,1.3
+878,Toe Touchers,2.4
+878,Board bench press,4.0
+878,Dumbbell farmer's walk,4.6
+878,Bear crawl fire feet,2.3
+878,Push-press,3.7
+879,Single-arm palm-in dumbbell shoulder press,4.5
+879,Dumbbell lateral hop,2.2
+879,Yoga plex,1.5
+879,Dumbbell floor press,3.5
+879,Tire flip,3.7
+879,Elliptical trainer,2.6
+879,Clean and jerk,3.9
+880,Side lunge cross-body heel-touch,1.0
+880,Bar Push-Up Smith Machine,3.8
+880,Alternating standing glute stretch,2.8
+880,Good Morning,3.1
+880,Bear crawl sled drag,3.8
+880,Treadmill walking,2.7
+880,Push-press,4.3
+881,Seated finger curl,2.8
+881,Kettlebell fire feet,3.7
+881,Inchworm,4.2
+881,Dumbbell floor press,4.5
+881,Tire flip,4.7
+881,Burpee,2.9
+881,Clean and jerk,1.4
+882,Knees tucked crunch,4.3
+882,Lateral box jump,4.7
+882,Kneeling hip flexor stretch,1.7
+882,Dumbbell floor press,4.3
+882,Sled Push,3.0
+882,Rower,1.5
+882,Behind-the-head push-press,2.0
+883,Barbell Front-To-Back Squat,1.9
+883,Kettlebell fire feet,2.6
+883,Piriformis SMR,3.8
+883,Glute Ham Raise,1.1
+883,Tire flip,2.9
+883,Elliptical trainer,3.7
+883,Push-press,2.8
+884,TBS Barbell Front Squat,1.1
+884,Box Jump (Multiple Response),3.9
+884,Kneeling hip flexor stretch,1.8
+884,Barbell deficit deadlift,2.6
+884,Dumbbell farmer's walk,2.3
+884,Burpee,1.5
+884,Behind-the-head push-press,3.0
+885,Incline dumbbell front raise,4.0
+885,Mountain climber,3.4
+885,Alternating lunge jump,1.9
+885,Sumo deadlift,2.8
+885,Dumbbell farmer's walk,3.4
+885,Plate push,2.7
+885,Behind-the-head push-press,5.0
+886,Close-grip barbell curl,2.8
+886,Scissors Jump,4.5
+886,Toe Touchers,5.0
+886,Barbell glute bridge,1.1
+886,Sled Push,4.2
+886,Rower,1.1
+886,Push-press,2.1
+887,FYR Dumbbell Curl,1.6
+887,Running lunge,1.0
+887,Calf SMR,1.9
+887,Dumbbell floor press,3.1
+887,Tire flip,2.2
+887,Bear crawl fire feet,4.4
+887,Behind-the-head push-press,4.8
+888,Incline dumbbell front raise,1.3
+888,Lateral cone hop,3.6
+888,Yoga plex,4.1
+888,Board bench press,3.4
+888,Sled Push,4.6
+888,Stair climber,2.9
+888,Clean and jerk,2.0
+889,Weighted back extension,2.1
+889,Carioca quick step,2.6
+889,Kneeling hip flexor stretch,1.2
+889,Speed Box Squat,2.6
+889,Bear crawl sled drag,4.2
+889,Treadmill running,4.6
+889,Power snatch-,3.3
+890,AM Ball Crunch,2.0
+890,Lateral hop,1.8
+890,Iliotibial band SMR,2.1
+890,Good Morning,1.5
+890,Sled Push,1.3
+890,Treadmill walking,1.6
+890,Push-press,1.3
+891,Bench Dips - Gethin Variation,2.9
+891,Burpee tuck jump,3.1
+891,Pass-through stretch with band,3.0
+891,Barbell Hip Thrust,2.4
+891,Tire flip,3.4
+891,Treadmill walking,3.3
+891,Behind-the-head push-press,3.5
+892,FYR Kettlebell Sumo Squat,4.5
+892,Side-to-side box skip,4.5
+892,Quadriceps SMR,4.1
+892,Barbell glute bridge,2.3
+892,Bear crawl sled drag,3.2
+892,Sled push-,3.4
+892,Behind-the-head push-press,1.8
+893,Single-arm cable triceps extension,4.5
+893,Burpee to pull-up,3.4
+893,One Handed Hang,3.1
+893,Barbell back squat to box,3.4
+893,Bear crawl sled drag,4.9
+893,Sled push-,3.8
+893,Power snatch-,1.9
+894,Barbell step-down reverse lunge,3.8
+894,Squat Isometric Hold,3.9
+894,Reverse lunge,2.7
+894,Barbell Hip Thrust,1.9
+894,Tire flip,1.2
+894,Shadow boxing,1.2
+894,Power snatch-,1.0
+895,TBS Close-Grip Bench Press,3.5
+895,Lateral box jump,2.3
+895,Lying glute stretch,4.2
+895,Barbell glute bridge,4.8
+895,Sled Push,1.7
+895,Stairmaster,4.3
+895,Behind-the-head push-press,2.6
+896,One-Arm Long Bar Row,4.1
+896,Single-cone sprint drill,4.6
+896,Arm circle,4.7
+896,Sumo deadlift,3.9
+896,Sled Push,4.0
+896,High knees,2.2
+896,Push-jerk,1.9
+897,Dumbbell crusher,4.8
+897,Side-to-side box skip,2.9
+897,Lunge glute stretch,2.7
+897,Barbell deficit deadlift,1.2
+897,Bear crawl sled drag,1.8
+897,High knees,4.8
+897,Push-jerk,2.2
+898,Machine Preacher Curls,2.2
+898,Bar Push-Up Smith Machine,2.4
+898,Adductor SMR,2.1
+898,Good Morning,5.0
+898,Tire flip,3.9
+898,Rower,1.8
+898,Behind-the-head push-press,3.6
+899,Leg Extensions,4.3
+899,Dumbbell jump squat,3.1
+899,Pass-through stretch with band,4.0
+899,Board bench press,3.0
+899,Sled Push,3.8
+899,Sled push-,2.4
+899,Clean and jerk,4.3
+900,Exercise ball knee roll-in,4.3
+900,Speed skater,3.1
+900,Alternating standing glute stretch,1.6
+900,Glute Ham Raise,2.0
+900,Sled Push,2.2
+900,Bear crawl fire feet,2.2
+900,Push-press,4.6
+901,Suspended ab fall-out,1.7
+901,Lateral cone hop,4.8
+901,Lying glute stretch,1.9
+901,Board bench press,4.3
+901,Tire flip,2.3
+901,Stair climber,2.7
+901,Clean and jerk,4.5
+902,Dumbbell Lying Rear Lateral Raise,1.0
+902,Sledgehammer swing,1.7
+902,Standing hip circle,4.6
+902,Sumo deadlift,3.5
+902,Dumbbell farmer's walk,4.7
+902,Shadow boxing,2.0
+902,Power snatch-,1.1
+903,Cable cross-over,1.2
+903,Slalom jumps,4.8
+903,Yoga plex,4.6
+903,Dumbbell floor press,1.2
+903,Sled Push,1.9
+903,Stationary bike,3.2
+903,Power snatch-,2.2
+904,Side Lunge Touching Heel,3.5
+904,Medicine Ball Chest Pass,2.3
+904,Crab single-arm reach,1.1
+904,Barbell glute bridge,2.4
+904,Tire flip,1.3
+904,Treadmill running,2.9
+904,Clean and jerk,1.2
+905,Step-up with knee raise,2.6
+905,Jump lunge heel kick,1.0
+905,Lying hamstring stretch with band,4.5
+905,Barbell glute bridge,4.8
+905,Sled Push,4.7
+905,Treadmill walking,1.5
+905,Behind-the-head push-press,4.7
+906,Single-arm half-kneeling shoulder press,4.2
+906,Side-to-side box skip,1.7
+906,Rhomboids SMR,4.6
+906,Barbell glute bridge,1.9
+906,Tire flip,2.3
+906,Jumping Jack,2.2
+906,Push-jerk,2.8
+907,Paul Carter Overhead Rope Triceps Extension,2.3
+907,Carioca quick step,2.3
+907,Reach-roll-lift combo,2.4
+907,Barbell back squat to box,1.9
+907,Dumbbell farmer's walk,3.6
+907,Rower,1.6
+907,Push-jerk,4.1
+908,Banded compass jump squat,3.6
+908,Squat Isometric Hold,4.7
+908,Calf SMR,1.2
+908,Good Morning,4.9
+908,Dumbbell farmer's walk,1.5
+908,Rower,3.2
+908,Push-press,1.2
+909,Single-arm kettlebell swing,1.0
+909,Over bench jump,1.1
+909,Single-leg lying cross-over stretch,1.6
+909,Barbell deficit deadlift,2.2
+909,Tire flip,4.1
+909,Shadow boxing,1.0
+909,Clean and jerk,4.2
+910,UP Single-Leg Press,3.2
+910,In-out jump squat,2.0
+910,Lying quad stretch with band,2.3
+910,Rack pull,1.0
+910,Dumbbell farmer's walk,1.7
+910,Bear crawl fire feet,3.4
+910,Push-press,4.4
+911,Barbell front raise,4.6
+911,Medicine ball ninja,3.6
+911,Single-leg lying cross-over stretch,2.0
+911,Barbell glute bridge,2.4
+911,Bear crawl sled drag,2.8
+911,Treadmill running,4.1
+911,Push-jerk,2.8
+912,V-sit with overhead triceps extension,2.9
+912,Dumbbell jump squat,4.3
+912,Quadriceps SMR,1.1
+912,Speed Box Squat,2.8
+912,Dumbbell farmer's walk,2.3
+912,Treadmill jogging,3.8
+912,Clean and jerk,4.3
+913,Alternating dumbbell snatch,2.1
+913,Medicine Ball Chest Pass,3.8
+913,Crab single-arm reach,2.5
+913,Rack pull,2.8
+913,Bear crawl sled drag,1.3
+913,Stairmaster,4.6
+913,Push-press,3.4
+914,FYR Kettlebell Power Clean,4.5
+914,Single-cone sprint drill,4.6
+914,Standing hamstring stretch,4.1
+914,Rack pull,4.8
+914,Tire flip,1.2
+914,Stairmaster,2.1
+914,Behind-the-head push-press,1.3
+915,Squat - Gethin Variation,4.9
+915,Bar Push-Up Smith Machine,1.8
+915,Child's pose,3.1
+915,Sumo deadlift,3.0
+915,Dumbbell farmer's walk,2.3
+915,Treadmill running,4.8
+915,Push-jerk,4.2
+916,Pull-up - Gethin Variation,2.6
+916,Jump lunge heel kick,2.1
+916,Lunge glute stretch,3.6
+916,Barbell glute bridge,3.3
+916,Bear crawl sled drag,1.1
+916,Elliptical trainer,3.5
+916,Push-jerk,2.2
+917,Spider crunch,2.4
+917,Lateral hop,4.2
+917,Wall calf stretch,4.0
+917,Barbell back squat to box,1.5
+917,Sled Push,1.5
+917,Sled push-,2.7
+917,Push-jerk,2.1
+918,30 Cable Rope Crunch,2.7
+918,Mountain climber,4.6
+918,Exercise ball chest stretch,4.2
+918,Good Morning,2.9
+918,Bear crawl sled drag,4.6
+918,Jumping Jack,2.1
+918,Push-press,1.6
+919,Medicine ball twist,3.9
+919,Over bench jump,4.9
+919,Bar shoulder extension stretch,1.9
+919,Dumbbell floor press,3.8
+919,Dumbbell farmer's walk,2.3
+919,Stairmaster,2.6
+919,Clean and jerk,4.3
+920,Cable Overhead Triceps Extension - Gethin Variation,4.6
+920,Wall sprawl,4.7
+920,Reverse lunge,2.2
+920,Barbell Hip Thrust,2.9
+920,Dumbbell farmer's walk,2.7
+920,Rower,3.2
+920,Behind-the-head push-press,1.5
+921,Hack Squat - Gethin Variation,2.0
+921,Burpee over barbell,1.7
+921,Kneeling hip flexor stretch,4.3
+921,Barbell Hip Thrust,2.0
+921,Dumbbell farmer's walk,3.2
+921,High knees,3.9
+921,Push-press,2.3
+922,AM Dumbbell Side Raise,1.2
+922,Southpaw sprawl,4.6
+922,Crab single-arm reach,2.4
+922,Sumo deadlift,1.1
+922,Tire flip,1.1
+922,Treadmill running,2.0
+922,Behind-the-head push-press,2.4
+923,Side plank hip dip,2.8
+923,Scissors Jump,2.3
+923,Brachialis SMR,3.3
+923,Barbell back squat to box,2.7
+923,Tire flip,1.8
+923,Bear crawl fire feet,3.4
+923,Push-jerk,2.5
+924,Double-bar roll-out chest fly,1.6
+924,Medicine ball ninja,2.9
+924,Lower back SMR,1.8
+924,Board bench press,1.0
+924,Bear crawl sled drag,2.8
+924,Sled push-,1.7
+924,Behind-the-head push-press,2.0
+925,Alternating biceps curl,4.6
+925,90-degree jump squat,2.4
+925,Half bird dog,4.6
+925,Glute Ham Raise,3.8
+925,Sled Push,4.9
+925,Jumping Jack,3.7
+925,Clean and jerk,1.6
+926,Dumbbell lunge with biceps curl,2.2
+926,Box jump,2.9
+926,Exercise ball chest stretch,4.4
+926,Good Morning,3.0
+926,Tire flip,1.1
+926,Treadmill jogging,3.5
+926,Behind-the-head push-press,3.6
+927,Smith Machine Calf Raise,1.3
+927,Gorilla squat,3.3
+927,Standing side bend stretch,2.1
+927,Barbell deficit deadlift,2.8
+927,Dumbbell farmer's walk,3.9
+927,Treadmill walking,1.3
+927,Push-press,1.7
+928,Dumbbell thruster,2.1
+928,Kettlebell fire feet,1.8
+928,Bar shoulder extension stretch,4.4
+928,Glute Ham Raise,1.7
+928,Tire flip,2.1
+928,Treadmill jogging,4.9
+928,Power snatch-,3.4
+929,Pallof press with rotation,4.7
+929,Box jump,1.3
+929,Alternating standing glute stretch,1.1
+929,Barbell glute bridge,3.5
+929,Tire flip,4.0
+929,Stationary bike,1.9
+929,Clean and jerk,2.7
+930,Crab toe-touch,1.7
+930,Single-cone sprint drill,4.2
+930,Crab single-arm reach,2.8
+930,Barbell Hip Thrust,1.4
+930,Bear crawl sled drag,4.4
+930,Rower,2.1
+930,Behind-the-head push-press,2.2
+931,TBS Chin-Up,3.4
+931,Burpee to pull-up,4.8
+931,Cross-body shoulder stretch,3.5
+931,Barbell glute bridge,3.9
+931,Dumbbell farmer's walk,1.1
+931,Jumping Jack,1.7
+931,Push-press,3.9
+932,Barbell hip thrust-,2.0
+932,Medicine ball scoop throw,1.6
+932,Inchworm,2.7
+932,Barbell glute bridge,3.8
+932,Bear crawl sled drag,1.4
+932,Burpee,4.1
+932,Power snatch-,1.5
+933,Frog push-up,3.6
+933,Lateral hop,4.4
+933,Rhomboids SMR,1.1
+933,Barbell glute bridge,2.7
+933,Dumbbell farmer's walk,2.5
+933,Sled push-,1.2
+933,Push-press,2.9
+934,Close-grip pull-down,3.0
+934,Jump Squat,1.8
+934,Adductor SMR,4.2
+934,Good Morning,4.4
+934,Tire flip,3.2
+934,Jumping Jack,4.1
+934,Power snatch-,4.9
+935,Battle ropes,4.0
+935,Medicine Ball Chest Pass,2.3
+935,Arm circle,1.4
+935,Rack pull,1.9
+935,Sled Push,2.2
+935,High knees,1.8
+935,Behind-the-head push-press,2.5
+936,Waiter's carry,1.8
+936,Scissors Jump,1.2
+936,Bar shoulder extension stretch,4.4
+936,Speed Box Squat,3.5
+936,Sled Push,1.9
+936,Stairmaster,3.1
+936,Push-jerk,2.0
+937,TBS Inverted Row,2.9
+937,Broad jump,1.1
+937,Brachialis SMR,1.6
+937,Barbell back squat to box,2.5
+937,Dumbbell farmer's walk,1.2
+937,Elliptical trainer,4.4
+937,Behind-the-head push-press,3.3
+938,Partner target sit-up,4.0
+938,Single-cone sprint drill,3.6
+938,Calf SMR,1.3
+938,Barbell deficit deadlift,3.8
+938,Bear crawl sled drag,3.3
+938,Shadow boxing,1.1
+938,Clean and jerk,2.1
+939,Medicine ball push-up,1.2
+939,Mountain climber,2.0
+939,Piriformis SMR,4.3
+939,Speed Box Squat,4.2
+939,Dumbbell farmer's walk,3.0
+939,Treadmill walking,4.3
+939,Power snatch-,2.9
+940,Band lateral raise,2.1
+940,Southpaw sprawl,3.9
+940,Lying hamstring stretch with band,1.4
+940,Barbell glute bridge,4.0
+940,Sled Push,4.7
+940,Sled push-,3.8
+940,Push-jerk,2.9
+941,30 Decline Press Sit-Up,1.8
+941,Medicine ball partner twist,1.7
+941,Superman,3.8
+941,Rack pull,3.2
+941,Dumbbell farmer's walk,2.9
+941,Jumping rope,1.8
+941,Power snatch-,4.0
+942,Dumbbell row to triceps kick-back,4.1
+942,Speed skater,1.1
+942,Wall calf stretch,1.2
+942,Good Morning,3.1
+942,Tire flip,3.7
+942,Jumping Jack,3.1
+942,Push-press,1.9
+943,FYR Alternating Lunge,3.8
+943,Medicine Ball Chest Pass,4.2
+943,Lower back SMR,3.7
+943,Speed Box Squat,2.6
+943,Dumbbell farmer's walk,2.3
+943,Stationary bike,2.9
+943,Push-press,3.5
+944,Alternating single-leg sprawl,2.0
+944,90-degree jump squat,3.8
+944,Brachialis SMR,1.7
+944,Rack pull,3.4
+944,Bear crawl sled drag,1.2
+944,Stair climber,1.8
+944,Power snatch-,3.3
+945,Barbell press sit-up,4.7
+945,Medicine Ball Chest Pass,4.9
+945,Cross-body shoulder stretch,2.8
+945,Dumbbell floor press,1.2
+945,Sled Push,2.6
+945,Treadmill walking,2.8
+945,Behind-the-head push-press,2.7
+946,Band standing concentration curl,3.7
+946,Split Jump,2.5
+946,Bar shoulder extension stretch,1.9
+946,Barbell back squat to box,2.2
+946,Sled Push,3.5
+946,Jumping rope,2.8
+946,Power snatch-,4.6
+947,Kettlebell pirate ship,4.6
+947,Medicine ball partner twist,1.2
+947,Lying groin stretch with band,2.1
+947,Barbell Hip Thrust,1.5
+947,Sled Push,2.0
+947,Jumping Jack,2.7
+947,Push-press,3.4
+948,Dumbbell lunge with biceps curl,2.5
+948,In-out jump squat,2.4
+948,World's greatest stretch,5.0
+948,Sumo deadlift,1.9
+948,Dumbbell farmer's walk,2.8
+948,Jumping Jack,2.1
+948,Push-press,2.7
+949,Machine chest fly,2.7
+949,Sprawl frog kick,1.5
+949,Lying quad stretch with band,2.5
+949,Dumbbell floor press,3.4
+949,Dumbbell farmer's walk,3.5
+949,Shuttle run,4.3
+949,Behind-the-head push-press,4.4
+950,Band bent-over row,1.4
+950,Pop squat,4.0
+950,Half bird dog,4.6
+950,Barbell glute bridge,2.8
+950,Tire flip,3.5
+950,Treadmill running,1.2
+950,Behind-the-head push-press,4.1
+951,Total Fitness Lateral Lunge,1.4
+951,Bar Push-Up Smith Machine,2.5
+951,Reach-roll-lift combo,1.9
+951,Dumbbell floor press,2.2
+951,Bear crawl sled drag,2.3
+951,Stairmaster,1.4
+951,Power snatch-,4.0
+952,Walking lunge,3.0
+952,Lateral hop,1.5
+952,Lying quad stretch with band,1.5
+952,Sumo deadlift,1.4
+952,Dumbbell farmer's walk,2.5
+952,Stationary bike,2.2
+952,Behind-the-head push-press,2.4
+953,Barbell Squat To A Bench,2.4
+953,Knee Tuck Jump,3.8
+953,Lying hamstring stretch with band,3.9
+953,Dumbbell floor press,1.3
+953,Sled Push,1.1
+953,Burpee,3.9
+953,Push-press,4.2
+954,Kettlebell pass-through lunge,2.5
+954,In-out jump squat,2.5
+954,Bar shoulder extension stretch,4.7
+954,Sumo deadlift,4.6
+954,Bear crawl sled drag,4.7
+954,Stair climber,1.7
+954,Push-jerk,1.8
+955,Straight-arm bar pull-down,2.3
+955,Bar Push-Up Smith Machine,3.4
+955,Wall calf stretch,4.0
+955,Barbell glute bridge,2.8
+955,Tire flip,4.5
+955,Jumping Jack,4.9
+955,Clean and jerk,2.7
+956,Dumbbell Hammer Curl - Gethin Variation,3.3
+956,Box jump,2.3
+956,Superman,2.2
+956,Board bench press,4.0
+956,Tire flip,2.8
+956,Treadmill jogging,1.5
+956,Push-press,3.7
+957,Kettlebell swing,4.0
+957,Knee Tuck Jump,4.5
+957,Single-leg lying cross-over stretch,2.9
+957,Sumo deadlift,2.1
+957,Tire flip,4.7
+957,Plate push,2.2
+957,Push-jerk,2.3
+958,Cable straight-bar biceps curl,2.3
+958,Wall mountain climber,4.5
+958,Single-leg balance and reach,1.7
+958,Glute Ham Raise,3.7
+958,Tire flip,2.8
+958,Sled push-,1.2
+958,Clean and jerk,3.4
+959,Seated leg tuck with dumbbell,3.1
+959,Box Jump (Multiple Response),4.4
+959,Single-leg lying cross-over stretch,2.1
+959,Speed Box Squat,1.7
+959,Dumbbell farmer's walk,4.1
+959,Bear crawl fire feet,4.7
+959,Power snatch-,2.2
+960,FYR Alternating Lunge,1.5
+960,Dumbbell lateral hop,1.5
+960,Iliotibial band SMR,2.7
+960,Rack pull,2.5
+960,Tire flip,3.3
+960,Jumping rope,3.3
+960,Power snatch-,2.8
+961,Dumbbell external shoulder rotation,1.9
+961,Pop squat,3.2
+961,Child's pose,3.9
+961,Glute Ham Raise,1.1
+961,Tire flip,1.4
+961,Stair climber,1.9
+961,Push-jerk,2.4
+962,Dumbbell hollow-body floor press,1.6
+962,Over bench jump,4.3
+962,Superman,4.0
+962,Dumbbell floor press,4.7
+962,Dumbbell farmer's walk,4.2
+962,Stair climber,1.4
+962,Behind-the-head push-press,3.3
+963,Smith machine single-arm shrug,4.2
+963,Burpee box jump,4.4
+963,Inchworm,2.5
+963,Barbell Hip Thrust,4.4
+963,Dumbbell farmer's walk,1.6
+963,Shadow boxing,1.5
+963,Push-press,4.8
+964,Single-arm cable triceps kick-back,4.8
+964,Slalom jumps,3.8
+964,Lower back SMR,2.5
+964,Board bench press,2.0
+964,Dumbbell farmer's walk,3.2
+964,Plate push,3.9
+964,Behind-the-head push-press,3.3
+965,Kettlebell pass-through lunge,2.5
+965,Bench skip,2.2
+965,Rhomboids SMR,1.7
+965,Board bench press,2.9
+965,Tire flip,3.3
+965,Treadmill jogging,4.1
+965,Power snatch-,1.3
+966,Suspended row,4.5
+966,Medicine ball scoop throw,3.6
+966,Half bird dog,3.8
+966,Barbell back squat to box,2.7
+966,Bear crawl sled drag,1.2
+966,Sled push-,3.9
+966,Power snatch-,3.4
+967,Wide-grip bench press,1.9
+967,Bench skip,2.7
+967,Lying glute stretch,3.6
+967,Good Morning,2.2
+967,Sled Push,2.9
+967,Shadow boxing,2.2
+967,Clean and jerk,2.2
+968,Hollow-body abduction,4.8
+968,Dumbbell lateral hop to sprint,3.7
+968,Kneeling hip flexor stretch,2.4
+968,Sumo deadlift,3.4
+968,Tire flip,2.9
+968,Burpee,2.6
+968,Power snatch-,1.9
+969,Partner lying leg raise with throw down,1.2
+969,Split Jump,4.1
+969,Single-leg lying cross-over stretch,1.3
+969,Dumbbell floor press,2.4
+969,Dumbbell farmer's walk,1.4
+969,Sled push-,4.6
+969,Behind-the-head push-press,3.6
+970,Single-arm dumbbell upright row,2.6
+970,Lateral cone hop,5.0
+970,One Handed Hang,4.7
+970,Dumbbell floor press,4.4
+970,Sled Push,2.9
+970,Rower,2.0
+970,Push-press,3.2
+971,Lunge hold dumbbell curl,3.9
+971,Burpee to pull-up,2.5
+971,Piriformis SMR,2.1
+971,Barbell back squat to box,2.7
+971,Sled Push,1.2
+971,Treadmill walking,1.7
+971,Push-press,4.6
+972,Total Fitness Hollow Hold,3.9
+972,Wall sprawl,2.8
+972,Iliotibial band SMR,3.4
+972,Speed Box Squat,2.5
+972,Dumbbell farmer's walk,1.9
+972,Shadow boxing,4.4
+972,Push-press,4.3
+973,Single-leg glute bridge,4.2
+973,Wall sprawl,2.4
+973,Exercise ball torso rotation,4.8
+973,Barbell Hip Thrust,1.3
+973,Tire flip,4.1
+973,Shadow boxing,4.2
+973,Push-jerk,4.2
+974,FYR Tuck Jump,3.6
+974,Sprawl frog kick,1.1
+974,Iliotibial band SMR,2.3
+974,Sumo deadlift,4.6
+974,Tire flip,2.0
+974,Stationary bike,1.2
+974,Clean and jerk,1.1
+975,Machine triceps extension-,3.9
+975,90-degree jump squat,3.8
+975,Lying glute stretch,3.3
+975,Dumbbell floor press,2.9
+975,Dumbbell farmer's walk,1.5
+975,Treadmill jogging,4.2
+975,Power snatch-,4.4
+976,Smith machine bent-over row,3.4
+976,Burpee tuck jump,3.8
+976,One Handed Hang,2.0
+976,Barbell Hip Thrust,1.1
+976,Tire flip,4.2
+976,Elliptical trainer,4.5
+976,Behind-the-head push-press,4.2
+977,Standing dumbbell knee crunch,3.3
+977,Clapping Push-Up,2.3
+977,Iliotibial band SMR,1.9
+977,Board bench press,1.0
+977,Dumbbell farmer's walk,1.0
+977,Elliptical trainer,2.4
+977,Behind-the-head push-press,4.5
+978,Cable rope preacher hammer curl,1.3
+978,Lateral box jump,1.3
+978,Alternating standing glute stretch,3.2
+978,Rack pull,3.5
+978,Bear crawl sled drag,4.8
+978,High knees,3.8
+978,Power snatch-,4.5
+979,Hollow-hold ball toss,2.4
+979,90-degree jump squat,4.8
+979,Alternating standing glute stretch,1.8
+979,Board bench press,3.3
+979,Tire flip,3.9
+979,Jumping rope,4.2
+979,Push-press,3.7
+980,Barbell thruster,1.2
+980,Scissors Jump,3.9
+980,Arm circle,1.5
+980,Board bench press,1.6
+980,Bear crawl sled drag,2.1
+980,Shuttle run,2.5
+980,Push-jerk,2.5
+981,UP Incline Dumbbell Fly,3.1
+981,Scissors Jump,1.4
+981,Yoga plex,4.7
+981,Speed Box Squat,4.0
+981,Sled Push,2.9
+981,Plate push,1.3
+981,Power snatch-,3.3
+982,FYR Kettlebell Squat Clean,1.7
+982,Gorilla squat,2.8
+982,Alternating standing knee-pull stretch,3.2
+982,Barbell glute bridge,1.4
+982,Sled Push,1.8
+982,Treadmill walking,3.3
+982,Push-press,1.0
+983,3/4 sit-up,4.0
+983,Sit-up with single-arm overhand throw,4.6
+983,Wall calf stretch,2.3
+983,Sumo deadlift,2.9
+983,Dumbbell farmer's walk,4.9
+983,Stationary bike,4.2
+983,Clean and jerk,4.8
+984,Spider crunch,1.7
+984,Medicine ball scoop throw,4.3
+984,Child's pose,1.5
+984,Dumbbell floor press,3.1
+984,Dumbbell farmer's walk,3.5
+984,Treadmill running,4.8
+984,Power snatch-,4.9
+985,FYR Kettlebell Power Clean,2.6
+985,Skip,4.9
+985,Superman,2.4
+985,Barbell glute bridge,2.1
+985,Sled Push,4.2
+985,Stairmaster,3.3
+985,Push-press,2.9
+986,Kettlebell thruster progression,3.8
+986,Wall sprawl,2.6
+986,Single-leg balance and reach,3.0
+986,Barbell glute bridge,1.5
+986,Bear crawl sled drag,1.8
+986,Elliptical trainer,2.1
+986,Push-press,3.8
+987,Hanging alternating single-leg raise,3.9
+987,In-out jump squat,4.3
+987,Latissimus dorsi SMR,1.0
+987,Board bench press,3.3
+987,Tire flip,1.2
+987,Treadmill running,4.4
+987,Power snatch-,3.6
+988,Arnold press,1.9
+988,Jump lunge heel kick,2.1
+988,Exercise ball torso rotation,1.8
+988,Barbell back squat to box,4.4
+988,Sled Push,1.6
+988,Rower,4.3
+988,Behind-the-head push-press,3.6
+989,AM Bar Triceps Push-Down,3.2
+989,Speed skater,4.2
+989,Alternating standing glute stretch,2.4
+989,Good Morning,2.5
+989,Sled Push,1.0
+989,Treadmill jogging,4.3
+989,Power snatch-,3.3
+990,Single-arm kettlebell swing,1.1
+990,Medicine ball ninja,4.4
+990,Alternating standing glute stretch,5.0
+990,Speed Box Squat,5.0
+990,Bear crawl sled drag,4.2
+990,Sled push-,1.6
+990,Clean and jerk,4.1
+991,Partner sit-up with high-five,3.7
+991,Jumping knee up-down,3.4
+991,Piriformis SMR,2.7
+991,Barbell deficit deadlift,4.6
+991,Sled Push,4.1
+991,Treadmill running,4.7
+991,Clean and jerk,2.0
+992,Band Pull Apart,1.1
+992,Over bench jump,1.1
+992,One Handed Hang,3.1
+992,Barbell Hip Thrust,2.9
+992,Bear crawl sled drag,2.5
+992,Jumping Jack,3.8
+992,Behind-the-head push-press,1.4
+993,Single-leg curl up,1.1
+993,Sprawl frog kick,3.0
+993,One Handed Hang,1.9
+993,Barbell deficit deadlift,4.2
+993,Bear crawl sled drag,1.7
+993,Elliptical trainer,4.9
+993,Push-jerk,4.1
+994,Incline Front Barbell Raise - Gethin Variation,1.8
+994,Medicine ball slam,3.1
+994,Child's pose,3.4
+994,Barbell Hip Thrust,2.6
+994,Dumbbell farmer's walk,4.2
+994,Treadmill jogging,2.3
+994,Power snatch-,2.2
+995,Hanging knee raise with manual resistance,3.9
+995,Box Jump (Multiple Response),2.8
+995,Exercise ball torso rotation,4.4
+995,Rack pull,4.7
+995,Sled Push,4.1
+995,Bear crawl fire feet,2.0
+995,Push-jerk,1.6
+996,Single-arm high-cable side bend,3.5
+996,Jump Squat,4.6
+996,Exercise ball torso rotation,2.7
+996,Sumo deadlift,1.8
+996,Tire flip,2.5
+996,Treadmill walking,2.5
+996,Clean and jerk,1.6
+997,Glute-Ham Raise - Gethin Variation,1.7
+997,Medicine Ball Chest Pass,4.8
+997,Pass-through stretch with band,2.0
+997,Barbell deficit deadlift,4.8
+997,Bear crawl sled drag,3.1
+997,Rower,3.8
+997,Push-jerk,3.0
+998,Overhead cable curl,2.6
+998,Wall mountain climber,3.8
+998,Reach-roll-lift combo,4.7
+998,Rack pull,3.5
+998,Bear crawl sled drag,2.1
+998,Shuttle run,2.7
+998,Power snatch-,4.6
+999,Paul Carter Dumbbell Kick-Back,2.6
+999,Lateral cone hop,4.2
+999,Wall calf stretch,2.2
+999,Speed Box Squat,1.8
+999,Sled Push,2.0
+999,Shadow boxing,1.6
+999,Push-press,3.3
+1000,Smith machine front squat,4.9
+1000,Plyo push-up,3.0
+1000,Exercise ball chest stretch,1.6
+1000,Rack pull,1.9
+1000,Sled Push,2.1
+1000,High knees,4.2
+1000,Clean and jerk,3.6
