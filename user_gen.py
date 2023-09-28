@@ -17,8 +17,7 @@ for cat in all_categories:
     cat_df = df[df['Type'] == cat]
     
     titles = cat_df['Title'].tolist()
-    if not None:
-        dict_all_exercises[cat] = titles
+    dict_all_exercises[cat] = titles
 
 total_users = 1000
 
