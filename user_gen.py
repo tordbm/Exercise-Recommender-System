@@ -48,6 +48,6 @@ def gen_ratings(all_categories, user_id,  dict_all_exercises):
 
 strength_users_data = gen_strength_users(total_users, all_categories)
 
-df = pd.DataFrame(strength_users_data, columns=['userId', 'title', 'rating'])
+df_users = pd.DataFrame(strength_users_data, columns=['userId', 'title', 'rating'])
 
-df.to_csv("user_exercises.csv", index=False)
+df_users.to_csv("user_exercises.csv", index=False)
