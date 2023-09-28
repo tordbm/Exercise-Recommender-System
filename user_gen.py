@@ -6,7 +6,6 @@ df = pd.read_csv("megaGymDataSet.csv")
 
 df = df.drop('Rating', axis=1)
 df = df.drop('RatingDesc', axis=1)
-
 df = df[df['Desc'].notna()]
 df.pop(df.columns[0])
 
@@ -49,4 +48,4 @@ users_data = gen_users(total_users, all_categories)
 
 df_users = pd.DataFrame(users_data, columns=['userId', 'title', 'rating'])
 
-df_users.to_csv("user_exercises.csv", index=False)
+df_users.to_csv("user_exercise_ratings.csv", index=False)
