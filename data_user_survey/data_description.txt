@@ -1,0 +1,30 @@
+Variable Name				Description				Data Type
+--------------------------------------------------------------------------------------------
+ts 		- Time Stamp							DateTime
+age 		- Age of the respondent					Continuous	
+sex 		- Gender of the respondent					Factor
+work		- Work preference of the respondent				Factor
+
+Ratings on Physical Condition: (in 10 scale)
+phy_ff 	- Rating of liking fast food 					Factor
+phy_health 	- Rating of healthiness					Factor
+phy_bw 	- Rating of one's preference to maintain body weight		Factor	
+phy_ex 	- Rating of importance of exercise				Factor
+
+meal 		- Number of meals in a day					Discrete
+height		- Height of the respondent					Continuous
+weight 	- Weight of the respondent					Continuous
+exercise 	- Type of exercises 						Factor
+
+Diet Culture: (Number of times)
+fruit 		- Number of meals contain fruits				Factor
+veg		- Number of meals contain vegetables				Factor
+cook		- Number of cooked plates					Factor
+
+spend 		- Expenditure on fitness					Continuous
+income 	- Monthly family income					Continuous
+gymtime 	- Time spent in gym. (In a day)				Continuous
+disease 	- Whether suffers from any regular disease			Categorical
+
+review		- Review of the survey						Text
+rate		- Rate the project topics and question			Factor

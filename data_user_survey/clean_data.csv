@@ -1,0 +1,262 @@
+"","ts","age","sex","work","phy_ff","phy_health","phy_bw","phy_ex","meal","height","weight","exercise","fruit","veg","cook","spend","income","gymtime","disease","review","rate"
+"2","2021-10-19 20:05:43",21,"Male","Moderate",7,8,6,7,"5",182.88,76,"Others",1,2,1,1000,50000,"Not at all","No","",4
+"3","2021-10-19 20:18:40",23,"Male","Moderate",6,9,8,8,"5",170.688,70,"Others",1,2,4,300,6500,"1 Hour","No","",5
+"4","2021-10-20 11:03:47",21,"Male","Moderate",7,6,7,8,"5+",182.88,77,"Walk, Run, Outdoor Games, Others",1,2,2,3000,50000,"Not at all","No","",5
+"5","2021-10-20 11:06:04",23,"Male","Moderate",6,9,8,8,"5",170.688,70,"Walk, Weight lifting, Outdoor Games, Others",0,2,3,500,6500,"1 Hour","No","It's really good.",5
+"6","2021-10-20 11:19:54",22,"Male","Moderate",2,2,2,2,"2",170.688,85,"Walk, Do not interested",1,1,1,0,100000,"Not at all","Nahi","",5
+"7","2021-10-20 11:44:06",22,"Male","Moderate",3,4,3,4,"5",182.88,101,"Run, Outdoor Games",0,3,1,500,35000,"Not at all","No","",5
+"8","2021-10-20 11:44:44",21,"Male","Moderate",9,9,10,8,"5",173.736,60,"Run, Outdoor Games",1,2,1,2000,50000,"Not at all","No","",5
+"9","2021-10-20 11:45:38",21,"Male","Hardwork",2,3,3,2,"4",155.448,55,"Walk",1,0,1,0,35000,"Not at all","No","",4
+"10","2021-10-20 11:46:49",21,"Male","Moderate",3,2,3,1,"5+",173.736,69,"Walk, Run, Outdoor Games",1,2,1,0,1000000,"Not at all","No","",4
+"11","2021-10-20 11:47:29",22,"Male","Moderate",6,7,10,10,"5",182.88,78,"Others",4,4,3,0,200000,"Not at all","No","Welcome",5
+"12","2021-10-20 11:48:16",23,"Male","Moderate",7,6,6,8,"5",176.784,65,"Walk, Run, Outdoor Games",4,4,2,1000,30000,"Not at all","No","",3
+"13","2021-10-20 11:48:28",21,"Male","Moderate",3,4,4,4,"4",170.688,80,"Others",1,2,0,0,150000,"Not at all","Cough and cold","It's nearly impossible for someone to know their exact family income. So that should have been in groups like 
+Below 10,000
+10,000-30,000
+30,000-60,000
+Above 60,000",3
+"14","2021-10-20 11:50:53",22,"Male","Moderate",4,6,7,5,"5",179.832,58,"Walk, Others",1,2,0,500,150000,"Not at all","Alopecia Totalis","",4
+"15","2021-10-20 11:55:03",26,"Male","Moderate",3,2,4,3,"4",158.496,53,"Outdoor Games, Others",0,2,1,0,50000,"Not at all","Cholesterol","",4
+"16","2021-10-20 11:57:30",22,"Male","Moderate",2,2,3,2,"5",173.736,72,"Walk, Outdoor Games",1,2,1,0,50000,"Not at all","Hyperthyroidism","",4
+"17","2021-10-20 12:01:13",23,"Male","Moderate",3,2,2,3,"4",182.88,72,"Run, Outdoor Games, Others",1,2,0,0,10000,"Not at all","No","",4
+"18","2021-10-20 12:04:42",23,"Male","Moderate",8,6,7,4,"5",125.2728,48,"Walk, Outdoor Games",1,3,1,0,5000,"Not at all","No","",4
+"19","2021-10-20 12:07:32",22,"Female","Moderate",1,4,4,1,"5+",161.544,72,"Walk, Others",1,2,3,0,50000,"Not at all","No","You should've given income range. ",3
+"20","2021-10-20 12:07:40",24,"Male","Moderate",7,5,10,10,"4",167.64,82,"Walk, Run, Weight lifting, Outdoor Games",1,3,0,2000,32000,"1 Hour","Asthma","Questionnaire forming is good",4
+"21","2021-10-20 12:15:47",22,"Male","Sedentary",4,7,7,5,"4",176.784,63,"Walk, Outdoor Games, Others",1,2,3,0,10000,"Not at all","Nope","",3
+"22","2021-10-20 12:20:34",22,"Male","Moderate",4,5,1,3,"5",176.784,71,"Walk, Run, Swim",1,2,5,0,26000,"Not at all","Stomach problems, basically Digestion problem.","much good",5
+"23","2021-10-20 12:25:37",21,"Male","Hardwork",3,4,4,3,"5",179.832,74,"Walk, Others",1,2,0,500,30000,"Not at all","Lower back pain","Home exercise should be considered in the fitness. Training option",4
+"24","2021-10-20 12:30:44",22,"Male","Moderate",7,10,10,10,"4",173.736,78,"Walk, Run, Weight lifting",0,2,1,1000,80000,"2 Hour","Common cold","Go ahead w your project . All the best .",4
+"25","2021-10-20 13:00:29",20,"Male","Moderate",7,5,7,6,"5",173.736,60,"Walk, Run, Outdoor Games",1,3,3,0,40000,"Not at all","no","",4
+"26","2021-10-20 13:01:48",23,"Male","Moderate",7,6,9,9,"4",188.976,78,"Run, Weight lifting",1,2,1,500,85000,"1 Hour","No","",5
+"27","2021-10-20 13:08:54",20,"Male","Moderate",5,4,8,5,"4",155.448,55,"Walk, Others",1,1,0,0,22500,"Not at all","Hyperthyroidism","",5
+"28","2021-10-20 13:17:33",23,"Male","Moderate",8,3,8,7,"4",176.784,70,"Walk, Run, Weight lifting",1,2,1,1000,5000,"Not at all","No","",5
+"29","2021-10-20 14:27:29",22,"Male","Hardwork",2,2,3,3,"5",155.7528,64,"Walk, Run, Swim",2,2,2,500,15000,"Not at all","Appendicitis","",5
+"30","2021-10-20 14:50:44",20,"Male","Moderate",8,8,6,9,"5",155.7528,95,"Walk",1,2,0,0,35000,"Not at all","No","",5
+"31","2021-10-20 14:53:47",21,"Male","Moderate",3,3,3,2,"2",179.832,65,"Walk, Outdoor Games",1,2,1,0,0,"Not at all","No","",3
+"32","2021-10-20 14:56:35",21,"Male","Moderate",2,5,6,2,"5",164.592,52,"Walk, Run, Swim",4,4,0,500,40000,"Not at all","Cold","It's a good experience",5
+"33","2021-10-20 15:02:49",21,"Male","Moderate",3,4,1,3,"2",179.832,95,"Walk",1,1,2,0,80000,"Not at all","No","",5
+"34","2021-10-20 15:34:32",28,"Female","Hardwork",3,3,4,4,"4",121.92,40,"Walk, Run, Others",3,3,0,10000,50000,"More than 3 hours","Migraine","Thanks",5
+"35","2021-10-20 15:36:13",24,"Male","Sedentary",3,3,2,2,"5",158.496,50,"Run, Outdoor Games",1,2,1,100,30000,"Not at all","No","",4
+"36","2021-10-20 15:41:09",22,"Male","Moderate",4,6,8,4,"4",164.592,88,"Do not interested",0,3,1,300,16000,"Not at all","No","I would specify there should be an others section in gender .",4
+"37","2021-10-20 15:54:06",22,"Female","Moderate",2,4,3,2,"5",164.592,65,"Dance",2,2,1,0,35000,"Not at all","No","Interesting ",4
+"38","2021-10-20 17:17:30",18,"Female","Hardwork",3,2,4,3,"5",170.688,56,"Walk, Others",2,3,0,5000,2200000,"1 Hour","No","",5
+"39","2021-10-20 19:16:57",23,"Male","Moderate",6,9,10,10,"4",179.832,84,"Weight lifting, Outdoor Games",0,1,2,2000,30000,"2 Hour","No","Good",4
+"40","2021-10-20 21:04:27",22,"Male","Moderate",3,3,4,3,"5",173.736,90,"Run",3,3,1,500,40000,"Not at all","No","",5
+"41","2021-10-21 09:01:29",21,"Male","Moderate",5,7,6,4,"5+",155.448,95,"Do not interested",0,4,2,0,35500,"Not at all","Weak Stomach","",4
+"42","2021-10-21 09:20:34",20,"Male","Moderate",9,8,10,10,"5+",155.7528,70,"Walk, Outdoor Games, Others",3,4,4,200,5000,"Not at all","No","",5
+"43","2021-10-21 11:24:37",21,"Female","Sedentary",5,5,5,5,"5",161.544,49,"Dance",2,4,3,100,20000,"Not at all","No","No ",5
+"44","2021-10-23 18:45:38",21,"Male","Moderate",7,5,6,7,"4",182.88,72,"Outdoor Games",0,3,3,0,11000,"Not at all","no","",5
+"45","2021-10-23 23:17:57",22,"Male","Moderate",7,2,9,10,"5+",173.736,60,"Walk, Run, Outdoor Games, Others",2,3,1,3000,27000,"1 Hour","No","",5
+"46","2021-10-20 11:25:38",24,"Male","Moderate",2,2,3,3,"4",173.736,73,"Others",0,1,1,1000,12000,"Not at all","No","",4
+"47","2021-10-20 11:26:15",24,"Female","Moderate",2,3,2,3,"5",164.592,69,"Walk, Dance, Outdoor Games, Others",0,2,1,0,10000,"Not at all","No","",3
+"48","2021-10-20 11:30:49",20,"Male","Hardwork",5,10,10,10,"5",167.64,70,"Walk, Run",3,5,5,0,30000,"Not at all","No","Very goodod survey it was.",5
+"49","2021-10-20 11:39:07",20,"Male","Moderate",3,3,2,1,"5+",155.7528,85,"Walk, Weight lifting",1,2,1,200,90000,"Not at all","No","✌🏻",5
+"50","2021-10-20 11:39:28",20,"Male","Moderate",2,2,4,4,"4",170.688,58,"Walk, Weight lifting, Others",1,2,0,0,10000,"1 Hour","Sinusitis ","",3
+"51","2021-10-20 11:39:41",21,"Male","Hardwork",9,8,9,9,"3",182.88,85,"Walk, Outdoor Games",4,4,4,2000,0,"2 Hour","No","Thanks",5
+"52","2021-10-20 11:41:26",25,"Male","Moderate",5,6,7,6,"5",164.592,55,"Walk, Run",1,2,1,200,20000,"Not at all","No","",2
+"53","2021-10-20 11:43:39",23,"Male","Moderate",2,3,4,4,"5",164.592,48,"Walk, Outdoor Games",0,1,2,1000,35000,"1 Hour","Pancriatitis","",4
+"54","2021-10-20 11:43:48",21,"Male","Moderate",10,5,10,8,"5",180.4416,90,"Walk, Outdoor Games",1,4,2,0,45000,"Not at all","No","",5
+"55","2021-10-20 11:44:26",21,"Male","Moderate",2,2,3,3,"5",182.88,76,"Swim",0,1,1,1000,30000,"Not at all","No","",5
+"56","2021-10-20 11:47:21",22,"Female","Sedentary",6,9,10,6,"4",170.688,60,"Walk",1,3,1,0,150000,"Not at all","No","",3
+"57","2021-10-20 11:47:38",23,"Male","Moderate",1,1,2,1,"5",167.64,70,"Walk",0,1,0,0,10000,"Not at all","No","",3
+"58","2021-10-20 11:48:08",23,"Female","Moderate",3,1,3,3,"5+",152.4,65,"Others",1,3,0,500,50000,"1 Hour","PCOS","",4
+"59","2021-10-20 11:51:59",20,"Female","Moderate",5,4,3,2,"5",155.448,60,"Walk",2,3,1,200,7000,"Not at all","No","",4
+"60","2021-10-20 11:52:34",23,"Female","Hardwork",2,2,2,2,"5",152.4,51,"Dance",1,1,2,500,20000,"Not at all","No","Eat healthy stay healthy ",4
+"61","2021-10-20 11:54:14",26,"Male","Moderate",3,1,3,3,"5",167,63,"Walk",0,1,1,0,3600,"Not at all","No","",4
+"62","2021-10-20 11:54:31",18,"Female","Hardwork",2,2,2,1,"4",176.784,57,"Walk, Run, Outdoor Games",1,1,1,2300,56000,"Not at all","No","",5
+"63","2021-10-20 11:54:41",56,"Male","Hardwork",4,4,4,4,"5+",152.4,65,"Dance",3,3,3,25000,300000,"3 Hours","No","Yes",5
+"64","2021-10-20 11:57:15",23,"Male","Sedentary",7,9,9,8,"3",185.928,56,"Outdoor Games, Others",0,2,2,0,180000,"Not at all","No","Thank you",4
+"65","2021-10-20 11:58:30",24,"Female","Moderate",7,7,9,8,"4",164.592,65,"Walk, Outdoor Games, Others",2,2,1,500,20000,"Not at all","No","",4
+"66","2021-10-20 11:59:36",20,"Male","Moderate",10,10,10,10,"2",173.736,71.4,"Weight lifting",2,3,1,3000,40000,"2 Hour","No","Pretty good survey ",4
+"67","2021-10-20 11:59:42",20,"Male","Hardwork",2,1,1,3,"5",155.7528,65,"Swim",1,2,2,2500,100000,"3 Hours","No","",5
+"68","2021-10-20 11:59:49",18,"Female","Moderate",5,10,5,7,"5",164.592,56,"Run, Dance, Outdoor Games",1,3,1,500,400000,"Not at all","No.","",4
+"69","2021-10-20 12:00:54",24,"Male","Moderate",3,2,2,3,"5",173.736,69,"Walk, Run, Outdoor Games, Others",1,2,1,1500,25000,"Not at all","no","",4
+"70","2021-10-20 12:01:03",20,"Female","Moderate",3,4,3,2,"5",164.592,45,"Walk",3,1,3,2500,40000,"Not at all","Thyroid ","",5
+"71","2021-10-20 12:03:22",21,"Male","Hardwork",2,2,4,4,"4",170.688,85,"Walk",1,2,1,0,5009,"Not at all","No","Excellent",5
+"72","2021-10-20 12:06:20",21,"Male","Hardwork",4,2,4,4,"4",182.88,80,"Run, Swim, Outdoor Games",1,3,3,1000,50000,"Not at all","no","",5
+"73","2021-10-20 12:06:21",23,"Female","Moderate",9,6,8,8,"5",152.4,54,"Walk, Dance, Others",1,3,1,700,50000,"Not at all","No","",4
+"74","2021-10-20 12:06:58",22,"Male","Moderate",7,8,10,9,"4",167.64,56,"Walk, Others",1,4,1,300,8000,"Not at all","Yes, gastric","",4
+"75","2021-10-20 12:08:13",20,"Female","Moderate",2,1,2,3,"4",146.304,50,"Walk",1,2,0,500,5000,"Not at all","PCOD ","",5
+"76","2021-10-20 12:08:20",23,"Male","Moderate",6,3,10,10,"5+",176.784,70,"Walk, Weight lifting",1,2,1,3000,35000,"1 Hour","Crohn's disease","",4
+"77","2021-10-20 12:09:33",24,"Female","Moderate",7,10,10,9,"5",161.544,38,"Others",1,3,1,3000,14000,"Not at all","No","Interesting survey..",5
+"78","2021-10-20 12:10:50",21,"Female","Moderate",7,4,9,6,"4",170.688,58,"Walk",0,2,1,0,40000,"Not at all","No","",4
+"79","2021-10-20 12:11:02",21,"Female","Sedentary",2,3,3,3,"5+",161.544,49,"Others",2,1,1,1000,70000,"Not at all","Anemia","It's ammezing",4
+"80","2021-10-20 12:11:30",23,"Female","Moderate",7,10,9,8,"5",161.544,70,"Walk",1,2,1,2500,35000,"2 Hour","Diabetes","",5
+"81","2021-10-20 12:11:46",25,"Male","Hardwork",8,7,9,10,"5",176.784,60.2,"Walk, Run",4,3,4,250,32500,"Not at all","Back pain.","Please correct some spelling mistakes and write the meaning of each ratings. It will be helpful for the respondents. 
+A little suggestion: try to put more questions about time of exercise, type of exercises, food habits etc. 
+Wishing you a great success in this survey as well as analysis. ",3
+"82","2021-10-20 12:11:49",20,"Female","Sedentary",2,2,2,2,"5",161.544,56,"Walk",1,1,1,3000,140000,"Not at all","no","",4
+"83","2021-10-20 12:11:54",20,"Female","Sedentary",2,1,1,3,"4",167.64,55,"Walk",1,2,2,1500,50000,"1 Hour","No","Good.",5
+"84","2021-10-20 12:13:57",21,"Male","Moderate",2,2,4,3,"5",161.544,70,"Walk, Outdoor Games",2,2,1,100,15000,"Not at all","No","",5
+"85","2021-10-20 12:18:59",21,"Male","Hardwork",3,4,3,2,"4",179.832,82,"Others",1,1,0,0,40000,"Not at all","sneezing","Nice",4
+"86","2021-10-20 12:19:37",20,"Female","Sedentary",2,10,10,10,"5+",164.592,65,"Walk, Dance",1,2,1,2500,60000,"2 Hour","No","Very good",4
+"87","2021-10-20 12:20:00",24,"Female","Moderate",7,9,9,8,"4",155,45,"Walk",3,4,1,200,100000,"Not at all","Psoriasis","",4
+"88","2021-10-20 12:24:37",23,"Female","Moderate",8,5,6,7,"4",173.4312,51,"Walk",1,5,2,500,40000,"Not at all","No","",4
+"89","2021-10-20 12:30:14",26,"Female","Hardwork",3,2,4,4,"5",164.592,56,"Walk, Others",2,3,1,1000,100000,"Not at all","No","Hope your study completes soon, and come out with good result.",4
+"90","2021-10-20 12:34:50",25,"Female","Moderate",4,4,4,3,"4",167.64,53,"Walk",0,2,3,3000,0,"Not at all","No ","",3
+"91","2021-10-20 12:35:23",23,"Male","Moderate",8,2,10,10,"5+",176.784,64,"Weight lifting",1,2,2,3000,80000,"2 Hour","No","",4
+"92","2021-10-20 12:40:53",21,"Female","Moderate",5,4,4,8,"5",152.4,51,"Others",2,3,4,1000,30000,"2 Hour","No","Very good",5
+"93","2021-10-20 12:45:36",24,"Male","Hardwork",5,5,5,4,"4",173.736,56,"Walk",1,1,2,3000,200000,"Not at all","No","❤️",5
+"94","2021-10-20 12:50:18",25,"Female","Moderate",2,3,1,1,"4",155.448,49,"Walk, Dance",0,1,1,0,400000,"Not at all","No","",5
+"95","2021-10-20 12:53:40",21,"Male","Moderate",9,1,9,9,"3",173.736,70,"Outdoor Games",0,4,2,1000,20000,"2 Hour","No","",4
+"96","2021-10-20 12:55:11",20,"Female","Moderate",7,8,10,7,"4",152.4,38,"Walk",3,2,5,500,6000,"Not at all","No","",5
+"97","2021-10-20 12:57:19",26,"Female","Moderate",4,2,4,3,"5",161.544,55,"Walk, Run",1,3,0,500,90000,"1 Hour","No","",5
+"98","2021-10-20 12:57:36",20,"Male","Hardwork",4,3,4,4,"5",182.88,77,"Run, Weight lifting",2,3,3,500,45000,"3 Hours","No","Very good",5
+"99","2021-10-20 12:59:28",30,"Male","Moderate",9,2,7,7,"4",170.688,60,"Walk",1,4,1,0,35000,"Not at all","No","Na",4
+"100","2021-10-20 12:59:29",24,"Female","Hardwork",3,4,3,3,"5",152.4,46,"Walk, Dance, Swim",1,2,1,100,30000,"Not at all","Ni","Good initiative",5
+"101","2021-10-20 13:04:42",23,"Female","Moderate",1,2,1,3,"4",149.352,57,"Do not interested",0,1,0,0,35000,"Not at all","No","Great questionnaire",5
+"102","2021-10-20 13:05:49",22,"Male","Hardwork",4,3,4,4,"5",176.784,69,"Run, Weight lifting, Outdoor Games",1,3,1,1500,500000,"1 Hour","NO ","",5
+"103","2021-10-20 13:05:51",24,"Male","Moderate",2,1,2,2,"5",176.784,70,"Run",0,1,0,0,10000,"Not at all","No","",5
+"104","2021-10-20 13:10:16",22,"Male","Moderate",2,3,3,1,"5+",173.736,60,"Walk",2,2,2,500,7000,"Not at all","Cough and cold ","",5
+"105","2021-10-20 13:19:48",20,"Female","Moderate",6,10,7,5,"5",176.784,57,"Walk, Run, Dance",3,5,1,0,15000,"Not at all","No","",3
+"106","2021-10-20 13:20:27",22,"Male","Moderate",1,4,3,3,"5",173.736,65,"Walk",1,2,1,0,50000,"Not at all","No","",3
+"107","2021-10-20 13:21:21",24,"Female","Moderate",2,4,4,4,"4",167.64,58,"Walk",3,3,1,1000,80000,"Not at all","No","",5
+"108","2021-10-20 13:26:17",22,"Female","Moderate",7,9,10,8,"5",152.4,48,"Do not interested",0,2,4,1000,20000,"Not at all","No","",5
+"109","2021-10-20 13:26:48",24,"Male","Hardwork",8,8,10,2,"4",172.5168,47,"Walk",0,3,4,0,8000,"Not at all","No","Good",4
+"110","2021-10-20 13:27:14",26,"Male","Moderate",4,2,3,3,"5",176.784,72,"Walk, Run, Outdoor Games, Others",3,3,1,100,25000,"Not at all","No","",4
+"111","2021-10-20 13:29:56",20,"Male","Moderate",2,3,2,1,"2",152.4,58,"Walk, Run",0,1,2,400,10000,"Not at all","Vomiting","It's a very good idea for health concern",5
+"112","2021-10-20 13:37:24",20,"Male","Moderate",2,3,3,3,"3",167.64,67.5,"Walk, Run",0,1,1,0,3000,"Not at all","No","Yeah this is a good thing to do anylysis data",3
+"113","2021-10-20 13:37:24",23,"Female","Moderate",2,3,2,1,"5",161.544,62,"Do not interested",0,1,2,500,15000,"Not at all","No","",5
+"114","2021-10-20 13:38:30",25,"Male","Moderate",2,1,3,2,"3",173.736,65,"Walk",1,2,0,3000,60000,"Not at all","No","",4
+"115","2021-10-20 13:43:32",21,"Male","Moderate",7,9,9,10,"5+",173.736,68,"Swim, Outdoor Games",3,4,3,500,7000,"Not at all","No","",4
+"116","2021-10-20 13:49:25",19,"Female","Hardwork",3,2,4,3,"5+",161.544,57,"Walk",1,2,1,500,25000,"Not at all","No","",4
+"117","2021-10-20 13:59:13",24,"Female","Moderate",7,9,9,10,"4",164.592,65,"Dance",2,4,1,0,25000,"Not at all","No","",4
+"118","2021-10-20 14:03:25",20,"Female","Moderate",3,4,2,4,"5",161.544,65,"Walk",1,2,3,7000,30000,"2 Hour","No","",5
+"119","2021-10-20 14:05:11",23,"Female","Sedentary",3,2,1,1,"4",170.688,53,"Weight lifting, Outdoor Games",0,0,0,0,10000,"Not at all","No","",5
+"120","2021-10-20 14:13:12",22,"Female","Moderate",2,4,3,4,"4",152.4,43,"Others",0,1,0,200,10000,"Not at all","Spondilytis, dry eyes, pcos","",4
+"121","2021-10-20 14:15:36",20,"Female","Moderate",4,2,4,4,"5+",158.496,50,"Others",1,1,2,0,65000,"Not at all","No","",4
+"122","2021-10-20 14:17:26",20,"Female","Moderate",2,4,3,3,"4",164.592,50,"Dance",1,1,2,1000,5000,"Not at all","No","",4
+"123","2021-10-20 14:19:59",20,"Male","Moderate",5,6,8,7,"5+",167.64,75,"Walk",2,4,5,0,17000,"Not at all","No","",4
+"124","2021-10-20 14:20:30",19,"Female","Moderate",6,10,10,7,"5",124.968,36,"Walk, Run, Outdoor Games",4,4,4,1600,4000,"Not at all","No","Necessary survey ",4
+"125","2021-10-20 14:21:06",19,"Female","Moderate",9,1,7,8,"5",161.544,43.5,"Walk, Run",1,2,0,2000,45000,"1 Hour","No","",4
+"126","2021-10-20 14:21:55",26,"Male","Moderate",7,8,6,8,"4",173.736,65,"Walk",0,2,1,1000,50000,"Not at all","No","",4
+"127","2021-10-20 14:22:58",19,"Male","Hardwork",2,4,1,1,"5",179.832,72,"Run, Outdoor Games",1,2,1,1000,20000,"Not at all","No","Thank you,your survey form really helps me to evaluate my daily meals and it also helps me to put emphasis on  how I utilize them in exercise and outdoor games...",5
+"128","2021-10-20 14:31:29",19,"Male","Hardwork",8,10,10,10,"4",161.544,85,"Outdoor Games",1,5,0,0,70000,"Not at all","Yes ( Cough )","",5
+"129","2021-10-20 14:35:18",20,"Female","Moderate",1,3,2,2,"5",155.448,55,"Walk",1,1,1,0,10000,"Not at all","No.","Very good thing that you are doing, carry on. ",5
+"130","2021-10-20 14:37:02",26,"Female","Hardwork",3,3,3,4,"3",148,55,"Dance",1,2,2,500,30000,"Not at all","No","",3
+"131","2021-10-20 14:37:48",26,"Female","Moderate",6,10,10,7,"5",161.544,73,"Walk",1,3,1,1000,46000,"Not at all","PCOS","",4
+"132","2021-10-20 14:39:32",24,"Female","Hardwork",9,8,9,6,"5",161.544,60,"Walk",1,4,2,0,30000,"Not at all","No","Great project idea. Please share with me the end results. ",5
+"133","2021-10-20 14:39:44",19,"Male","Hardwork",2,2,3,3,"4",170.688,74,"Walk, Outdoor Games",1,2,0,0,60000,"Not at all","Noo","",4
+"134","2021-10-20 14:41:36",23,"Male","Hardwork",3,2,3,2,"5",179.832,63,"Walk",2,4,1,0,30000,"Not at all","Allergy","",4
+"135","2021-10-20 14:41:50",23,"Male","Moderate",8,4,2,9,"3",161.544,59,"Others",3,4,1,0,6000,"Not at all","No","-",4
+"136","2021-10-20 14:44:52",22,"Male","Hardwork",2,1,1,3,"3",164.592,54,"Walk, Others",0,2,1,1000,20000,"1 Hour","No","This survey is realy very good.",5
+"137","2021-10-20 14:48:20",20,"Male","Moderate",2,4,3,3,"5",176.784,52,"Walk, Outdoor Games, Others",1,2,2,1000,60000,"Not at all","Allergy","",4
+"138","2021-10-20 14:52:01",20,"Male","Hardwork",5,6,6,10,"5",176.784,85,"Walk, Run, Weight lifting, Others",5,4,5,4000,50000,"2 Hour","Allergy","",3
+"139","2021-10-20 14:52:34",26,"Male","Moderate",5,10,10,5,"4",167.64,68,"Walk",1,1,2,2000,300000,"Not at all","No","",5
+"140","2021-10-20 14:55:26",19,"Female","Sedentary",4,3,4,4,"5",170.688,55,"Walk, Others",2,3,0,200,7000,"Not at all","Yes, common cold disease ","",5
+"141","2021-10-20 14:55:38",23,"Male","Sedentary",7,5,5,7,"4",152.4,52,"Walk, Run, Swim",1,2,1,0,40000,"Not at all","No","That's amazing. ",4
+"142","2021-10-20 14:59:25",20,"Female","Moderate",3,3,1,3,"4",161.544,50,"Walk, Dance",2,2,1,0,5000,"Not at all","No","",4
+"143","2021-10-20 15:03:55",24,"Male","Hardwork",10,5,9,10,"5",176.784,68,"Run, Weight lifting, Others",3,4,4,0,5000,"1 Hour","N0","",4
+"144","2021-10-20 15:11:01",22,"Male","Hardwork",5,6,9,9,"5",155.7528,66,"Walk, Run, Weight lifting",1,0,1,4000,32000,"1 Hour","Yes.Irritable bowel syndrome.(IBS)","You should what do you do for mental health.As that's very important now days.",4
+"145","2021-10-20 15:17:51",25,"Male","Moderate",2,1,2,3,"4",179.832,64,"Outdoor Games",1,2,1,1500,15000,"Not at all","No","",4
+"146","2021-10-20 15:23:11",21,"Male","Moderate",3,3,4,4,"5",157,55,"Run, Outdoor Games",1,2,2,1500,15000,"Not at all","No","Good",4
+"147","2021-10-20 15:23:32",20,"Male","Moderate",4,2,3,4,"5+",179.832,64,"Walk, Run, Dance, Swim, Outdoor Games",2,1,2,0,30000,"Not at all","No","",5
+"148","2021-10-20 15:27:02",20,"Male","Moderate",2,2,2,3,"5",170.688,56,"Walk, Run, Dance, Outdoor Games",1,1,1,2000,30000,"1 Hour","No","All the best!👍",5
+"149","2021-10-20 15:29:27",25,"Female","Hardwork",1,2,2,3,"5",161.544,45,"Walk",1,1,1,1500,4000,"Not at all","No","It's good",3
+"150","2021-10-20 15:34:22",20,"Female","Moderate",2,3,4,4,"5",152.4,45,"Do not interested",0,2,1,0,40000,"Not at all","Common  cold ","Very  good initiative to grow awareness among people about their health and nutrition. It will be very helpful to our country. ",3
+"151","2021-10-20 15:38:42",20,"Male","Moderate",10,3,10,10,"5",179.832,68,"Walk, Run, Outdoor Games",4,5,4,800,45000,"2 Hour","No ","No this is good , And cover all things",5
+"152","2021-10-20 15:46:20",20,"Female","Moderate",3,3,3,4,"5",152.4,46,"Walk",2,2,2,1000,20000,"Not at all","No","",4
+"153","2021-10-20 15:49:53",21,"Male","Hardwork",8,10,10,10,"4",179.832,100,"Walk",0,2,5,0,3500,"Not at all","No","",4
+"154","2021-10-20 16:03:52",11,"Male","Hardwork",2,3,4,1,"1",140.208,59,"Others",3,0,3,2500,10000,"Not at all","Golblader stone","Good",3
+"155","2021-10-20 16:09:56",26,"Male","Moderate",10,5,10,10,"5",170.688,56,"Walk",4,5,4,5000,20000,"Not at all","No","",3
+"156","2021-10-20 16:14:17",24,"Male","Moderate",9,2,9,9,"5+",155.448,78,"Walk, Run, Outdoor Games",1,4,0,500,50000,"Not at all","No","Best of luck for your survey . Especially thanks for choosing such a beautiful and important topic .",4
+"157","2021-10-20 16:17:57",24,"Male","Moderate",6,3,6,5,"4",173.736,76,"Walk, Run, Others",1,2,0,5000,25000,"Not at all","NO","",4
+"158","2021-10-20 16:29:20",23,"Female","Moderate",1,3,1,2,"4",158.496,51,"Others",1,1,0,0,40000,"Not at all","No","",4
+"159","2021-10-20 16:43:42",24,"Male","Moderate",3,4,4,4,"4",179.832,74,"Walk, Others",1,3,0,0,70000,"Not at all","No","",4
+"160","2021-10-20 16:44:39",24,"Female","Moderate",2,2,4,3,"5",152.4,42,"Dance",1,3,0,2500,40000,"Not at all","No","",4
+"161","2021-10-20 16:51:57",23,"Male","Moderate",3,2,4,3,"4",170.688,60,"Weight lifting",1,3,0,100,80000,"Not at all","No","",4
+"162","2021-10-20 17:17:00",23,"Female","Moderate",3,2,3,3,"5",155.448,52,"Others",1,2,1,500,25000,"Not at all","No","",3
+"163","2021-10-20 17:22:02",22,"Male","Moderate",3,1,4,4,"2",155.7528,75,"Run, Outdoor Games",2,3,1,2000,30000,"Not at all","0","",5
+"164","2021-10-20 17:26:59",23,"Male","Moderate",2,4,4,4,"4",170.688,73,"Others",0,2,0,400,30000,"1 Hour","No","",5
+"165","2021-10-20 17:33:34",24,"Male","Moderate",2,3,3,4,"4",161.544,59,"Run, Others",1,2,2,500,30000,"Not at all","No","",3
+"166","2021-10-20 17:49:15",23,"Male","Moderate",4,5,10,8,"5",158.496,48,"Walk",0,2,2,0,40000,"Not at all","Yes, IBS","",4
+"167","2021-10-20 17:51:59",25,"Male","Moderate",9,7,8,9,"4",179.832,59,"Outdoor Games, Others",1,2,1,1000,5000,"Not at all","No","",4
+"168","2021-10-20 18:19:11",20,"Male","Moderate",2,3,2,3,"5+",173.736,62,"Run",1,1,1,0,80000,"Not at all","No","The level of questions is very good",5
+"169","2021-10-20 18:19:23",19,"Male","Moderate",4,10,6,8,"2",167.64,58,"Walk",4,1,1,0,4000,"Not at all","Allergies and cold","Ok",4
+"170","2021-10-20 18:36:03",24,"Female","Hardwork",9,5,10,10,"4",161.544,49,"Walk, Dance, Others",3,5,3,2000,15000,"Not at all","No","According to me there is a need of a option for writing.",4
+"171","2021-10-20 19:14:24",22,"Male","Moderate",6,5,10,10,"5",167.64,49,"Walk, Run, Swim, Others",1,4,1,400,4000,"Not at all",NA,"",5
+"172","2021-10-20 19:18:21",22,"Male","Moderate",10,6,10,10,"5+",173.736,58,"Walk",1,3,1,1000,9000,"1 Hour","No","",5
+"173","2021-10-20 19:22:57",23,"Male","Hardwork",8,4,8,6,"4",170.688,60,"Outdoor Games",0,5,1,3000,36000,"Not at all","No","No comments",5
+"174","2021-10-20 19:53:38",20,"Female","Hardwork",3,4,3,3,"5+",164.592,51,"Walk, Run, Dance, Swim, Outdoor Games",1,2,2,0,40000,"Not at all","No","",3
+"175","2021-10-20 20:21:07",21,"Female","Moderate",8,5,9,10,"5",164.592,46,"Walk, Dance, Outdoor Games, Others",1,3,1,1000,20000,"Not at all","No","Very good",5
+"176","2021-10-20 20:53:23",20,"Male","Hardwork",4,2,3,2,"5",182.88,65,"Walk, Swim, Others",1,1,2,0,12000,"1 Hour","No","Plase provide gym in free of cost...",4
+"177","2021-10-20 21:39:14",23,"Female","Moderate",4,3,4,4,"5",155.448,48,"Walk, Run, Dance",3,3,1,2000,40000,"Not at all","No","",4
+"178","2021-10-20 21:53:49",25,"Male","Moderate",3,4,4,4,"4",155.448,61,"Walk, Others",1,2,0,500,30000,"Not at all","No","",4
+"179","2021-10-20 22:16:48",22,"Female","Moderate",5,6,5,5,"5",158.496,46,"Walk, Not interested",0,2,1,0,15000,"Not at all","No","",5
+"180","2021-10-20 22:40:52",25,"Male","Moderate",8,3,10,9,"5",161,70,"Walk, Outdoor Games, Others",1,3,0,500,50000,"Not at all","No","",4
+"181","2021-10-20 22:43:02",30,"Male","Moderate",3,2,3,4,"4",173.736,71,"Walk, Weight lifting",1,3,0,0,1,"1 Hour","No","",4
+"182","2021-10-20 22:48:11",26,"Male","Moderate",7,1,1,10,"4",176.784,64,"Walk",1,2,1,0,25000,"Not at all","No","",5
+"183","2021-10-20 23:11:42",18,"Female","Moderate",3,4,3,3,"5",158.496,45,"Not interested",0,3,0,0,100000,"Not at all","No","",4
+"184","2021-10-21 01:18:23",19,"Male","Moderate",9,7,8,8,"4",170.688,68,"Walk, Run, Outdoor Games, Others",4,5,3,500,10000,"1 Hour","No","Great",5
+"185","2021-10-21 07:40:38",24,"Female","Moderate",8,6,9,9,"5",161.544,52,"Walk, Dance, Others",3,5,1,0,20000,"Not at all","No","",4
+"186","2021-10-21 07:53:59",23,"Male","Moderate",1,2,1,1,"4",173.736,77,"Run",0,1,0,1200,6500,"1 Hour","No","",2
+"187","2021-10-21 08:09:26",21,"Male","Sedentary",1,3,2,1,"2",170.688,69,"Not interested",0,1,2,0,700000,"Not at all","Tooth decaying","",4
+"188","2021-10-21 08:30:38",21,"Male","Moderate",6,8,10,9,"5",160.02,50.3,"Walk",0,2,0,0,9000,"Not at all","No","",5
+"189","2021-10-21 08:31:39",26,"Male","Moderate",3,1,2,3,"4",167.64,72,"Weight lifting, Others",1,2,0,200,20000,"2 Hour","Dust Allergy","",4
+"190","2021-10-21 08:50:57",22,"Male","Hardwork",9,4,8,10,"4",173.736,75,"Others",3,5,2,1200,30000,"1 Hour","No","Nothing",5
+"191","2021-10-21 09:46:34",22,"Male","Moderate",3,4,4,3,"5",173.736,70,"Walk, Run, Weight lifting",1,3,1,800,1500000,"2 Hour","No","",3
+"192","2021-10-21 10:02:50",22,"Male","Moderate",6,3,10,8,"3",173.736,75,"Run, Outdoor Games",0,2,0,0,10000,"Not at all","IBS ","",4
+"193","2021-10-21 10:07:33",22,"Male","Moderate",1,5,6,1,"5",179.832,64,"Walk, Swim",1,3,0,0,60000,"Not at all","No","Answering height should be on centemetre it's more reliable and accurate. Also in feet it requires to write as 5'9"" which i can't in your form so i had to write 5.9 which doesn't mean 5feet9inches at all.",3
+"194","2021-10-21 10:25:13",23,"Male","Moderate",3,2,4,4,"2",155.7528,88,"Walk",2,2,1,200,18000,"Not at all","High blood pressure","",5
+"196","2021-10-21 12:27:41",22,"Female","Moderate",2,4,3,3,"5",155.448,66,"Walk",1,3,0,1000,30000,"2 Hour","Headache","",5
+"197","2021-10-21 12:35:53",25,"Male","Sedentary",3,8,6,5,"4",188.976,110,"Walk",1,1,1,300,60000,"1 Hour","No","",3
+"198","2021-10-21 12:40:30",23,"Male","Hardwork",9,3,7,8,"3",179.832,73,"Walk, Run, Weight lifting, Outdoor Games",2,2,1,0,20000,"Not at all","No","",4
+"199","2021-10-21 13:03:39",21,"Male","Hardwork",2,1,2,3,"4",170.688,56,"Walk, Swim",1,2,0,100,15000,"Not at all","No","",4
+"200","2021-10-21 13:35:20",22,"Male","Hardwork",2,4,1,1,"5+",170.688,56,"Outdoor Games",3,3,1,200,300000,"Not at all","No","",4
+"201","2021-10-21 14:05:12",30,"Female","Moderate",3,3,3,3,"5",152.4,93,"Walk, Dance, Weight lifting",2,2,1,500,2000,"2 Hour","Rice","No",2
+"202","2021-10-21 15:37:13",42,"Male","Moderate",9,2,5,9,"5",182.88,99,"Walk, Others",1,3,0,1500,100000,"Not at all","High Cholesterol","",3
+"203","2021-10-21 15:43:06",23,"Male","Hardwork",9,7,10,8,"5",155.448,78,"Walk, Outdoor Games, Others",4,4,4,1000,35000,"Not at all","No","Good",4
+"204","2021-10-23 20:09:06",19,"Male","Hardwork",10,7,10,10,"5",155.448,72,"Run, Swim, Outdoor Games",1,2,3,0,20000,"Not at all","no","",5
+"205","2021-10-24 15:00:24",26,"Male","Moderate",7,5,7,10,"5",155.448,92,"Outdoor Games",2,4,3,1000,15000,"Not at all","No","Field study is a important to any research work...it's a process of data collection in a right way...keep it up...good job...",5
+"206","2021-10-25 15:33:06",24,"Female","Moderate",2,3,1,1,"4",170.688,57,"Walk",1,1,1,1500,15000,"Not at all","No","",4
+"207","2021-10-29 11:32:22",23,"Male","Moderate",6,5,8,6,"5",192.024,92,"Walk, Run",2,3,2,500,15000,"Not at all","No","",4
+"208","2021-10-29 11:33:31",31,"Male","Sedentary",10,5,2,2,"4",164.592,50,"Not interested",0,2,0,0,18000,"Not at all","No","Good",3
+"209","2021-10-29 11:34:03",27,"Male","Hardwork",2,1,3,2,"4",182.88,61.5,"Outdoor Games",1,2,0,1000,65000,"Not at all","No","Good question available here",3
+"210","2021-10-29 11:45:54",23,"Male","Hardwork",7,2,10,10,"5",164.592,55,"Walk",1,3,0,500,5000,"1 Hour","No","",4
+"211","2021-10-29 11:50:48",19,"Female","Moderate",7,5,9,8,"4",158.496,48,"Others",3,5,2,0,10000,"Not at all","No","Ok ",4
+"212","2021-10-29 11:57:06",24,"Male","Moderate",3,3,3,3,"4",179.832,63,"Walk",1,2,0,0,35000,"Not at all","No","",4
+"213","2021-10-29 11:57:07",20,"Male","Sedentary",3,3,3,2,"5",182,60,"Outdoor Games",0,0,1,2000,600000,"Not at all","No","",3
+"214","2021-10-29 11:57:43",20,"Male","Hardwork",4,1,1,1,"4",173.736,70,"Walk, Run, Weight lifting, Others",0,0,0,1000,36000,"1 Hour","Yes in runny nose👃💦","",5
+"215","2021-10-29 11:58:12",19,"Male","Moderate",6,6,8,5,"4",173.736,62,"Outdoor Games",1,4,3,0,40000,"Not at all","cold and cough ","",4
+"216","2021-10-29 11:58:24",20,"Male","Moderate",1,1,2,1,"4",170.688,85,"Run",1,2,1,2000,25000,"Not at all","Yes.Masturbation problem and general weakness ","",5
+"217","2021-10-29 11:58:43",21,"Male","Hardwork",4,2,4,4,"5",176.784,75,"Walk, Run",2,2,2,0,48000,"Not at all","Gas","",4
+"218","2021-10-29 12:02:07",18,"Female","Hardwork",4,3,4,4,"4",161.544,50,"Others",3,0,2,0,100000,"Not at all","No","",3
+"219","2021-10-29 12:04:10",22,"Male","Moderate",4,4,4,4,"5",173.736,74,"Outdoor Games",1,4,0,0,50000,"Not at all","No","",4
+"220","2021-10-29 12:05:30",20,"Female","Hardwork",3,3,4,4,"4",161.544,61,"Walk, Others",1,3,1,0,30000,"Not at all","No","I would really appreciate if you could share your project with us after finishing your analysis and inferences.",5
+"221","2021-10-29 12:09:32",20,"Male","Moderate",3,3,4,4,"4",170.688,70,"Walk, Run, Outdoor Games",2,3,2,200,50000,"Not at all","No","Good",5
+"222","2021-10-29 12:21:14",18,"Male","Moderate",3,3,3,3,"2",164.592,54,"Walk, Run, Outdoor Games, Others",1,2,1,500,30000,"Not at all","No","",4
+"223","2021-10-29 12:27:48",18,"Male","Sedentary",8,10,7,6,"5",167.64,65,"Walk, Run, Outdoor Games, Others",2,3,1,5000,550000,"Not at all","No","",5
+"225","2021-10-29 12:31:50",23,"Male","Moderate",6,7,8,9,"5",176.784,80,"Walk",2,3,4,300,30000,"Not at all","Yes, cold","",4
+"226","2021-10-29 12:32:20",17,"Female","Moderate",6,6,10,10,"5",161.544,64,"Dance, Others",1,2,0,500,60000,"Not at all","Ovary sist","",4
+"227","2021-10-29 12:34:51",17,"Female","Hardwork",7,6,7,10,"5+",158.496,36,"Dance",5,5,5,2500,35500,"Not at all","10","Good",5
+"228","2021-10-29 12:36:48",29,"Female","Hardwork",8,6,10,8,"5",158.496,50,"Others",2,5,2,500,30000,"Not at all","No","",4
+"229","2021-10-29 12:37:37",21,"Female","Moderate",1,3,1,3,"2",167.64,67,"Walk, Others",1,2,0,0,300000,"Not at all","Painful periods, digestion","",5
+"230","2021-10-29 12:49:09",18,"Male","Moderate",7,8,3,5,"4",167.64,57,"Walk",2,2,4,1500,20000,"Not at all","No","",5
+"231","2021-10-29 12:53:05",20,"Female","Moderate",6,7,3,8,"3",164.592,39,"Walk",0,2,0,0,50000,"Not at all","No","",5
+"232","2021-10-29 12:53:22",17,"Female","Hardwork",10,10,10,10,"5",152.4,40,"Walk",5,5,5,1000,21000,"1 Hour","No","",5
+"233","2021-10-29 12:53:23",24,"Male","Moderate",3,2,3,2,"4",167.64,64,"Walk",0,2,0,0,5600,"Not at all","No","",5
+"234","2021-10-29 13:00:06",18,"Male","Moderate",7,1,9,10,"5",179.832,58,"Weight lifting, Outdoor Games",1,2,0,4000,70000,"1 Hour","No","It's awesome",5
+"235","2021-10-29 13:13:19",20,"Female","Hardwork",7,9,9,10,"4",170.688,58,"Walk",2,3,0,1000,1560000,"1 Hour","Headache","",4
+"236","2021-10-29 13:21:48",27,"Male","Moderate",6,5,7,3,"5",173.736,65,"Walk, Others",0,4,3,0,240000,"Not at all","Allergy ","",4
+"237","2021-10-29 13:39:18",17,"Female","Hardwork",5,10,9,10,"4",167.64,59,"Walk, Dance",1,2,1,1000,100000,"Not at all","No","",5
+"238","2021-10-29 14:01:19",21,"Male","Hardwork",4,2,4,3,"4",176.784,67,"Walk, Run, Outdoor Games, Others",1,3,3,100,40000,"Not at all","No","",3
+"239","2021-10-29 14:02:08",30,"Male","Moderate",3,2,3,4,"5",176.784,82,"Run, Outdoor Games, Others",1,2,1,1200,50000,"Not at all","Cold, dust allergic ","Very good ",4
+"240","2021-10-29 17:22:09",19,"Female","Hardwork",4,4,4,4,"4",161.544,55,"Run",3,3,3,4000,80000,"2 Hour","No","Nothing",5
+"241","2021-10-29 19:40:14",19,"Male","Moderate",3,2,4,3,"4",155.448,66,"Walk, Run, Others",2,2,1,1000,50000,"Not at all","No","",3
+"242","2021-10-29 21:18:38",20,"Male","Moderate",6,10,7,6,"5",177,64,"Walk, Run, Outdoor Games, Others",0,1,1,0,21000,"Not at all","Nope","",5
+"243","2021-10-29 21:28:43",22,"Male","Moderate",3,1,3,3,"5+",155.448,64,"Others",1,1,1,450,60000,"Not at all","No","",4
+"244","2021-10-29 21:30:40",19,"Female","Hardwork",10,5,10,10,"5+",152.4,50,"Others",2,5,1,3000,30000,"Not at all","No","Thank you",5
+"245","2021-10-29 22:06:39",20,"Female","Moderate",3,4,4,4,"5+",149.352,45,"Dance",1,2,1,700,30000,"2 Hour","No","",4
+"246","2021-10-29 22:42:33",18,"Male","Hardwork",3,3,3,3,"5",167.64,49,"Walk, Run, Outdoor Games",2,2,2,1000,200000,"Not at all","No","Ok",3
+"247","2021-10-29 23:06:06",19,"Female","Hardwork",1,2,4,2,"5+",161.544,41,"Walk",2,2,1,0,600000,"Not at all","Anxiety, Depression","Try asking something about time of meal, will it help in your survey?!",5
+"248","2021-10-29 23:48:05",20,"Male","Moderate",9,6,10,8,"5",170.688,52,"Walk",1,3,0,1500,60000,"Not at all","No",".",4
+"249","2021-10-30 06:36:45",55,"Female","Sedentary",2,2,3,3,"4",167.64,64,"Walk, Others",1,2,0,500,15000,"Not at all","No","",3
+"250","2021-10-30 15:51:53",23,"Male","Hardwork",7,1,2,4,"4",182.88,78,"Walk, Run, Dance, Others",0,2,0,4000,30000,"Not at all","No","Work preference question is not clear to me. I consider it how hard working are you and answered.",4
+"251","2021-10-31 15:59:53",23,"Male","Moderate",4,3,3,4,"1",173.736,54,"Walk, Run, Swim",2,2,1,3000,20000,"1 Hour","No","",4
+"252","2021-10-31 16:12:34",23,"Male","Moderate",4,4,4,4,"4",164.592,65,"Others",2,1,2,0,12000,"Not at all","No","Nice project 👍",5
+"253","2021-11-01 10:52:26",30,"Male","Moderate",2,2,2,2,"3",176.784,70,"Walk",0,1,0,0,30000,"Not at all","Allergies","Ok",2
+"254","2021-11-02 07:36:14",19,"Male","Moderate",6,1,7,7,"3",167.64,78,"Run, Others",1,2,2,0,30000,"Not at all","No","",5
+"255","2021-11-06 10:46:54",21,"Female","Hardwork",2,1,2,2,"5+",167.64,56,"Walk",1,1,1,20,35500,"Not at all","asidity","",5
+"256","2021-11-06 14:14:40",21,"Female","Hardwork",1,1,1,1,"5+",167.64,56,"Walk",2,2,0,20,1000,"1 Hour","asidity","good",2
+"257","2021-11-06 15:07:09",21,"Female","Hardwork",2,1,3,2,"4",152.4,56,"Others",1,1,2,2000,15000,"Not at all","No","",5
+"258","2021-11-06 17:37:15",23,"Female","Moderate",3,2,3,2,"5",155.448,43,"Not interested",2,1,1,2000,50000,"Not at all","Yes, Hypothyroidism","",3
