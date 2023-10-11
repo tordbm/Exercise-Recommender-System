@@ -36,7 +36,12 @@ class RecSysApp:
         file_path = "recommended.csv"
         try:
             df = pd.read_csv(file_path)
-            csv_text = df.to_string(index=False)
+            column_order = ["Title", "similarity"]
+            df = df[column_order]
+            csv_text = df.to_string(index=False, header=True, justify='center', formatters={
+                "Title": "{:<50}".format,
+                "similarity": "{:0}".format
+            })
             self.text.config(state="normal") 
             self.text.delete(1.0, tk.END) 
             self.text.insert(tk.END, csv_text)
@@ -64,6 +69,7 @@ class RecSysApp:
 
 if __name__ == "__main__":
     root = tk.Tk()
+    root.title('Exercise Recommender System')
     root.geometry("800x600")
     app = RecSysApp(root)
     root.mainloop()
