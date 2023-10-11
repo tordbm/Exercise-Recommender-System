@@ -1,51 +1,50 @@
-# %%
-import pandas as pd
-import matplotlib.pyplot as plt
 
-# %%
+import pandas as pd
+""" import matplotlib.pyplot as plt """
+
+
 # Importing the dataset
 df = pd.read_csv("megaGymDataset.csv")
 df = df.rename(columns={'Unnamed: 0': 'index'})
 df
 
-# %%
+
 #Cheking if there is any NULL or missing values
 df.isna().sum()
 
-# %%
+
 # DATA ANALYSIS
 
 # Some exercises has the same title - Should remove duplicates?
 # df = df.drop_duplicates('Title', keep='last')
 df['Title'].value_counts()
 
-# %%
-# Sorted bv level
+
+""" # Sorted bv level
 df['Level'].value_counts().plot.barh()
 
-# %%
+
 # sorted by type
 df['Type'].value_counts().plot.barh()
 
-# %%
+
 # sorted by bodypart
-df['BodyPart'].value_counts().plot.barh()
+df['BodyPart'].value_counts().plot.barh() """
 
-# %%
+
 # top rated exercises
-ratingSorted= df.sort_values(by='Rating',ascending=False)
-ratingSorted =ratingSorted.head(10)
-ratingSorted
+ratingSorted = df.sort_values(by='Rating',ascending=False)
+ratingSorted = ratingSorted.head(10)
 
-# %%
+
 # Prints the row of the given Title to find the index
 print(df[df["Title"] == "Bench press"])
 df.loc[df['Title'] == "Bench press", 'Rating'] = 10
 print(df[df["Title"] == "Bench press"])
 
-# %%
-import matplotlib.pyplot as plt
 
+""" import matplotlib.pyplot as plt """
+""" 
 # Your code to create the bar chart
 plt.figure(figsize=(6, 6))
 df['Rating'].value_counts().plot.barh()
@@ -55,12 +54,9 @@ plt.xlabel('Amount')
 
 # Add labels at the highest and lowest data points on the y-axis
 plt.text(-5, 70, 0, ha='center')
-plt.text(-5, 0, 10, ha='center')
-
-plt.show()
+plt.text(-5, 0, 10, ha='center') """
 
 
-# %%
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.neighbors import KNeighborsRegressor
@@ -145,8 +141,8 @@ print("Nonvalues rating etter",df["Rating"].isna().sum())
 filtered_df = df[df["Rating"] == 0]
 print(len(filtered_df))
 
-# %%
-import matplotlib.pyplot as plt
+
+""" import matplotlib.pyplot as plt
 
 # Your code to create the bar chart
 plt.figure(figsize=(6, 6))
@@ -159,17 +155,17 @@ plt.xlabel('Amount')
 plt.text(-5, 172, 0, ha='center')
 plt.text(-5, 0, 10, ha='center')
 
-plt.show()
+plt.show() """
 
 
-# %%
+
 #print(x["Rating"])
 #import numpy as np
 #print(x["Rating"].dtypes)
 #x = x[x["Rating"].isna()]
 #print(x["Rating"])
 
-# %%
+
 # Removing columns with lots of nonvalues
 #df = df.drop('Rating', axis=1)
 df = df.drop('RatingDesc', axis=1)
@@ -181,11 +177,11 @@ df.pop(df.columns[0])
 
 
 
-# %%
+
 # Checking datatypes
 df.dtypes
 
-# %%
+
 # Merging columns for cosign similarity and dropping excess columns
 df["Merged"] = df["Type"].astype(str) + '|' + \
   df["BodyPart"].astype(str) + '|' + df["Equipment"].astype(str) + '|' + \
@@ -196,11 +192,11 @@ df = df.drop('BodyPart', axis=1)
 df = df.drop('Equipment', axis=1)
 df = df.drop('Level', axis=1)
 
-# %%
+
 # The merged columns
 df["Merged"]
 
-# %%
+
 # Converting values of the merged column into vectors
 
 from sklearn.feature_extraction.text import CountVectorizer
@@ -209,21 +205,21 @@ count_matrix = count.fit_transform(df.loc[:,"Merged"])
 
 liste = count_matrix.toarray()
 
-# %%
+
 # Cosine similarity
 from sklearn.metrics.pairwise import cosine_similarity
 sim_matrix = cosine_similarity(count_matrix, count_matrix)
 
-# %%
+
 #sim_matrix
 
-# %%
+
 # Resetting the index to avoid indexing errors and NAN values in recommender
 # This makes the previous indexes invalid
 # "drop" avoids adding the old index as a column
 df = df.reset_index(drop = False)
 
-# %%
+
 def recommender(data_frame, exercise_id, sim_matrix):
     sim_df = pd.DataFrame(sim_matrix[exercise_id],
                          columns=["similarity"])
@@ -234,33 +230,38 @@ def recommender(data_frame, exercise_id, sim_matrix):
 
     return exercise_rec.iloc[1:20,:]
 
-# %%
+
 # Prints the row of the given Title to find the index
-row = df[df["Title"] == "Bench press"]
+with open('entries.txt', 'r') as file:
+  entry = file.readline()
+row = df[df["Title"] == entry]
+print(row)
 index = row.index
 
-# %%
-# Exercises similar to bench press
-recommender(df, index[0], sim_matrix)
 
-# %%
+# Exercises similar to bench press
+df_recommended = recommender(df, index[0], sim_matrix)
+
+df_recommended.to_csv('recommended.csv', index=False)
+
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
 
-# %%
+
 tfidf = TfidfVectorizer(stop_words="english")
 overview_matrix = tfidf.fit_transform(df["Desc"])
 overview_matrix.shape
 
-# %%
+
 similarity_matrix = linear_kernel(overview_matrix, overview_matrix)
 print(similarity_matrix[0:5,0:5])
 
-# %%
+
 mapping = pd.Series(df.index, index = df["Desc"])
 mapping
 
-# %%
+
 def recommender_by_desc(exercise_input):
     exercise_index = mapping[exercise_input]
     similarity_score = list(enumerate(similarity_matrix[exercise_index]))
@@ -270,12 +271,7 @@ def recommender_by_desc(exercise_input):
     exercise_indices = [i[0] for i in similarity_score]
     return df["Title"].iloc[exercise_indices]
 
-# %%
+
 recommender_by_desc(df["Desc"][0])
 
-# %%
-df_users = pd.read_csv('user_exercise_ratings.csv')
-
-df_users.head()
-
-
+print('Done')

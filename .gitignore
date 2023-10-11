@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# local files
+entries.txt
+recommended.csv
+
 # C extensions
 *.so
 
