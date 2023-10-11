@@ -1,5 +1,6 @@
 import tkinter as tk
 import threading
+import subprocess
 import pandas as pd
 
 class RecSysApp:
@@ -53,7 +54,6 @@ class RecSysApp:
         self.display.config(text=f"You entered: {entered}")
 
     def run_rec_sys(self):
-        import subprocess
         self.label = tk.Label(self.root, text="Running recommendation...")
         self.label.pack()
         subprocess.run(["python", "notebook_to_script.py"])
