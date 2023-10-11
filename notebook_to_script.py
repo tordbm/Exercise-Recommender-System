@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 # %%
 # Importing the dataset
 df = pd.read_csv("megaGymDataset.csv")
+df = df.rename(columns={'Unnamed: 0': 'index'})
 df
 
 # %%
@@ -37,11 +38,144 @@ ratingSorted =ratingSorted.head(10)
 ratingSorted
 
 # %%
+# Prints the row of the given Title to find the index
+print(df[df["Title"] == "Bench press"])
+df.loc[df['Title'] == "Bench press", 'Rating'] = 10
+print(df[df["Title"] == "Bench press"])
+
+# %%
+import matplotlib.pyplot as plt
+
+# Your code to create the bar chart
+plt.figure(figsize=(6, 6))
+df['Rating'].value_counts().plot.barh()
+plt.yticks([])
+plt.ylabel('Rating')
+plt.xlabel('Amount')
+
+# Add labels at the highest and lowest data points on the y-axis
+plt.text(-5, 70, 0, ha='center')
+plt.text(-5, 0, 10, ha='center')
+
+plt.show()
+
+
+# %%
+from sklearn.model_selection import train_test_split
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.metrics import confusion_matrix
+from copy import deepcopy
+import numpy as np
+
+# Datasett for trening. Gjør om strenger til kategorier (int)
+x = deepcopy(df)
+x = x.drop(["Title"], axis = 1)
+x = x.drop(["Desc"], axis = 1)
+x = x.drop(["RatingDesc"], axis = 1)
+x['Level'] = pd.factorize(x['Level'])[0]
+x['Type'] = pd.factorize(x['Type'])[0]
+x['BodyPart'] = pd.factorize(x['BodyPart'])[0]
+x['Equipment'] = pd.factorize(x['Equipment'])[0]
+x = x[x['Rating'].notna()]
+x = x[df["Rating"] != 0]
+# Verdier som skal predikeres, brukes for trening og testing
+y = x["Rating"]
+#y = y.round(0)
+#y = y.astype(int)
+x = x.drop(["Rating"], axis = 1)
+#y=y.replace(0,1)
+#y=y.replace(0.0,1)
+#y=y.replace(np.nan,1)
+
+# Train test split
+X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=3)
+
+# Grid search for å finne beste params
+from sklearn.model_selection import GridSearchCV
+'''
+param_grid = {
+    'n_neighbors': [3,5,7,9,11,13,15,17],
+    'p': [1, 2]
+}
+grid_search = GridSearchCV(estimator=KNeighborsClassifier(), param_grid=param_grid, scoring='accuracy', cv=5)
+grid_search.fit(X_train, y_train)
+params = grid_search.best_params_
+'''
+param_grid = {
+    'n_neighbors': [3,5,7,9,11,13,15,17],
+    'p': [1, 2]
+}
+grid_search = GridSearchCV(estimator=KNeighborsRegressor(), param_grid=param_grid, scoring='accuracy', cv=5)
+grid_search.fit(X_train, y_train)
+params = grid_search.best_params_
+print(params)
+
+# Traiing
+knn = KNeighborsRegressor(n_neighbors = params['n_neighbors'], p = params["p"])
+knn.fit(X_train, y_train)
+
+
+# Ny variabel X. Alle rader fra dataframe som ikke har rating
+x = deepcopy(df)
+# Ekskluderer øvelser med ratings
+x = x[x["Rating"].isna()]
+
+# Gjør om strenger til kategorier (int) for prediction
+x = x.drop(["Rating"], axis = 1)
+x = x.drop(["Title"], axis = 1)
+x = x.drop(["Desc"], axis = 1)
+x = x.drop(["RatingDesc"], axis = 1)
+x['Level'] = pd.factorize(x['Level'])[0]
+x['Type'] = pd.factorize(x['Type'])[0]
+x['BodyPart'] = pd.factorize(x['BodyPart'])[0]
+x['Equipment'] = pd.factorize(x['Equipment'])[0]
+
+# Antall nonvalues
+print("Nonvalues rating før:",df["Rating"].isna().sum())
+
+# Predikerer en rating for hver rad i dataframe som ikke har rating
+for index, row in x.iterrows():
+    rating = knn.predict([row])
+    #print(row["index"], rating)
+    df.loc[df['index'] == index, 'Rating'] = rating
+
+print("Nonvalues rating etter",df["Rating"].isna().sum())
+
+filtered_df = df[df["Rating"] == 0]
+print(len(filtered_df))
+
+# %%
+import matplotlib.pyplot as plt
+
+# Your code to create the bar chart
+plt.figure(figsize=(6, 6))
+df['Rating'].value_counts().plot.barh()
+plt.yticks([])
+plt.ylabel('Rating')
+plt.xlabel('Amount')
+
+# Add labels at the highest and lowest data points on the y-axis
+plt.text(-5, 172, 0, ha='center')
+plt.text(-5, 0, 10, ha='center')
+
+plt.show()
+
+
+# %%
+#print(x["Rating"])
+#import numpy as np
+#print(x["Rating"].dtypes)
+#x = x[x["Rating"].isna()]
+#print(x["Rating"])
+
+# %%
 # Removing columns with lots of nonvalues
-df = df.drop('Rating', axis=1)
+#df = df.drop('Rating', axis=1)
 df = df.drop('RatingDesc', axis=1)
 # Removing all rows containing nonvalues in description
 df = df[df['Desc'].notna()]
+#df = df[df['Rating'].notna()]
 # Removing ID column
 df.pop(df.columns[0])
 
@@ -102,11 +236,12 @@ def recommender(data_frame, exercise_id, sim_matrix):
 
 # %%
 # Prints the row of the given Title to find the index
-print(df[df["Title"] == "Bench press"])
+row = df[df["Title"] == "Bench press"]
+index = row.index
 
 # %%
 # Exercises similar to bench press
-recommender(df, 454, sim_matrix)
+recommender(df, index[0], sim_matrix)
 
 # %%
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -137,3 +272,10 @@ def recommender_by_desc(exercise_input):
 
 # %%
 recommender_by_desc(df["Desc"][0])
+
+# %%
+df_users = pd.read_csv('user_exercise_ratings.csv')
+
+df_users.head()
+
+
