@@ -1,6 +1,7 @@
 import tkinter as tk
-import threading
-import subprocess
+from threading import Thread
+from subprocess import run
+from tabulate import tabulate
 import pandas as pd
 
 class RecSysApp:
@@ -16,7 +17,8 @@ class RecSysApp:
 
         self.entry = tk.Entry(self.root)
         self.entry.pack()
-
+        self.entry.focus()
+        
         self.display = tk.Label(self.root, text="")
         self.display.pack()
 
@@ -34,15 +36,14 @@ class RecSysApp:
         file_path = "recommended.csv"
         try:
             df = pd.read_csv(file_path)
-            column_order = ["Title", "similarity"]
+            df = df.rename(columns={"Title": "Exercise Name", "similarity": "Similarity Score"})
+            column_order = ["Exercise Name", "Similarity Score"]
             df = df[column_order]
-            csv_text = df.to_string(index=False, header=True, justify='center', formatters={
-                "Title": "{:<50}".format,
-                "similarity": "{:0}".format
-            })
+            data = df.to_dict(orient='records')
+            table = tabulate(data, headers='keys', tablefmt='fancy_grid')
             self.text.config(state="normal") 
             self.text.delete(1.0, tk.END) 
-            self.text.insert(tk.END, csv_text)
+            self.text.insert(tk.END, table)
             self.text.config(state="disabled") 
         except Exception as e:
             self.text.config(state="normal") 
@@ -60,7 +61,7 @@ class RecSysApp:
         self.label = tk.Label(self.root, text="Running recommendation...")
         self.label.pack()
         try:
-            subprocess.run(["python", "notebook_to_script.py"])
+           run(["python", "notebook_to_script.py"])
         except Exception as e:
             self.text.config(state="normal") 
             self.text.delete(1.0, tk.END)
@@ -71,13 +72,27 @@ class RecSysApp:
     
     def start_run_rec_sys(self):
         if self.entry.get() == '':
+            self.text.config(state="normal") 
+            self.text.delete(1.0, tk.END)
+            self.text.insert(tk.END, "%sPlease enter an exercise" % (" "*45))
+            self.text.config(state="disabled")
             return
-        threading.Thread(target=self.run_rec_sys).start()
+        Thread(target=self.run_rec_sys).start()
+
+def center_window(root, width, height):
+    screen_width = root.winfo_screenwidth()
+    screen_height = root.winfo_screenheight()
+    
+    x = (screen_width - width) // 2
+    y = (screen_height - height) // 2
+    
+    root.geometry(f"{width}x{height}+{x}+{y}")
+    
 
 if __name__ == "__main__":
     root = tk.Tk()
     root.title('Exercise Recommender System')
-    root.geometry("800x600")
+    center_window(root, 800, 650)
     root.resizable(width=False, height=False)
     app = RecSysApp(root)
     root.mainloop()
