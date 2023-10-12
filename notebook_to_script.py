@@ -6,8 +6,6 @@ import pandas as pd
 # Importing the dataset
 df = pd.read_csv("megaGymDataset.csv")
 df = df.rename(columns={'Unnamed: 0': 'index'})
-df
-
 
 #Cheking if there is any NULL or missing values
 df.isna().sum()
@@ -38,9 +36,7 @@ ratingSorted = ratingSorted.head(10)
 
 
 # Prints the row of the given Title to find the index
-print(df[df["Title"] == "Bench press"])
 df.loc[df['Title'] == "Bench press", 'Rating'] = 10
-print(df[df["Title"] == "Bench press"])
 
 
 """ import matplotlib.pyplot as plt """
@@ -105,7 +101,6 @@ param_grid = {
 grid_search = GridSearchCV(estimator=KNeighborsRegressor(), param_grid=param_grid, scoring='accuracy', cv=5)
 grid_search.fit(X_train, y_train)
 params = grid_search.best_params_
-print(params)
 
 # Traiing
 knn = KNeighborsRegressor(n_neighbors = params['n_neighbors'], p = params["p"])
@@ -127,8 +122,6 @@ x['Type'] = pd.factorize(x['Type'])[0]
 x['BodyPart'] = pd.factorize(x['BodyPart'])[0]
 x['Equipment'] = pd.factorize(x['Equipment'])[0]
 
-# Antall nonvalues
-print("Nonvalues rating før:",df["Rating"].isna().sum())
 
 # Predikerer en rating for hver rad i dataframe som ikke har rating
 for index, row in x.iterrows():
@@ -136,10 +129,7 @@ for index, row in x.iterrows():
     #print(row["index"], rating)
     df.loc[df['index'] == index, 'Rating'] = rating
 
-print("Nonvalues rating etter",df["Rating"].isna().sum())
-
 filtered_df = df[df["Rating"] == 0]
-print(len(filtered_df))
 
 
 """ import matplotlib.pyplot as plt
@@ -179,7 +169,6 @@ df.pop(df.columns[0])
 
 
 # Checking datatypes
-df.dtypes
 
 
 # Merging columns for cosign similarity and dropping excess columns
@@ -194,7 +183,6 @@ df = df.drop('Level', axis=1)
 
 
 # The merged columns
-df["Merged"]
 
 
 # Converting values of the merged column into vectors
@@ -231,12 +219,17 @@ def recommender(data_frame, exercise_id, sim_matrix):
     return exercise_rec.iloc[1:20,:]
 
 
-# Prints the row of the given Title to find the index
+# Sets the index of the input from txt file
 with open('entries.txt', 'r') as file:
   entry = file.readline()
-row = df[df["Title"] == entry]
-print(row)
-index = row.index
+if entry in df['Title'].values:
+    row = df[df["Title"] == entry]
+    index = row.index
+else:
+    print(f"{entry} not found in dataframe")
+    df_empty = pd.DataFrame()
+    df_empty.to_csv('recommended.csv', index=False)
+    quit()
 
 
 # Exercises similar to bench press
@@ -251,15 +244,12 @@ from sklearn.metrics.pairwise import linear_kernel
 
 tfidf = TfidfVectorizer(stop_words="english")
 overview_matrix = tfidf.fit_transform(df["Desc"])
-overview_matrix.shape
 
 
 similarity_matrix = linear_kernel(overview_matrix, overview_matrix)
-print(similarity_matrix[0:5,0:5])
 
 
 mapping = pd.Series(df.index, index = df["Desc"])
-mapping
 
 
 def recommender_by_desc(exercise_input):

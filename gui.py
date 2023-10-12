@@ -29,8 +29,6 @@ class RecSysApp:
     def display_recommended(self):
         self.text = tk.Text(self.root, state="disabled")
         self.text.pack(fill="both", expand=True)
-        self.display_button = tk.Button(self.root, text="Load recommendations", command=self.load_csv)
-        self.display_button.pack()
 
     def load_csv(self):
         file_path = "recommended.csv"
@@ -49,7 +47,7 @@ class RecSysApp:
         except Exception as e:
             self.text.config(state="normal") 
             self.text.delete(1.0, tk.END)
-            self.text.insert(tk.END, f"Error: {str(e)}")
+            self.text.insert(tk.END, f"Error: No exercise named {self.entry.get()} in dataset. Please enter a different exercise.")
             self.text.config(state="disabled") 
     
     def handle_entry(self):
@@ -61,15 +59,25 @@ class RecSysApp:
     def run_rec_sys(self):
         self.label = tk.Label(self.root, text="Running recommendation...")
         self.label.pack()
-        subprocess.run(["python", "notebook_to_script.py"])
+        try:
+            subprocess.run(["python", "notebook_to_script.py"])
+        except Exception as e:
+            self.text.config(state="normal") 
+            self.text.delete(1.0, tk.END)
+            self.text.insert(tk.END, f"Error: {str(e)}")
+            self.text.config(state="disabled")
+        self.load_csv() 
         self.label.destroy()
     
     def start_run_rec_sys(self):
+        if self.entry.get() == '':
+            return
         threading.Thread(target=self.run_rec_sys).start()
 
 if __name__ == "__main__":
     root = tk.Tk()
     root.title('Exercise Recommender System')
     root.geometry("800x600")
+    root.resizable(width=False, height=False)
     app = RecSysApp(root)
     root.mainloop()
