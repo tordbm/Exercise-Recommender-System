@@ -123,7 +123,7 @@ def recommender(data_frame, exercise_id, sim_matrix):
 with open('entries.txt', 'r') as file:
   entry = file.readline()
 if entry.lower() in df['Title'].str.lower().values:
-    row = df[df['Title'].str.lower() == entry]
+    row = df[df['Title'].str.lower() == entry.lower()]
     index = row.index
 else:
     print(f"{entry} not found in dataframe")
@@ -135,6 +135,7 @@ df_by_cat = recommender(df, index[0], sim_matrix)
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
+import numpy as np
 
 tfidf = TfidfVectorizer(stop_words="english")
 overview_matrix = tfidf.fit_transform(df["Desc"])
@@ -143,21 +144,21 @@ similarity_matrix = linear_kernel(overview_matrix, overview_matrix)
 
 mapping = pd.Series(df.index, index = df["Desc"])
 
-def recommender_by_desc(exercise_input):
+def recommender_by_desc(exercise_input, df, similarity_matrix, mapping):
     exercise_index = mapping[exercise_input]
+    if not isinstance(exercise_index, np.int64):
+        exercise_index = exercise_index[0]
     similarity_score = list(enumerate(similarity_matrix[exercise_index]))
-    score = []
-    for tup in similarity_score:
-        score.append(tup[1])
-
+    score = [tup[1] for tup in similarity_score]
     exercise_indices = [i[0] for i in similarity_score]
     df2 = df["Title"].iloc[exercise_indices].to_frame()
     df2["Similarity"] = score
     return df2
-df_by_desc = recommender_by_desc(df["Desc"][index[0]])
+
+df_by_desc = recommender_by_desc(df["Desc"].iloc[index[0]], df, similarity_matrix, mapping)
 
 merged_df = df_by_cat.copy()
-merged_df["Similarity"] = df_by_cat.apply(lambda row: (row["Similarity"] + df_by_desc.loc[row.name, "Similarity"]) / 2, axis=1)
+merged_df["Similarity"] = (df_by_cat["Similarity"] + df_by_desc["Similarity"]) / 2
 merged_df = merged_df.sort_values(by=["Similarity"], ascending = False)
 merged_df[0:10].to_csv("recommended.csv")
 print("Done")
