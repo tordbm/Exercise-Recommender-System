@@ -8,6 +8,8 @@ class RecSysApp:
 
     def __init__(self, root):
         self.root = root
+    
+    def run_app(self):
         self.create_graphics()
         self.display_recommended()
 
@@ -22,8 +24,8 @@ class RecSysApp:
         self.display = tk.Label(self.root, text="")
         self.display.pack()
 
-        self.update_display = tk.Button(self.root, text="Submit", command=self.handle_entry)
-        self.update_display.pack()
+        self.submit_button = tk.Button(self.root, text="Submit", command=self.handle_entry)
+        self.submit_button.pack()
 
         self.run_button = tk.Button(self.root, text="Run recommender", command=self.start_run_rec_sys)
         self.run_button.pack()
@@ -95,4 +97,5 @@ if __name__ == "__main__":
     center_window(root, 800, 650)
     root.resizable(width=False, height=False)
     app = RecSysApp(root)
+    app.run_app()
     root.mainloop()
