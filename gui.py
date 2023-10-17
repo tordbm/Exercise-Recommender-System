@@ -17,7 +17,7 @@ class RecSysApp:
     def create_graphics(self):
         ttk.Style().configure("TButton", padding=6, relief="flat",
         background="#ccc")
-        self.label = ttk.Label(self.root, text="Enter your text:")
+        self.label = ttk.Label(self.root, text="Enter an exercise:")
         self.label.pack()
 
         self.entry = ttk.Entry(self.root)
