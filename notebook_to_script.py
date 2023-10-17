@@ -1,64 +1,17 @@
 
 import pandas as pd
-""" import matplotlib.pyplot as plt """
-
 
 # Importing the dataset
 df = pd.read_csv("megaGymDataset.csv")
 df = df.rename(columns={'Unnamed: 0': 'index'})
 
-#Cheking if there is any NULL or missing values
-df.isna().sum()
-
-
-# DATA ANALYSIS
-
-# Some exercises has the same title - Should remove duplicates?
-# df = df.drop_duplicates('Title', keep='last')
-df['Title'].value_counts()
-
-
-""" # Sorted bv level
-df['Level'].value_counts().plot.barh()
-
-
-# sorted by type
-df['Type'].value_counts().plot.barh()
-
-
-# sorted by bodypart
-df['BodyPart'].value_counts().plot.barh() """
-
-
 # top rated exercises
-ratingSorted = df.sort_values(by='Rating',ascending=False)
+ratingSorted= df.sort_values(by='Rating',ascending=False)
 ratingSorted = ratingSorted.head(10)
 
-
-# Prints the row of the given Title to find the index
-df.loc[df['Title'] == "Bench press", 'Rating'] = 10
-
-
-""" import matplotlib.pyplot as plt """
-""" 
-# Your code to create the bar chart
-plt.figure(figsize=(6, 6))
-df['Rating'].value_counts().plot.barh()
-plt.yticks([])
-plt.ylabel('Rating')
-plt.xlabel('Amount')
-
-# Add labels at the highest and lowest data points on the y-axis
-plt.text(-5, 70, 0, ha='center')
-plt.text(-5, 0, 10, ha='center') """
-
-
 from sklearn.model_selection import train_test_split
-from sklearn.neighbors import KNeighborsClassifier
 from sklearn.neighbors import KNeighborsRegressor
-from sklearn.metrics import confusion_matrix
 from copy import deepcopy
-import numpy as np
 
 # Datasett for trening. Gjør om strenger til kategorier (int)
 x = deepcopy(df)
@@ -85,15 +38,6 @@ X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_
 
 # Grid search for å finne beste params
 from sklearn.model_selection import GridSearchCV
-'''
-param_grid = {
-    'n_neighbors': [3,5,7,9,11,13,15,17],
-    'p': [1, 2]
-}
-grid_search = GridSearchCV(estimator=KNeighborsClassifier(), param_grid=param_grid, scoring='accuracy', cv=5)
-grid_search.fit(X_train, y_train)
-params = grid_search.best_params_
-'''
 param_grid = {
     'n_neighbors': [3,5,7,9,11,13,15,17],
     'p': [1, 2]
@@ -122,7 +66,6 @@ x['Type'] = pd.factorize(x['Type'])[0]
 x['BodyPart'] = pd.factorize(x['BodyPart'])[0]
 x['Equipment'] = pd.factorize(x['Equipment'])[0]
 
-
 # Predikerer en rating for hver rad i dataframe som ikke har rating
 for index, row in x.iterrows():
     rating = knn.predict([row])
@@ -131,30 +74,7 @@ for index, row in x.iterrows():
 
 filtered_df = df[df["Rating"] == 0]
 
-
-""" import matplotlib.pyplot as plt
-
-# Your code to create the bar chart
-plt.figure(figsize=(6, 6))
-df['Rating'].value_counts().plot.barh()
-plt.yticks([])
-plt.ylabel('Rating')
-plt.xlabel('Amount')
-
-# Add labels at the highest and lowest data points on the y-axis
-plt.text(-5, 172, 0, ha='center')
-plt.text(-5, 0, 10, ha='center')
-
-plt.show() """
-
-
-
-#print(x["Rating"])
-#import numpy as np
-#print(x["Rating"].dtypes)
-#x = x[x["Rating"].isna()]
-#print(x["Rating"])
-
+df_sorted = df.sort_values(by="Rating")
 
 # Removing columns with lots of nonvalues
 #df = df.drop('Rating', axis=1)
@@ -164,12 +84,6 @@ df = df[df['Desc'].notna()]
 #df = df[df['Rating'].notna()]
 # Removing ID column
 df.pop(df.columns[0])
-
-
-
-
-# Checking datatypes
-
 
 # Merging columns for cosign similarity and dropping excess columns
 df["Merged"] = df["Type"].astype(str) + '|' + \
@@ -181,10 +95,6 @@ df = df.drop('BodyPart', axis=1)
 df = df.drop('Equipment', axis=1)
 df = df.drop('Level', axis=1)
 
-
-# The merged columns
-
-
 # Converting values of the merged column into vectors
 
 from sklearn.feature_extraction.text import CountVectorizer
@@ -193,75 +103,62 @@ count_matrix = count.fit_transform(df.loc[:,"Merged"])
 
 liste = count_matrix.toarray()
 
-
 # Cosine similarity
 from sklearn.metrics.pairwise import cosine_similarity
 sim_matrix = cosine_similarity(count_matrix, count_matrix)
-
-
-#sim_matrix
-
 
 # Resetting the index to avoid indexing errors and NAN values in recommender
 # This makes the previous indexes invalid
 # "drop" avoids adding the old index as a column
 df = df.reset_index(drop = False)
 
-
 def recommender(data_frame, exercise_id, sim_matrix):
     sim_df = pd.DataFrame(sim_matrix[exercise_id],
-                         columns=["similarity"])
+                         columns=["Similarity"])
     exercise_titles = data_frame.loc[:, "Title"]
     exercise_rec = pd.concat([sim_df, exercise_titles], axis = 1)
-
-    exercise_rec = exercise_rec.sort_values(by=["similarity"], ascending = False)
-
-    return exercise_rec.iloc[1:20,:]
-
+    return exercise_rec
 
 # Sets the index of the input from txt file
 with open('entries.txt', 'r') as file:
   entry = file.readline()
-if entry in df['Title'].values:
-    row = df[df["Title"] == entry]
+if entry.lower() in df['Title'].str.lower().values:
+    row = df[df['Title'].str.lower() == entry.lower()]
     index = row.index
 else:
     print(f"{entry} not found in dataframe")
     df_empty = pd.DataFrame()
     df_empty.to_csv('recommended.csv', index=False)
     quit()
-
-
-# Exercises similar to bench press
-df_recommended = recommender(df, index[0], sim_matrix)
-
-df_recommended.to_csv('recommended.csv', index=False)
-
+    
+df_by_cat = recommender(df, index[0], sim_matrix)
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
-
+import numpy as np
 
 tfidf = TfidfVectorizer(stop_words="english")
 overview_matrix = tfidf.fit_transform(df["Desc"])
 
-
 similarity_matrix = linear_kernel(overview_matrix, overview_matrix)
-
 
 mapping = pd.Series(df.index, index = df["Desc"])
 
-
-def recommender_by_desc(exercise_input):
+def recommender_by_desc(exercise_input, df, similarity_matrix, mapping):
     exercise_index = mapping[exercise_input]
+    if not isinstance(exercise_index, np.int64):
+        exercise_index = exercise_index[0]
     similarity_score = list(enumerate(similarity_matrix[exercise_index]))
-    similarity_score = sorted(similarity_score, key=lambda x: x[1], reverse=True)
-    similarity_score = similarity_score[0:10]
-
+    score = [tup[1] for tup in similarity_score]
     exercise_indices = [i[0] for i in similarity_score]
-    return df["Title"].iloc[exercise_indices]
+    df2 = df["Title"].iloc[exercise_indices].to_frame()
+    df2["Similarity"] = score
+    return df2
 
+df_by_desc = recommender_by_desc(df["Desc"].iloc[index[0]], df, similarity_matrix, mapping)
 
-recommender_by_desc(df["Desc"][0])
-
-print('Done')
+merged_df = df_by_cat.copy()
+merged_df["Similarity"] = (df_by_cat["Similarity"] + df_by_desc["Similarity"]) / 2
+merged_df = merged_df.sort_values(by=["Similarity"], ascending = False)
+merged_df[0:10].to_csv("recommended.csv")
+print("Done")
