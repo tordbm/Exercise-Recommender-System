@@ -222,8 +222,8 @@ def recommender(data_frame, exercise_id, sim_matrix):
 # Sets the index of the input from txt file
 with open('entries.txt', 'r') as file:
   entry = file.readline()
-if entry in df['Title'].values:
-    row = df[df["Title"] == entry]
+if entry.lower() in df['Title'].str.lower().values:
+    row = df[df['Title'].str.lower() == entry]
     index = row.index
 else:
     print(f"{entry} not found in dataframe")
