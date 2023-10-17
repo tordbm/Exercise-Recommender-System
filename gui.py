@@ -41,7 +41,7 @@ class RecSysApp:
         file_path = "recommended.csv"
         try:
             df = pd.read_csv(file_path)
-            df = df.rename(columns={"Title": "Exercise Name", "similarity": "Similarity Score"})
+            df = df.rename(columns={"Title": "Exercise Name", "Similarity": "Similarity Score"})
             column_order = ["Exercise Name", "Similarity Score"]
             df = df[column_order]
             data = df.to_dict(orient='records')
