@@ -1,3 +1,4 @@
+from tkinter import ttk
 import tkinter as tk
 from threading import Thread
 from subprocess import run
@@ -8,24 +9,28 @@ class RecSysApp:
 
     def __init__(self, root):
         self.root = root
+    
+    def run_app(self):
         self.create_graphics()
         self.display_recommended()
 
     def create_graphics(self):
-        self.label = tk.Label(self.root, text="Enter your text:")
+        ttk.Style().configure("TButton", padding=6, relief="flat",
+        background="#ccc")
+        self.label = ttk.Label(self.root, text="Enter an exercise:")
         self.label.pack()
 
-        self.entry = tk.Entry(self.root)
+        self.entry = ttk.Entry(self.root)
         self.entry.pack()
         self.entry.focus()
         
-        self.display = tk.Label(self.root, text="")
+        self.display = ttk.Label(self.root, text="")
         self.display.pack()
 
-        self.update_display = tk.Button(self.root, text="Submit", command=self.handle_entry)
-        self.update_display.pack()
+        self.submit_button = ttk.Button(self.root, text="Submit", command=self.handle_entry)
+        self.submit_button.pack()
 
-        self.run_button = tk.Button(self.root, text="Run recommender", command=self.start_run_rec_sys)
+        self.run_button = ttk.Button(self.root, text="Run recommender", command=self.start_run_rec_sys)
         self.run_button.pack()
     
     def display_recommended(self):
@@ -58,7 +63,7 @@ class RecSysApp:
         self.display.config(text=f"You entered: {entered}")
 
     def run_rec_sys(self):
-        self.label = tk.Label(self.root, text="Running recommendation...")
+        self.label = ttk.Label(self.root, text="Running recommendation...")
         self.label.pack()
         try:
            run(["python", "notebook_to_script.py"])
@@ -95,4 +100,5 @@ if __name__ == "__main__":
     center_window(root, 800, 650)
     root.resizable(width=False, height=False)
     app = RecSysApp(root)
+    app.run_app()
     root.mainloop()
