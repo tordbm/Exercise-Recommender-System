@@ -92,9 +92,8 @@ def center_window(root, width, height):
     y = (screen_height - height) // 2
     
     root.geometry(f"{width}x{height}+{x}+{y}")
-    
-
-if __name__ == "__main__":
+ 
+def main():
     root = tk.Tk()
     root.title('Exercise Recommender System')
     center_window(root, 600, 500)
@@ -102,3 +101,6 @@ if __name__ == "__main__":
     app = RecSysApp(root)
     app.run_app()
     root.mainloop()
+
+if __name__ == "__main__":
+    main()
