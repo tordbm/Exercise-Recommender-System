@@ -5,8 +5,8 @@ from subprocess import run
 from tabulate import tabulate
 import pandas as pd
 
-WINDOW_WIDTH = 600
-WINDOW_HEIGHT = 500
+WINDOW_WIDTH = 500
+WINDOW_HEIGHT = 430
 
 class RecSysApp:
 
@@ -29,9 +29,6 @@ class RecSysApp:
         
         self.display = ttk.Label(self.root, text="")
         self.display.pack()
-
-        self.submit_button = ttk.Button(self.root, text="Submit", command=self.handle_entry)
-        self.submit_button.pack()
 
         self.run_button = ttk.Button(self.root, text="Run recommender", command=self.start_run_rec_sys)
         self.run_button.pack()
@@ -66,6 +63,7 @@ class RecSysApp:
         self.display.config(text=f"You entered: {entered}")
 
     def run_rec_sys(self):
+        self.handle_entry()
         self.label = ttk.Label(self.root, text="Running recommendation...")
         self.label.pack()
         try:
@@ -82,7 +80,7 @@ class RecSysApp:
         if self.entry.get() == '':
             self.text.config(state="normal") 
             self.text.delete(1.0, tk.END)
-            self.text.insert(tk.END, "%sPlease enter an exercise" % (" "*((WINDOW_WIDTH//10)//2)))
+            self.text.insert(tk.END, "%sPlease enter an exercise" % (" "*(((WINDOW_WIDTH//10)//2)-2)))
             self.text.config(state="disabled")
             return
         Thread(target=self.run_rec_sys).start()
