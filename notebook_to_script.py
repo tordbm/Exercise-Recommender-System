@@ -3,11 +3,11 @@ import pandas as pd
 import numpy as np
 from copy import deepcopy
 from sklearn.model_selection import train_test_split
-from sklearn.neighbors import KNeighborsRegressor
 from sklearn.model_selection import GridSearchCV
+from sklearn.neighbors import KNeighborsRegressor
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import linear_kernel
 
 # Importing the dataset
@@ -98,7 +98,7 @@ df = df.drop('Level', axis=1)
 count = CountVectorizer()
 count_matrix = count.fit_transform(df.loc[:,"Merged"])
 
-liste = count_matrix.toarray()
+# liste = count_matrix.toarray()
 
 # Cosine similarity
 sim_matrix = cosine_similarity(count_matrix, count_matrix)
@@ -107,13 +107,6 @@ sim_matrix = cosine_similarity(count_matrix, count_matrix)
 # This makes the previous indexes invalid
 # "drop" avoids adding the old index as a column
 df = df.reset_index(drop = False)
-
-def recommender(data_frame, exercise_id, sim_matrix):
-    sim_df = pd.DataFrame(sim_matrix[exercise_id],
-                         columns=["Similarity"])
-    exercise_titles = data_frame.loc[:, "Title"]
-    exercise_rec = pd.concat([sim_df, exercise_titles], axis = 1)
-    return exercise_rec
 
 # Sets the index of the input from txt file
 with open('entries.txt', 'r') as file:
@@ -126,7 +119,14 @@ else:
     df_empty = pd.DataFrame()
     df_empty.to_csv('recommended.csv', index=False)
     quit()
-    
+
+def recommender(data_frame, exercise_id, sim_matrix):
+    sim_df = pd.DataFrame(sim_matrix[exercise_id],
+                         columns=["Similarity"])
+    exercise_titles = data_frame.loc[:, "Title"]
+    exercise_rec = pd.concat([sim_df, exercise_titles], axis = 1)
+    return exercise_rec
+
 df_by_cat = recommender(df, index[0], sim_matrix)
 
 tfidf = TfidfVectorizer(stop_words="english")
