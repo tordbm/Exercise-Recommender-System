@@ -97,7 +97,7 @@ def center_window(root, width, height):
 if __name__ == "__main__":
     root = tk.Tk()
     root.title('Exercise Recommender System')
-    center_window(root, 800, 650)
+    center_window(root, 600, 500)
     root.resizable(width=False, height=False)
     app = RecSysApp(root)
     app.run_app()
