@@ -5,6 +5,9 @@ from subprocess import run
 from tabulate import tabulate
 import pandas as pd
 
+WINDOW_WIDTH = 600
+WINDOW_HEIGHT = 500
+
 class RecSysApp:
 
     def __init__(self, root):
@@ -79,7 +82,7 @@ class RecSysApp:
         if self.entry.get() == '':
             self.text.config(state="normal") 
             self.text.delete(1.0, tk.END)
-            self.text.insert(tk.END, "%sPlease enter an exercise" % (" "*45))
+            self.text.insert(tk.END, "%sPlease enter an exercise" % (" "*((WINDOW_WIDTH//10)//2)))
             self.text.config(state="disabled")
             return
         Thread(target=self.run_rec_sys).start()
@@ -92,13 +95,15 @@ def center_window(root, width, height):
     y = (screen_height - height) // 2
     
     root.geometry(f"{width}x{height}+{x}+{y}")
-    
-
-if __name__ == "__main__":
+ 
+def main():
     root = tk.Tk()
     root.title('Exercise Recommender System')
-    center_window(root, 600, 500)
+    center_window(root, WINDOW_WIDTH, WINDOW_HEIGHT)
     root.resizable(width=False, height=False)
     app = RecSysApp(root)
     app.run_app()
     root.mainloop()
+
+if __name__ == "__main__":
+    main()
