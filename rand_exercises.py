@@ -7,7 +7,7 @@ df.columns = ['Index', 'Title']
 exercises = set()
 while len(exercises) < 20:
     random = rand.randint(0, 119)
-    exercises.add(df.loc[random]['Title'])
+    exercises.add(df.loc[random]['Title'] + " :")
     
 for i in exercises:
     print(i)
