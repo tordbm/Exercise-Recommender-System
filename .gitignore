@@ -6,6 +6,7 @@ __pycache__/
 # local files
 entries.txt
 recommended.csv
+usr_recommended.csv
 
 # C extensions
 *.so
